@@ -1,0 +1,1737 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?z+rPuL3iy7UgU1RMIMXF0PIoU29ydCkgLSBDKysgUHJvZ3JhbW1lcidzIENvb2tib29rIC0gQysrsqm/zQ==?=
+Date: Date: Mon, 22 Oct 2018 23:23:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_3530709186.169"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_3530709186.169
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_1176903062.724"
+
+
+------=_Next_Part_1176903062.724
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_1176903062.724
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head id=3D"Head">=0D=0A<meta http-equiv=3D"=
+Content-Type" content=3D"text/html; charset=3Dutf-8">=0A<title>=E8=
+=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) -=20=
+C++ Programmer's Cookbook - C++=E5=8D=9A=E5=AE=A2</title><meta id=
+=3D"metaKeywords" name=3D"keywords" content=3D"=E8=AF=A6=E7=BB=86=
+=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) "><link type=3D"t=
+ext/css" rel=3D"stylesheet" href=3D"common.css"><link id=3D"MainC=
+ss" type=3D"text/css" rel=3D"stylesheet" href=3D"style.css"><link=
+ id=3D"RSSLink" title=3D"RSS" type=3D"application/rss+xml" rel=3D=
+"alternate" href=3D"http://www.cppblog.com/mzty/rss.aspx"><link r=
+el=3D"preload" href=3D"https://adservice.google.com/adsid/integra=
+tor.sync.js?domain=3Dwww.cppblog.com" as=3D"script"></head>=0A<bo=
+dy>=0A    <form name=3D"Form1" method=3D"post" action=3D"1770.htm=
+l" id=3D"Form1">=0A<div>=0A<input type=3D"hidden" name=3D"__EVENT=
+TARGET" id=3D"__EVENTTARGET" value=3D"">=0A<input type=3D"hidden"=
+ name=3D"__EVENTARGUMENT" id=3D"__EVENTARGUMENT" value=3D"">=0A<i=
+nput type=3D"hidden" name=3D"__VIEWSTATE" id=3D"=0A__VIEWSTATE" v=
+alue=3D"">=0A</div>=0A=0A=0A=0A=0A=0A=0A=0A												=0A=0A=0A=20=
+       =0A<h1><a id=3D"Header1_HeaderTitle" class=3D"headermainti=
+tle" href=3D"http://www.cppblog.com/mzty/">C++ Programmer's Cookb=
+ook</a></h1>=0A<p id=3D"tagline"><a href=3D"http://www.cppblog.co=
+m/mzty/archive/2007/03/02/19109.html"><font size=3D"3">{C++ =E5=9F=
+=BA=E7=A1=80}<font></font></font></a><font size=3D"3"><font>=0A=0A=
+<a href=3D"http://www.cppblog.com/mzty/archive/2007/08/13/29922.h=
+tml"><font size=3D"3">{C++ =E9=AB=98=E7=BA=A7}<font></font></font=
+></a><font size=3D"3"><font>=0A=0A<a href=3D"http://www.cppblog.c=
+om/mzty/archive/2007/04/16/22064.html"><font size=3D"3">{C#=E7=95=
+=8C=E9=9D=A2=EF=BC=8CC++=E6=A0=B8=E5=BF=83=E7=AE=97=E6=B3=95}<fon=
+t></font></font></a><font size=3D"3"><font>=0A=0A<a href=3D"http:=
+//www.cppblog.com/mzty/archive/2007/03/04/19163.html"><font size=3D=
+"3">{=E8=AE=BE=E8=AE=A1=E6=A8=A1=E5=BC=8F}<font></font></font></a=
+><font size=3D"3"><font>=0A=0A<a href=3D"http://www.cppblog.com/m=
+zty/archive/2005/12/15/&#10;http://www.cppblog.com/mzty/archive/2=
+007/03/04/19167.html"><font size=3D"3">{C#=E5=9F=BA=E7=A1=80}<fon=
+t></font></font></a><font size=3D"3"><font>=0A=0A=0A=0A=0A=0A</fo=
+nt></font></font></font></font></font></font></font></font></font=
+></p><font size=3D"3"><font><font size=3D"3"><font><font size=3D"=
+3"><font>=0A			<div id=3D"main">=0A				=0A					=0A	<div class=3D"=
+post">=0A		<h2>=0A			<a id=3D"viewpost1_TitleUrl" href=3D"http://=
+www.cppblog.com/mzty/archive/2005/12/15/1770.html">=E8=AF=A6=E7=BB=
+=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) </a>=0A		</h2>=
+=0A		<div class=3D"postText"><h2><a name=3D"STL_Sort"></a><a name=
+=3D"_STL_Sort_"></a>=E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=
+=92=E5=BA=8F(Sort) </h2>=E4=BD=9C=E8=80=85<a class=3D"twikiLink"=20=
+href=3D"http://www.stlchina.org/twiki/bin/view.pl/Main/WinterWen"=
+>Winter</a> =0A<div class=3D"twikiToc">=0A<ul>=0A<li><a href=3D"h=
+ttp://www.stlchina.org/twiki/bin/view.pl/Main/STLSortAlgorithms#S=
+TL_Sort">=E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=
+=8F(Sort)</a> =0A<ul>=0A<li><a href=3D"http://www.stlchina.org/tw=
+iki/bin/view.pl/Main/STLSortAlgorithms#0_STL">0 =E5=89=8D=E8=A8=80=
+: STL=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=E4=BD=A0=E5=BF=85=E9=A1=
+=BB=E6=8E=8C=E6=8F=A1</a> =0A</li><li><a href=3D"http://www.stlch=
+ina.org/twiki/bin/view.pl/Main/STLSortAlgorithms#1_STL_Sort">1 ST=
+L=E6=8F=90=E4=BE=9B=E7=9A=84Sort =E7=AE=97=E6=B3=95</a> =0A<ul>=0A=
+<li><a href=3D"http://www.stlchina.org/twiki/bin/view.pl/Main/STL=
+SortAlgorithms#1_1_sort">1.1 =E6=89=80=E6=9C=89sort=E7=AE=97=E6=B3=
+=95=E4=BB=8B=E7=BB=8D</a> =0A</li><li><a href=3D"http://www.stlch=
+ina.org/twiki/bin/view.pl/Main/STLSortAlgorithms#1_2_sort">1.2 so=
+rt =E4=B8=AD=E7=9A=84=E6=AF=94=E8=BE=83=E5=87=BD=E6=95=B0</a> =0A=
+</li><li><a href=3D"http://www.stlchina.org/twiki/bin/view.pl/Mai=
+n/STLSortAlgorithms#1_3_sort">1.3 sort =E7=9A=84=E7=A8=B3=E5=AE=9A=
+=E6=80=A7</a> =0A</li><li><a href=3D"http://www.stlchina.org/twik=
+i/bin/view.pl/Main/STLSortAlgorithms#1_4">1.4 =E5=85=A8=E6=8E=92=E5=
+=BA=8F</a> =0A</li><li><a href=3D"http://www.stlchina.org/twiki/b=
+in/view.pl/Main/STLSortAlgorithms#1_5">1.5 =E5=B1=80=E9=83=A8=E6=8E=
+=92=E5=BA=8F</a> =0A</li><li><a href=3D"http://www.stlchina.org/t=
+wiki/bin/view.pl/Main/STLSortAlgorithms#1_6_nth_element">1.6 nth_=
+element =E6=8C=87=E5=AE=9A=E5=85=83=E7=B4=A0=E6=8E=92=E5=BA=8F</a=
+> =0A</li><li><a href=3D"http://www.stlchina.org/twiki/bin/view.p=
+l/Main/STLSortAlgorithms#1_7_partition_stable_partition">1.7 part=
+ition =E5=92=8Cstable_partition</a> </li></ul>=0A</li><li><a href=
+=3D"http://www.stlchina.org/twiki/bin/view.pl/Main/STLSortAlgorit=
+hms#2_Sort">2 Sort =E5=92=8C=E5=AE=B9=E5=99=A8</a> =0A</li><li><a=
+ href=3D"http://www.stlchina.org/twiki/bin/view.pl/Main/STLSortAl=
+gorithms#3">3 =E9=80=89=E6=8B=A9=E5=90=88=E9=80=82=E7=9A=84=E6=8E=
+=92=E5=BA=8F=E5=87=BD=E6=95=B0</a> =0A</li><li><a href=3D"http://=
+www.stlchina.org/twiki/bin/view.pl/Main/STLSortAlgorithms#4">4 =E5=
+=B0=8F=E7=BB=93</a> =0A</li><li><a href=3D"http://www.stlchina.or=
+g/twiki/bin/view.pl/Main/STLSortAlgorithms#5">5 =E5=8F=82=E8=80=83=
+=E6=96=87=E6=A1=A3</a> </li></ul></li></ul></div><font color=3D"#=
+0000ff"><em>=E4=B8=80=E5=88=87=E5=A4=8D=E6=9D=82=E7=9A=84=E6=8E=92=
+=E5=BA=8F=E6=93=8D=E4=BD=9C=EF=BC=8C=E9=83=BD=E5=8F=AF=E4=BB=A5=E9=
+=80=9A=E8=BF=87STL=E6=96=B9=E4=BE=BF=E5=AE=9E=E7=8E=B0</em> ! </f=
+ont>=0A<h3><a name=3D"0_STL"></a><a name=3D"0_STL_"></a>0 =E5=89=8D=
+=E8=A8=80: STL=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=E4=BD=A0=E5=BF=
+=85=E9=A1=BB=E6=8E=8C=E6=8F=A1 </h3>=0A<hr>=0A=E5=AF=B9=E4=BA=8E=E7=
+=A8=8B=E5=BA=8F=E5=91=98=E6=9D=A5=E8=AF=B4=EF=BC=8C=E6=95=B0=E6=8D=
+=AE=E7=BB=93=E6=9E=84=E6=98=AF=E5=BF=85=E4=BF=AE=E7=9A=84=E4=B8=80=
+=E9=97=A8=E8=AF=BE=E3=80=82=E4=BB=8E=E6=9F=A5=E6=89=BE=E5=88=B0=E6=
+=8E=92=E5=BA=8F=EF=BC=8C=E4=BB=8E=E9=93=BE=E8=A1=A8=E5=88=B0=E4=BA=
+=8C=E5=8F=89=E6=A0=91=EF=BC=8C=E5=87=A0=E4=B9=8E=E6=89=80=E6=9C=89=
+=E7=9A=84=E7=AE=97=E6=B3=95=E5=92=8C=E5=8E=9F=E7=90=86=E9=83=BD=E9=
+=9C=80=E8=A6=81=E7=90=86=E8=A7=A3=EF=BC=8C=E7=90=86=E8=A7=A3=E4=B8=
+=8D=E4=BA=86=E4=B9=9F=E8=A6=81=E6=AD=BB=E8=AE=B0=E7=A1=AC=E8=83=8C=
+=E4=B8=8B=E6=9D=A5=E3=80=82=E5=B9=B8=E8=BF=90=E7=9A=84=E6=98=AF=E8=
+=BF=99=E4=BA=9B=E7=90=86=E8=AE=BA=E9=83=BD=E5=B7=B2=E7=BB=8F=E6=AF=
+=94=E8=BE=83=E6=88=90=E7=86=9F=EF=BC=8C=E7=AE=97=E6=B3=95=E4=B9=9F=
+=E5=9F=BA=E6=9C=AC=E5=9B=BA=E5=AE=9A=E4=B8=8B=E6=9D=A5=EF=BC=8C=E4=
+=B8=8D=E9=9C=80=E8=A6=81=E4=BD=A0=E5=86=8D=E5=8E=BB=E8=8A=B1=E8=B4=
+=B9=E5=BF=83=E6=80=9D=E5=8E=BB=E8=80=83=E8=99=91=E5=85=B6=E7=AE=97=
+=E6=B3=95=E5=8E=9F=E7=90=86=EF=BC=8C=E4=B9=9F=E4=B8=8D=E7=94=A8=E5=
+=86=8D=E5=8E=BB=E9=AA=8C=E8=AF=81=E5=85=B6=E5=87=86=E7=A1=AE=E6=80=
+=A7=E3=80=82=E4=B8=8D=E8=BF=87=EF=BC=8C=E7=AD=89=E4=BD=A0=E5=BC=80=
+=E5=A7=8B=E5=BA=94=E7=94=A8=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=AF=AD=E8=
+=A8=80=E6=9D=A5=E5=B7=A5=E4=BD=9C=E7=9A=84=E6=97=B6=E5=80=99=EF=BC=
+=8C=E4=BD=A0=E4=BC=9A=E5=8F=91=E7=8E=B0=EF=BC=8C=E9=9D=A2=E5=AF=B9=
+=E4=B8=8D=E5=90=8C=E7=9A=84=E9=9C=80=E6=B1=82=E4=BD=A0=E9=9C=80=E8=
+=A6=81=E4=B8=80=E6=AC=A1=E5=8F=88=E4=B8=80=E6=AC=A1=E5=8E=BB=E7=94=
+=A8=E4=BB=A3=E7=A0=81=E9=87=8D=E5=A4=8D=E5=AE=9E=E7=8E=B0=E8=BF=99=
+=E4=BA=9B=E5=B7=B2=E7=BB=8F=E6=88=90=E7=86=9F=E7=9A=84=E7=AE=97=E6=
+=B3=95=EF=BC=8C=E8=80=8C=E4=B8=94=E4=BC=9A=E4=B8=80=E6=AC=A1=E5=8F=
+=88=E4=B8=80=E6=AC=A1=E9=99=B7=E5=85=A5=E4=B8=80=E4=BA=9B=E7=94=B1=
+=E4=BA=8E=E8=87=AA=E5=B7=B1=E7=96=8F=E5=BF=BD=E8=80=8C=E4=BA=A7=E7=
+=94=9F=E7=9A=84bug=E4=B8=AD=E3=80=82=E8=BF=99=E6=97=B6=EF=BC=8C=E4=
+=BD=A0=E6=83=B3=E6=89=BE=E4=B8=80=E7=A7=8D=E5=B7=A5=E5=85=B7=EF=BC=
+=8C=E5=B7=B2=E7=BB=8F=E5=B8=AE=E4=BD=A0=E5=AE=9E=E7=8E=B0=E8=BF=99=
+=E4=BA=9B=E5=8A=9F=E8=83=BD=EF=BC=8C=E4=BD=A0=E6=83=B3=E6=80=8E=E4=
+=B9=88=E7=94=A8=E5=B0=B1=E6=80=8E=E4=B9=88=E7=94=A8=EF=BC=8C=E5=90=
+=8C=E6=97=B6=E4=B8=8D=E5=BD=B1=E5=93=8D=E6=80=A7=E8=83=BD=E3=80=82=
+=E4=BD=A0=E9=9C=80=E8=A6=81=E7=9A=84=E5=B0=B1=E6=98=AFSTL, =E6=A0=
+=87=E5=87=86=E6=A8=A1=E6=9D=BF=E5=BA=93=EF=BC=81 =0A<p>=E8=A5=BF=E6=
+=96=B9=E6=9C=89=E5=8F=A5=E8=B0=9A=E8=AF=AD=EF=BC=9A=E4=B8=8D=E8=A6=
+=81=E9=87=8D=E5=A4=8D=E5=8F=91=E6=98=8E=E8=BD=AE=E5=AD=90=EF=BC=81=
+ =0A</p><p>STL=E5=87=A0=E4=B9=8E=E5=B0=81=E8=A3=85=E4=BA=86=E6=89=
+=80=E6=9C=89=E7=9A=84=E6=95=B0=E6=8D=AE=E7=BB=93=E6=9E=84=E4=B8=AD=
+=E7=9A=84=E7=AE=97=E6=B3=95=EF=BC=8C=E4=BB=8E=E9=93=BE=E8=A1=A8=E5=
+=88=B0=E9=98=9F=E5=88=97=EF=BC=8C=E4=BB=8E=E5=90=91=E9=87=8F=E5=88=
+=B0=E5=A0=86=E6=A0=88=EF=BC=8C=E5=AF=B9hash=E5=88=B0=E4=BA=8C=E5=8F=
+=89=E6=A0=91=EF=BC=8C=E4=BB=8E=E6=90=9C=E7=B4=A2=E5=88=B0=E6=8E=92=
+=E5=BA=8F=EF=BC=8C=E4=BB=8E=E5=A2=9E=E5=8A=A0=E5=88=B0=E5=88=A0=E9=
+=99=A4......=E5=8F=AF=E4=BB=A5=E8=AF=B4=EF=BC=8C=E5=A6=82=E6=9E=9C=
+=E4=BD=A0=E7=90=86=E8=A7=A3=E4=BA=86STL=EF=BC=8C=E4=BD=A0=E4=BC=9A=
+=E5=8F=91=E7=8E=B0=E4=BD=A0=E5=B7=B2=E4=B8=8D=E7=94=A8=E6=8B=98=E6=
+=B3=A5=E4=BA=8E=E7=AE=97=E6=B3=95=E6=9C=AC=E8=BA=AB=EF=BC=8C=E4=BB=
+=8E=E8=80=8C=E7=AB=99=E5=9C=A8=E5=B7=A8=E4=BA=BA=E7=9A=84=E8=82=A9=
+=E8=86=80=E4=B8=8A=E5=8E=BB=E8=80=83=E8=99=91=E6=9B=B4=E9=AB=98=E7=
+=BA=A7=E7=9A=84=E5=BA=94=E7=94=A8=E3=80=82 =0A</p><p>=E6=8E=92=E5=
+=BA=8F=E6=98=AF=E6=9C=80=E5=B9=BF=E6=B3=9B=E7=9A=84=E7=AE=97=E6=B3=
+=95=E4=B9=8B=E4=B8=80=EF=BC=8C=E6=9C=AC=E6=96=87=E8=AF=A6=E7=BB=86=
+=E4=BB=8B=E7=BB=8D=E4=BA=86STL=E4=B8=AD=E4=B8=8D=E5=90=8C=E6=8E=92=
+=E5=BA=8F=E7=AE=97=E6=B3=95=E7=9A=84=E7=94=A8=E6=B3=95=E5=92=8C=E5=
+=8C=BA=E5=88=AB=E3=80=82 =0A</p><h3><a name=3D"1_STL_Sort"></a><a=
+ name=3D"1_STL_Sort_"></a>1 STL=E6=8F=90=E4=BE=9B=E7=9A=84Sort =E7=
+=AE=97=E6=B3=95 </h3>=0A<hr>=0AC++=E4=B9=8B=E6=89=80=E4=BB=A5=E5=BE=
+=97=E5=88=B0=E8=BF=99=E4=B9=88=E5=A4=9A=E4=BA=BA=E7=9A=84=E5=96=9C=
+=E6=AC=A2=EF=BC=8C=E6=98=AF=E5=9B=A0=E4=B8=BA=E5=AE=83=E6=97=A2=E5=
+=85=B7=E6=9C=89=E9=9D=A2=E5=90=91=E5=AF=B9=E8=B1=A1=E7=9A=84=E6=A6=
+=82=E5=BF=B5=EF=BC=8C=E5=8F=88=E4=BF=9D=E6=8C=81=E4=BA=86C=E8=AF=AD=
+=E8=A8=80=E9=AB=98=E6=95=88=E7=9A=84=E7=89=B9=E7=82=B9=E3=80=82ST=
+L =E6=8E=92=E5=BA=8F=E7=AE=97=E6=B3=95=E5=90=8C=E6=A0=B7=E9=9C=80=
+=E8=A6=81=E4=BF=9D=E6=8C=81=E9=AB=98=E6=95=88=E3=80=82=E5=9B=A0=E6=
+=AD=A4=EF=BC=8C=E5=AF=B9=E4=BA=8E=E4=B8=8D=E5=90=8C=E7=9A=84=E9=9C=
+=80=E6=B1=82=EF=BC=8CSTL=E6=8F=90=E4=BE=9B=E7=9A=84=E4=B8=8D=E5=90=
+=8C=E7=9A=84=E5=87=BD=E6=95=B0=EF=BC=8C=E4=B8=8D=E5=90=8C=E7=9A=84=
+=E5=87=BD=E6=95=B0=EF=BC=8C=E5=AE=9E=E7=8E=B0=E7=9A=84=E7=AE=97=E6=
+=B3=95=E5=8F=88=E4=B8=8D=E5=B0=BD=E7=9B=B8=E5=90=8C=E3=80=82 =0A<=
+h4><a name=3D"1_1_sort"></a><a name=3D"1_1_sort_"></a>1.1 =E6=89=80=
+=E6=9C=89sort=E7=AE=97=E6=B3=95=E4=BB=8B=E7=BB=8D </h4>=E6=89=80=E6=
+=9C=89=E7=9A=84sort=E7=AE=97=E6=B3=95=E7=9A=84=E5=8F=82=E6=95=B0=E9=
+=83=BD=E9=9C=80=E8=A6=81=E8=BE=93=E5=85=A5=E4=B8=80=E4=B8=AA=E8=8C=
+=83=E5=9B=B4=EF=BC=8C[begin, end)=E3=80=82=E8=BF=99=E9=87=8C=E4=BD=
+=BF=E7=94=A8=E7=9A=84=E8=BF=AD=E4=BB=A3=E5=99=A8(iterator)=E9=83=BD=
+=E9=9C=80=E6=98=AF=E9=9A=8F=E6=9C=BA=E8=BF=AD=E4=BB=A3=E5=99=A8(R=
+adomAccessIterator), =E4=B9=9F=E5=B0=B1=E6=98=AF=E8=AF=B4=E5=8F=AF=
+=E4=BB=A5=E9=9A=8F=E6=9C=BA=E8=AE=BF=E9=97=AE=E7=9A=84=E8=BF=AD=E4=
+=BB=A3=E5=99=A8=EF=BC=8C=E5=A6=82=EF=BC=9Ait+n=E4=BB=80=E4=B9=88=E7=
+=9A=84=E3=80=82=EF=BC=88partition =E5=92=8Cstable_partition =E9=99=
+=A4=E5=A4=96=EF=BC=89 =0A<p>=E5=A6=82=E6=9E=9C=E4=BD=A0=E9=9C=80=E8=
+=A6=81=E8=87=AA=E5=B7=B1=E5=AE=9A=E4=B9=89=E6=AF=94=E8=BE=83=E5=87=
+=BD=E6=95=B0=EF=BC=8C=E4=BD=A0=E5=8F=AF=E4=BB=A5=E6=8A=8A=E4=BD=A0=
+=E5=AE=9A=E4=B9=89=E5=A5=BD=E7=9A=84=E4=BB=BF=E5=87=BD=E6=95=B0(f=
+unctor)=E4=BD=9C=E4=B8=BA=E5=8F=82=E6=95=B0=E4=BC=A0=E5=85=A5=E3=80=
+=82=E6=AF=8F=E7=A7=8D=E7=AE=97=E6=B3=95=E9=83=BD=E6=94=AF=E6=8C=81=
+=E4=BC=A0=E5=85=A5=E6=AF=94=E8=BE=83=E5=87=BD=E6=95=B0=E3=80=82=E4=
+=BB=A5=E4=B8=8B=E6=98=AF=E6=89=80=E6=9C=89STL sort=E7=AE=97=E6=B3=
+=95=E5=87=BD=E6=95=B0=E7=9A=84=E5=90=8D=E5=AD=97=E5=88=97=E8=A1=A8=
+: =0A<table cellspacing=3D"1" cellpadding=3D"0" border=3D"1">=0A<=
+tbody>=0A<tr>=0A<th class=3D"twikiFirstCol" bgcolor=3D"#99cccc"><=
+a title=3D"Sort by this column" href=3D"http://www.stlchina.org/t=
+wiki/bin/view.pl/Main/STLSortAlgorithms?sortcol=3D0&table=3D1&up=3D=
+0#sorted_table">=E5=87=BD=E6=95=B0=E5=90=8D</a> </th>=0A<th bgcol=
+or=3D"#99cccc"><a title=3D"Sort by this column" href=3D"http://ww=
+w.stlchina.org/twiki/bin/view.pl/Main/STLSortAlgorithms?sortcol=3D=
+1&table=3D1&up=3D0#sorted_table">=E5=8A=9F=E8=83=BD=E6=8F=8F=E8=BF=
+=B0</a> </th></tr>=0A<tr>=0A<td class=3D"twikiFirstCol" bgcolor=3D=
+"#ffffff">sort </td>=0A<td bgcolor=3D"#ffffff">=E5=AF=B9=E7=BB=99=
+=E5=AE=9A=E5=8C=BA=E9=97=B4=E6=89=80=E6=9C=89=E5=85=83=E7=B4=A0=E8=
+=BF=9B=E8=A1=8C=E6=8E=92=E5=BA=8F </td></tr>=0A<tr>=0A<td class=3D=
+"twikiFirstCol" bgcolor=3D"#ffffcc">stable_sort </td>=0A<td bgcol=
+or=3D"#ffffcc">=E5=AF=B9=E7=BB=99=E5=AE=9A=E5=8C=BA=E9=97=B4=E6=89=
+=80=E6=9C=89=E5=85=83=E7=B4=A0=E8=BF=9B=E8=A1=8C=E7=A8=B3=E5=AE=9A=
+=E6=8E=92=E5=BA=8F </td></tr>=0A<tr>=0A<td class=3D"twikiFirstCol=
+" bgcolor=3D"#ffffff">partial_sort </td>=0A<td bgcolor=3D"#ffffff=
+">=E5=AF=B9=E7=BB=99=E5=AE=9A=E5=8C=BA=E9=97=B4=E6=89=80=E6=9C=89=
+=E5=85=83=E7=B4=A0=E9=83=A8=E5=88=86=E6=8E=92=E5=BA=8F </td></tr>=
+=0A<tr>=0A<td class=3D"twikiFirstCol" bgcolor=3D"#ffffcc">partial=
+_sort_copy </td>=0A<td bgcolor=3D"#ffffcc">=E5=AF=B9=E7=BB=99=E5=AE=
+=9A=E5=8C=BA=E9=97=B4=E5=A4=8D=E5=88=B6=E5=B9=B6=E6=8E=92=E5=BA=8F=
+ </td></tr>=0A<tr>=0A<td class=3D"twikiFirstCol" bgcolor=3D"#ffff=
+ff">nth_element </td>=0A<td bgcolor=3D"#ffffff">=E6=89=BE=E5=87=BA=
+=E7=BB=99=E5=AE=9A=E5=8C=BA=E9=97=B4=E7=9A=84=E6=9F=90=E4=B8=AA=E4=
+=BD=8D=E7=BD=AE=E5=AF=B9=E5=BA=94=E7=9A=84=E5=85=83=E7=B4=A0 </td=
+></tr>=0A<tr>=0A<td class=3D"twikiFirstCol" bgcolor=3D"#ffffcc">i=
+s_sorted </td>=0A<td bgcolor=3D"#ffffcc">=E5=88=A4=E6=96=AD=E4=B8=
+=80=E4=B8=AA=E5=8C=BA=E9=97=B4=E6=98=AF=E5=90=A6=E5=B7=B2=E7=BB=8F=
+=E6=8E=92=E5=A5=BD=E5=BA=8F </td></tr>=0A<tr>=0A<td class=3D"twik=
+iFirstCol" bgcolor=3D"#ffffff">partition </td>=0A<td bgcolor=3D"#=
+ffffff">=E4=BD=BF=E5=BE=97=E7=AC=A6=E5=90=88=E6=9F=90=E4=B8=AA=E6=
+=9D=A1=E4=BB=B6=E7=9A=84=E5=85=83=E7=B4=A0=E6=94=BE=E5=9C=A8=E5=89=
+=8D=E9=9D=A2 </td></tr>=0A<tr>=0A<td class=3D"twikiFirstCol" bgco=
+lor=3D"#ffffcc">stable_partition </td>=0A<td bgcolor=3D"#ffffcc">=
+=E7=9B=B8=E5=AF=B9=E7=A8=B3=E5=AE=9A=E7=9A=84=E4=BD=BF=E5=BE=97=E7=
+=AC=A6=E5=90=88=E6=9F=90=E4=B8=AA=E6=9D=A1=E4=BB=B6=E7=9A=84=E5=85=
+=83=E7=B4=A0=E6=94=BE=E5=9C=A8=E5=89=8D=E9=9D=A2 </td></tr></tbod=
+y></table>=E5=85=B6=E4=B8=ADnth_element =E6=98=AF=E6=9C=80=E4=B8=8D=
+=E6=98=93=E7=90=86=E8=A7=A3=E7=9A=84=EF=BC=8C=E5=AE=9E=E9=99=85=E4=
+=B8=8A=EF=BC=8C=E8=BF=99=E4=B8=AA=E5=87=BD=E6=95=B0=E6=98=AF=E7=94=
+=A8=E6=9D=A5=E6=89=BE=E5=87=BA=E7=AC=AC=E5=87=A0=E4=B8=AA=E3=80=82=
+=E4=BE=8B=E5=A6=82=EF=BC=9A=E6=89=BE=E5=87=BA=E5=8C=85=E5=90=AB7=E4=
+=B8=AA=E5=85=83=E7=B4=A0=E7=9A=84=E6=95=B0=E7=BB=84=E4=B8=AD=E6=8E=
+=92=E5=9C=A8=E4=B8=AD=E9=97=B4=E9=82=A3=E4=B8=AA=E6=95=B0=E7=9A=84=
+=E5=80=BC=EF=BC=8C=E6=AD=A4=E6=97=B6=EF=BC=8C=E6=88=91=E5=8F=AF=E8=
+=83=BD=E4=B8=8D=E5=85=B3=E5=BF=83=E5=89=8D=E9=9D=A2=EF=BC=8C=E4=B9=
+=9F=E4=B8=8D=E5=85=B3=E5=BF=83=E5=90=8E=E9=9D=A2=EF=BC=8C=E6=88=91=
+=E5=8F=AA=E5=85=B3=E5=BF=83=E6=8E=92=E5=9C=A8=E7=AC=AC=E5=9B=9B=E4=
+=BD=8D=E7=9A=84=E5=85=83=E7=B4=A0=E5=80=BC=E6=98=AF=E5=A4=9A=E5=B0=
+=91=E3=80=82 =0A</p><h4><a name=3D"1_2_sort"></a><a name=3D"1_2_s=
+ort_"></a>1.2 sort =E4=B8=AD=E7=9A=84=E6=AF=94=E8=BE=83=E5=87=BD=E6=
+=95=B0 </h4>=E5=BD=93=E4=BD=A0=E9=9C=80=E8=A6=81=E6=8C=89=E7=85=A7=
+=E6=9F=90=E7=A7=8D=E7=89=B9=E5=AE=9A=E6=96=B9=E5=BC=8F=E8=BF=9B=E8=
+=A1=8C=E6=8E=92=E5=BA=8F=E6=97=B6=EF=BC=8C=E4=BD=A0=E9=9C=80=E8=A6=
+=81=E7=BB=99sort=E6=8C=87=E5=AE=9A=E6=AF=94=E8=BE=83=E5=87=BD=E6=95=
+=B0=EF=BC=8C=E5=90=A6=E5=88=99=E7=A8=8B=E5=BA=8F=E4=BC=9A=E8=87=AA=
+=E5=8A=A8=E6=8F=90=E4=BE=9B=E7=BB=99=E4=BD=A0=E4=B8=80=E4=B8=AA=E6=
+=AF=94=E8=BE=83=E5=87=BD=E6=95=B0=E3=80=82 =0A<div class=3D"fragm=
+ent"><pre>vector &lt; <font color=3D"brown">int</font> &gt; vect;=
+=0A<font color=3D"green">//...</font>=0Asort(vect.begin(), vect.e=
+nd());=0A<font color=3D"green">//=E6=AD=A4=E6=97=B6=E7=9B=B8=E5=BD=
+=93=E4=BA=8E=E8=B0=83=E7=94=A8</font>=0Asort(vect.begin(), vect.e=
+nd(), less&lt;<font color=3D"brown">int</font>&gt;() );</pre><pre=
+></pre></div>=E4=B8=8A=E8=BF=B0=E4=BE=8B=E5=AD=90=E4=B8=AD=E7=B3=BB=
+=E7=BB=9F=E8=87=AA=E5=B7=B1=E4=B8=BAsort=E6=8F=90=E4=BE=9B=E4=BA=86=
+less=E4=BB=BF=E5=87=BD=E6=95=B0=E3=80=82=E5=9C=A8STL=E4=B8=AD=E8=BF=
+=98=E6=8F=90=E4=BE=9B=E4=BA=86=E5=85=B6=E4=BB=96=E4=BB=BF=E5=87=BD=
+=E6=95=B0=EF=BC=8C=E4=BB=A5=E4=B8=8B=E6=98=AF=E4=BB=BF=E5=87=BD=E6=
+=95=B0=E5=88=97=E8=A1=A8: =0A<table cellspacing=3D"1" cellpadding=
+=3D"0" border=3D"1">=0A<tbody>=0A<tr>=0A<th class=3D"twikiFirstCo=
+l" bgcolor=3D"#99cccc"><a title=3D"Sort by this column" href=3D"h=
+ttp://www.stlchina.org/twiki/bin/view.pl/Main/STLSortAlgorithms?s=
+ortcol=3D0&table=3D2&up=3D0#sorted_table">=E5=90=8D=E7=A7=B0 </a>=
+</th>=0A<th bgcolor=3D"#99cccc"><a title=3D"Sort by this column"=20=
+href=3D"http://www.stlchina.org/twiki/bin/view.pl/Main/STLSortAlg=
+orithms?sortcol=3D1&table=3D2&up=3D0#sorted_table">=E5=8A=9F=E8=83=
+=BD=E6=8F=8F=E8=BF=B0 </a></th></tr>=0A<tr>=0A<td class=3D"twikiF=
+irstCol" bgcolor=3D"#ffffff">equal_to </td>=0A<td bgcolor=3D"#fff=
+fff">=E7=9B=B8=E7=AD=89 </td></tr>=0A<tr>=0A<td class=3D"twikiFir=
+stCol" bgcolor=3D"#ffffcc">not_equal_to </td>=0A<td bgcolor=3D"#f=
+fffcc">=E4=B8=8D=E7=9B=B8=E7=AD=89 </td></tr>=0A<tr>=0A<td class=3D=
+"twikiFirstCol" bgcolor=3D"#ffffff">less </td>=0A<td bgcolor=3D"#=
+ffffff">=E5=B0=8F=E4=BA=8E </td></tr>=0A<tr>=0A<td class=3D"twiki=
+FirstCol" bgcolor=3D"#ffffcc">greater </td>=0A<td bgcolor=3D"#fff=
+fcc">=E5=A4=A7=E4=BA=8E </td></tr>=0A<tr>=0A<td class=3D"twikiFir=
+stCol" bgcolor=3D"#ffffff">less_equal </td>=0A<td bgcolor=3D"#fff=
+fff">=E5=B0=8F=E4=BA=8E=E7=AD=89=E4=BA=8E </td></tr>=0A<tr>=0A<td=
+ class=3D"twikiFirstCol" bgcolor=3D"#ffffcc">greater_equal </td>=0A=
+<td bgcolor=3D"#ffffcc">=E5=A4=A7=E4=BA=8E=E7=AD=89=E4=BA=8E </td=
+></tr></tbody></table>=E9=9C=80=E8=A6=81=E6=B3=A8=E6=84=8F=E7=9A=84=
+=E6=98=AF=EF=BC=8C=E8=BF=99=E4=BA=9B=E5=87=BD=E6=95=B0=E4=B8=8D=E6=
+=98=AF=E9=83=BD=E8=83=BD=E9=80=82=E7=94=A8=E4=BA=8E=E4=BD=A0=E7=9A=
+=84sort=E7=AE=97=E6=B3=95=EF=BC=8C=E5=A6=82=E4=BD=95=E9=80=89=E6=8B=
+=A9=EF=BC=8C=E5=86=B3=E5=AE=9A=E4=BA=8E=E4=BD=A0=E7=9A=84=E5=BA=94=
+=E7=94=A8=E3=80=82=E5=8F=A6=E5=A4=96=EF=BC=8C=E4=B8=8D=E8=83=BD=E7=
+=9B=B4=E6=8E=A5=E5=86=99=E5=85=A5=E4=BB=BF=E5=87=BD=E6=95=B0=E7=9A=
+=84=E5=90=8D=E5=AD=97=EF=BC=8C=E8=80=8C=E6=98=AF=E8=A6=81=E5=86=99=
+=E5=85=B6=E9=87=8D=E8=BD=BD=E7=9A=84()=E5=87=BD=E6=95=B0=EF=BC=9A=
+ <pre>less&lt;int&gt;()=0Agreater&lt;int&gt;()=0A</pre>=E5=BD=93=E4=
+=BD=A0=E7=9A=84=E5=AE=B9=E5=99=A8=E4=B8=AD=E5=85=83=E7=B4=A0=E6=97=
+=B6=E4=B8=80=E4=BA=9B=E6=A0=87=E5=87=86=E7=B1=BB=E5=9E=8B=EF=BC=88=
+int float char)=E6=88=96=E8=80=85string=E6=97=B6=EF=BC=8C=E4=BD=A0=
+=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5=E4=BD=BF=E7=94=A8=E8=BF=99=E4=
+=BA=9B=E5=87=BD=E6=95=B0=E6=A8=A1=E6=9D=BF=E3=80=82=E4=BD=86=E5=A6=
+=82=E6=9E=9C=E4=BD=A0=E6=97=B6=E8=87=AA=E5=B7=B1=E5=AE=9A=E4=B9=89=
+=E7=9A=84=E7=B1=BB=E5=9E=8B=E6=88=96=E8=80=85=E4=BD=A0=E9=9C=80=E8=
+=A6=81=E6=8C=89=E7=85=A7=E5=85=B6=E4=BB=96=E6=96=B9=E5=BC=8F=E6=8E=
+=92=E5=BA=8F=EF=BC=8C=E4=BD=A0=E5=8F=AF=E4=BB=A5=E6=9C=89=E4=B8=A4=
+=E7=A7=8D=E6=96=B9=E6=B3=95=E6=9D=A5=E8=BE=BE=E5=88=B0=E6=95=88=E6=
+=9E=9C=EF=BC=9A=E4=B8=80=E7=A7=8D=E6=98=AF=E8=87=AA=E5=B7=B1=E5=86=
+=99=E6=AF=94=E8=BE=83=E5=87=BD=E6=95=B0=E3=80=82=E5=8F=A6=E4=B8=80=
+=E7=A7=8D=E6=98=AF=E9=87=8D=E8=BD=BD=E7=B1=BB=E5=9E=8B=E7=9A=84'&=
+lt;'=E6=93=8D=E4=BD=9C=E8=B5=8B=E3=80=82 =0A<div class=3D"fragmen=
+t"><pre><font color=3D"navy">#include</font> &lt;iostream&gt;=0A<=
+font color=3D"navy">#include</font> &lt;algorithm&gt;=0A<font col=
+or=3D"navy">#include</font> &lt;functional&gt;=0A<font color=3D"n=
+avy">#include</font> &lt;vector&gt;=0A<font color=3D"brown">using=
+</font> <font color=3D"brown">namespace</font> std;=0A=0A<font co=
+lor=3D"brown">class</font> myclass {=0A        <font color=3D"bro=
+wn">public</font>:=0A        myclass(<font color=3D"brown">int</f=
+ont> a, <font color=3D"brown">int</font> b):first(a), second(b){}=
+=0A        <font color=3D"brown">int</font> first;=0A        <fon=
+t color=3D"brown">int</font> second;=0A        <font color=3D"bro=
+wn">bool</font> <font color=3D"brown">operator</font> &lt; (<font=
+ color=3D"brown">const</font> myclass &amp;m)<font color=3D"brown=
+">const</font> {=0A                <font color=3D"brown">return</=
+font> first &lt; m.first;=0A        }=0A};=0A=0A<font color=3D"br=
+own">bool</font> less_second(<font color=3D"brown">const</font> m=
+yclass &amp; m1, <font color=3D"brown">const</font> myclass &amp;=
+ m2) {=0A        <font color=3D"brown">return</font> m1.second &l=
+t; m2.second;=0A}=0A=0A<font color=3D"brown">int</font> main() {=0A=
+        =0A        vector&lt; myclass &gt; vect;=0A        <font=20=
+color=3D"brown">for</font>(<font color=3D"brown">int</font> i =3D=
+ 0 ; i &lt; 10 ; i ++){=0A                myclass my(10-i, i*3);=0A=
+                vect.push_back(my);=0A        }=0A        <font c=
+olor=3D"brown">for</font>(<font color=3D"brown">int</font> i =3D=20=
+0 ; i &lt; vect.size(); i ++) =0A        cout&lt;&lt;"<font color=
+=3D"blue">(</font>"&lt;&lt;vect[i].first&lt;&lt;"<font color=3D"b=
+lue">,</font>"&lt;&lt;vect[i].second&lt;&lt;"<font color=3D"blue"=
+>)\n</font>";=0A        sort(vect.begin(), vect.end());=0A      =20=
+ cout&lt;&lt;"<font color=3D"blue">after sorted by first:</font>"=
+&lt;&lt;endl;=0A        <font color=3D"brown">for</font>(<font co=
+lor=3D"brown">int</font> i =3D 0 ; i &lt; vect.size(); i ++) =0A=20=
+       cout&lt;&lt;"<font color=3D"blue">(</font>"&lt;&lt;vect[i]=
+.first&lt;&lt;"<font color=3D"blue">,</font>"&lt;&lt;vect[i].seco=
+nd&lt;&lt;"<font color=3D"blue">)\n</font>";=0A        cout&lt;&l=
+t;"<font color=3D"blue">after sorted by second:</font>"&lt;&lt;en=
+dl;=0A        sort(vect.begin(), vect.end(), less_second);=0A   =20=
+    <font color=3D"brown">for</font>(<font color=3D"brown">int</f=
+ont> i =3D 0 ; i &lt; vect.size(); i ++) =0A        cout&lt;&lt;"=
+<font color=3D"blue">(</font>"&lt;&lt;vect[i].first&lt;&lt;"<font=
+ color=3D"blue">,</font>"&lt;&lt;vect[i].second&lt;&lt;"<font col=
+or=3D"blue">)\n</font>";=0A        =0A        <font color=3D"brow=
+n">return</font> 0 ;=0A}</pre><pre></pre></div>=E7=9F=A5=E9=81=93=
+=E5=85=B6=E8=BE=93=E5=87=BA=E7=BB=93=E6=9E=9C=E6=98=AF=E4=BB=80=E4=
+=B9=88=E4=BA=86=E5=90=A7=EF=BC=9A <pre>(10,0)=0A(9,3)=0A(8,6)=0A(=
+7,9)=0A(6,12)=0A(5,15)=0A(4,18)=0A(3,21)=0A(2,24)=0A(1,27)=0Aafte=
+r sorted by first:=0A(1,27)=0A(2,24)=0A(3,21)=0A(4,18)=0A(5,15)=0A=
+(6,12)=0A(7,9)=0A(8,6)=0A(9,3)=0A(10,0)=0Aafter sorted by second:=
+=0A(10,0)=0A(9,3)=0A(8,6)=0A(7,9)=0A(6,12)=0A(5,15)=0A(4,18)=0A(3=
+,21)=0A(2,24)=0A(1,27)=0A</pre>=0A<h4><a name=3D"1_3_sort"></a><a=
+ name=3D"1_3_sort_"></a>1.3 sort =E7=9A=84=E7=A8=B3=E5=AE=9A=E6=80=
+=A7 </h4>=E4=BD=A0=E5=8F=91=E7=8E=B0=E6=9C=89sort=E5=92=8Cstable_=
+sort=EF=BC=8C=E8=BF=98=E6=9C=89 partition =E5=92=8Cstable_partiti=
+on=EF=BC=8C =E6=84=9F=E5=88=B0=E5=A5=87=E6=80=AA=E5=90=A7=E3=80=82=
+=E5=85=B6=E4=B8=AD=E7=9A=84=E5=8C=BA=E5=88=AB=E6=98=AF=EF=BC=8C=E5=
+=B8=A6=E6=9C=89stable=E7=9A=84=E5=87=BD=E6=95=B0=E5=8F=AF=E4=BF=9D=
+=E8=AF=81=E7=9B=B8=E7=AD=89=E5=85=83=E7=B4=A0=E7=9A=84=E5=8E=9F=E6=
+=9C=AC=E7=9B=B8=E5=AF=B9=E6=AC=A1=E5=BA=8F=E5=9C=A8=E6=8E=92=E5=BA=
+=8F=E5=90=8E=E4=BF=9D=E6=8C=81=E4=B8=8D=E5=8F=98=E3=80=82=E6=88=96=
+=E8=AE=B8=E4=BD=A0=E4=BC=9A=E9=97=AE=EF=BC=8C=E6=97=A2=E7=84=B6=E7=
+=9B=B8=E7=AD=89=EF=BC=8C=E4=BD=A0=E8=BF=98=E7=AE=A1=E4=BB=96=E7=9B=
+=B8=E5=AF=B9=E4=BD=8D=E7=BD=AE=E5=91=A2=EF=BC=8C=E4=B9=9F=E5=88=86=
+=E4=B8=8D=E6=B8=85=E6=A5=9A=E8=B0=81=E6=98=AF=E8=B0=81=E4=BA=86=EF=
+=BC=9F=E8=BF=99=E9=87=8C=E9=9C=80=E8=A6=81=E5=BC=84=E6=B8=85=E6=A5=
+=9A=E4=B8=80=E4=B8=AA=E9=97=AE=E9=A2=98=EF=BC=8C=E8=BF=99=E9=87=8C=
+=E7=9A=84=E7=9B=B8=E7=AD=89=EF=BC=8C=E6=98=AF=E6=8C=87=E4=BD=A0=E6=
+=8F=90=E4=BE=9B=E7=9A=84=E5=87=BD=E6=95=B0=E8=A1=A8=E7=A4=BA=E4=B8=
+=A4=E4=B8=AA=E5=85=83=E7=B4=A0=E7=9B=B8=E7=AD=89=EF=BC=8C=E5=B9=B6=
+=E4=B8=8D=E4=B8=80=E5=AE=9A=E6=98=AF=E4=B8=80=E6=91=B8=E4=B8=80=E6=
+=A0=B7=E7=9A=84=E5=85=83=E7=B4=A0=E3=80=82 =0A<p>=E4=BE=8B=E5=A6=82=
+=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=BD=A0=E5=86=99=E4=B8=80=E4=B8=AA=E6=
+=AF=94=E8=BE=83=E5=87=BD=E6=95=B0: =0A</p><div class=3D"fragment"=
+><pre><font color=3D"brown">bool</font> less_len(<font color=3D"b=
+rown">const</font> string &amp;str1, <font color=3D"brown">const<=
+/font> string &amp;str2)=0A{=0A        <font color=3D"brown">retu=
+rn</font> str1.length() &lt; str2.length();=0A}</pre><pre></pre><=
+/div>=E6=AD=A4=E6=97=B6=EF=BC=8C"apple" =E5=92=8C "winter" =E5=B0=
+=B1=E6=98=AF=E7=9B=B8=E7=AD=89=E7=9A=84=EF=BC=8C=E5=A6=82=E6=9E=9C=
+=E5=9C=A8"apple" =E5=87=BA=E7=8E=B0=E5=9C=A8"winter"=E5=89=8D=E9=9D=
+=A2=EF=BC=8C=E7=94=A8=E5=B8=A6stable=E7=9A=84=E5=87=BD=E6=95=B0=E6=
+=8E=92=E5=BA=8F=E5=90=8E=EF=BC=8C=E4=BB=96=E4=BB=AC=E7=9A=84=E6=AC=
+=A1=E5=BA=8F=E4=B8=80=E5=AE=9A=E4=B8=8D=E5=8F=98=EF=BC=8C=E5=A6=82=
+=E6=9E=9C=E4=BD=A0=E4=BD=BF=E7=94=A8=E7=9A=84=E6=98=AF=E4=B8=8D=E5=
+=B8=A6"stable"=E7=9A=84=E5=87=BD=E6=95=B0=E6=8E=92=E5=BA=8F=EF=BC=
+=8C=E9=82=A3=E4=B9=88=E6=8E=92=E5=BA=8F=E5=AE=8C=E5=90=8E=EF=BC=8C=
+"Winter"=E6=9C=89=E5=8F=AF=E8=83=BD=E5=9C=A8"apple"=E7=9A=84=E5=89=
+=8D=E9=9D=A2=E3=80=82 =0A<p>=0A</p><h4><a name=3D"1_4"></a><a nam=
+e=3D"1_4_"></a>1.4 =E5=85=A8=E6=8E=92=E5=BA=8F </h4>=E5=85=A8=E6=8E=
+=92=E5=BA=8F=E5=8D=B3=E6=8A=8A=E6=89=80=E7=BB=99=E5=AE=9A=E8=8C=83=
+=E5=9B=B4=E6=89=80=E6=9C=89=E7=9A=84=E5=85=83=E7=B4=A0=E6=8C=89=E7=
+=85=A7=E5=A4=A7=E5=B0=8F=E5=85=B3=E7=B3=BB=E9=A1=BA=E5=BA=8F=E6=8E=
+=92=E5=88=97=E3=80=82=E7=94=A8=E4=BA=8E=E5=85=A8=E6=8E=92=E5=BA=8F=
+=E7=9A=84=E5=87=BD=E6=95=B0=E6=9C=89 =0A<p>=0A</p><div class=3D"f=
+ragment"><pre><font color=3D"brown">template</font> &lt;<font col=
+or=3D"brown">class</font> RandomAccessIterator&gt;=0A<font color=3D=
+"brown">void</font> sort(RandomAccessIterator first, RandomAccess=
+Iterator last);=0A=0A<font color=3D"brown">template</font> &lt;<f=
+ont color=3D"brown">class</font> RandomAccessIterator, <font colo=
+r=3D"brown">class</font> StrictWeakOrdering&gt;=0A<font color=3D"=
+brown">void</font> sort(RandomAccessIterator first, RandomAccessI=
+terator last,=0AStrictWeakOrdering comp);=0A=0A<font color=3D"bro=
+wn">template</font> &lt;<font color=3D"brown">class</font> Random=
+AccessIterator&gt;=0A<font color=3D"brown">void</font> stable_sor=
+t(RandomAccessIterator first, RandomAccessIterator last);=0A=0A<f=
+ont color=3D"brown">template</font> &lt;<font color=3D"brown">cla=
+ss</font> RandomAccessIterator, <font color=3D"brown">class</font=
+> StrictWeakOrdering&gt;=0A<font color=3D"brown">void</font> stab=
+le_sort(RandomAccessIterator first, RandomAccessIterator last, =0A=
+StrictWeakOrdering comp);</pre><pre></pre></div>=E5=9C=A8=E7=AC=AC=
+1=EF=BC=8C3=E7=A7=8D=E5=BD=A2=E5=BC=8F=E4=B8=AD=EF=BC=8Csort =E5=92=
+=8C stable_sort=E9=83=BD=E6=B2=A1=E6=9C=89=E6=8C=87=E5=AE=9A=E6=AF=
+=94=E8=BE=83=E5=87=BD=E6=95=B0=EF=BC=8C=E7=B3=BB=E7=BB=9F=E4=BC=9A=
+=E9=BB=98=E8=AE=A4=E4=BD=BF=E7=94=A8operator&lt; =E5=AF=B9=E5=8C=BA=
+=E9=97=B4[first,last)=E5=86=85=E7=9A=84=E6=89=80=E6=9C=89=E5=85=83=
+=E7=B4=A0=E8=BF=9B=E8=A1=8C=E6=8E=92=E5=BA=8F, =E5=9B=A0=E6=AD=A4=
+=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=BD=A0=E4=BD=BF=E7=94=A8=E7=9A=84=E7=
+=B1=BB=E5=9E=8B=E4=B9=89=E5=86=9B=E5=B7=B2=E7=BB=8F=E9=87=8D=E8=BD=
+=BD=E4=BA=86operator&lt;=E5=87=BD=E6=95=B0=EF=BC=8C=E9=82=A3=E4=B9=
+=88=E4=BD=A0=E5=8F=AF=E4=BB=A5=E7=9C=81=E5=BF=83=E4=BA=86=E3=80=82=
+=E7=AC=AC2, 4=E7=A7=8D=E5=BD=A2=E5=BC=8F=EF=BC=8C=E4=BD=A0=E5=8F=AF=
+=E4=BB=A5=E9=9A=8F=E6=84=8F=E6=8C=87=E5=AE=9A=E6=AF=94=E8=BE=83=E5=
+=87=BD=E6=95=B0=EF=BC=8C=E5=BA=94=E7=94=A8=E6=9B=B4=E4=B8=BA=E7=81=
+=B5=E6=B4=BB=E4=B8=80=E4=BA=9B=E3=80=82=E6=9D=A5=E7=9C=8B=E7=9C=8B=
+=E5=AE=9E=E9=99=85=E5=BA=94=E7=94=A8=EF=BC=9A =0A<p>=E7=8F=AD=E4=B8=
+=8A=E6=9C=8910=E4=B8=AA=E5=AD=A6=E7=94=9F=EF=BC=8C=E6=88=91=E6=83=
+=B3=E7=9F=A5=E9=81=93=E4=BB=96=E4=BB=AC=E7=9A=84=E6=88=90=E7=BB=A9=
+=E6=8E=92=E5=90=8D=E3=80=82 =0A</p><div class=3D"fragment"><pre><=
+font color=3D"navy">#include</font> &lt;iostream&gt;=0A<font colo=
+r=3D"navy">#include</font> &lt;algorithm&gt;=0A<font color=3D"nav=
+y">#include</font> &lt;functional&gt;=0A<font color=3D"navy">#inc=
+lude</font> &lt;vector&gt;=0A<font color=3D"navy">#include</font>=
+ &lt;string&gt;=0A<font color=3D"brown">using</font> <font color=3D=
+"brown">namespace</font> std;=0A=0A<font color=3D"brown">class</f=
+ont> student{=0A        <font color=3D"brown">public</font>:=0A =20=
+      student(<font color=3D"brown">const</font> string &amp;a, <=
+font color=3D"brown">int</font> b):name(a), score(b){}=0A       =20=
+string name;=0A        <font color=3D"brown">int</font> score;=0A=
+        <font color=3D"brown">bool</font> <font color=3D"brown">o=
+perator</font> &lt; (<font color=3D"brown">const</font> student &=
+amp;m)<font color=3D"brown">const</font> {=0A                <fon=
+t color=3D"brown">return</font> score&lt; m.score;=0A        }=0A=
+};=0A=0A<font color=3D"brown">int</font> main() {=0A        vecto=
+r&lt; student&gt; vect;=0A        student st1("<font color=3D"blu=
+e">Tom</font>", 74);=0A        vect.push_back(st1);=0A        st1=
+.name=3D"<font color=3D"blue">Jimy</font>";=0A        st1.score=3D=
+56;=0A        vect.push_back(st1);=0A        st1.name=3D"<font co=
+lor=3D"blue">Mary</font>";=0A        st1.score=3D92;=0A        ve=
+ct.push_back(st1);=0A        st1.name=3D"<font color=3D"blue">Jes=
+sy</font>";=0A        st1.score=3D85;=0A        vect.push_back(st=
+1);=0A        st1.name=3D"<font color=3D"blue">Jone</font>";=0A =20=
+      st1.score=3D56;=0A        vect.push_back(st1);=0A        st=
+1.name=3D"<font color=3D"blue">Bush</font>";=0A        st1.score=3D=
+52;=0A        vect.push_back(st1);=0A        st1.name=3D"<font co=
+lor=3D"blue">Winter</font>";=0A        st1.score=3D77;=0A       =20=
+vect.push_back(st1);=0A        st1.name=3D"<font color=3D"blue">A=
+ndyer</font>";=0A        st1.score=3D63;=0A        vect.push_back=
+(st1);=0A        st1.name=3D"<font color=3D"blue">Lily</font>";=0A=
+        st1.score=3D76;=0A        vect.push_back(st1);=0A       =20=
+st1.name=3D"<font color=3D"blue">Maryia</font>";=0A        st1.sc=
+ore=3D89;=0A        vect.push_back(st1);=0A        cout&lt;&lt;"<=
+font color=3D"blue">------before sort...</font>"&lt;&lt;endl;=0A=20=
+       <font color=3D"brown">for</font>(<font color=3D"brown">int=
+</font> i =3D 0 ; i &lt; vect.size(); i ++) cout&lt;&lt;vect[i].n=
+ame&lt;&lt;"<font color=3D"blue">:\t</font>"&lt;&lt;vect[i].score=
+&lt;&lt;endl;=0A        stable_sort(vect.begin(), vect.end(),less=
+&lt;student&gt;());=0A        cout &lt;&lt;"<font color=3D"blue">=
+-----after sort ....</font>"&lt;&lt;endl;=0A        <font color=3D=
+"brown">for</font>(<font color=3D"brown">int</font> i =3D 0 ; i &=
+lt; vect.size(); i ++) cout&lt;&lt;vect[i].name&lt;&lt;"<font col=
+or=3D"blue">:\t</font>"&lt;&lt;vect[i].score&lt;&lt;endl;=0A    =20=
+   <font color=3D"brown">return</font> 0 ;=0A}</pre><pre></pre></=
+div>=E5=85=B6=E8=BE=93=E5=87=BA=E6=98=AF=EF=BC=9A <pre>------befo=
+re sort...=0ATom:    74=0AJimy:   56=0AMary:   92=0AJessy:  85=0A=
+Jone:   56=0ABush:   52=0AWinter: 77=0AAndyer: 63=0ALily:   76=0A=
+Maryia: 89=0A-----after sort ....=0ABush:   52=0AJimy:   56=0AJon=
+e:   56=0AAndyer: 63=0ATom:    74=0ALily:   76=0AWinter: 77=0AJes=
+sy:  85=0AMaryia: 89=0AMary:   92=0A</pre>sort=E9=87=87=E7=94=A8=E7=
+=9A=84=E6=98=AF=E6=88=90=E7=86=9F=E7=9A=84"=E5=BF=AB=E9=80=9F=E6=8E=
+=92=E5=BA=8F=E7=AE=97=E6=B3=95"(=E7=9B=AE=E5=89=8D=E5=A4=A7=E9=83=
+=A8=E5=88=86STL=E7=89=88=E6=9C=AC=E5=B7=B2=E7=BB=8F=E4=B8=8D=E6=98=
+=AF=E9=87=87=E7=94=A8=E7=AE=80=E5=8D=95=E7=9A=84=E5=BF=AB=E9=80=9F=
+=E6=8E=92=E5=BA=8F=EF=BC=8C=E8=80=8C=E6=98=AF=E7=BB=93=E5=90=88=E5=
+=86=85=E6=8F=92=E6=8E=92=E5=BA=8F=E7=AE=97=E6=B3=95)=E3=80=82<a c=
+lass=3D"twikiAnchorLink" href=3D"http://www.stlchina.org/twiki/bi=
+n/view.pl/Main/STLSortAlgorithms#MyNote1">=E6=B3=A81</a>=EF=BC=8C=
+=E5=8F=AF=E4=BB=A5=E4=BF=9D=E8=AF=81=E5=BE=88=E5=A5=BD=E7=9A=84=E5=
+=B9=B3=E5=9D=87=E6=80=A7=E8=83=BD=E3=80=81=E5=A4=8D=E6=9D=82=E5=BA=
+=A6=E4=B8=BAn*log(n)=EF=BC=8C=E7=94=B1=E4=BA=8E=E5=8D=95=E7=BA=AF=
+=E7=9A=84=E5=BF=AB=E9=80=9F=E6=8E=92=E5=BA=8F=E5=9C=A8=E7=90=86=E8=
+=AE=BA=E4=B8=8A=E6=9C=89=E6=9C=80=E5=B7=AE=E7=9A=84=E6=83=85=E5=86=
+=B5=EF=BC=8C=E6=80=A7=E8=83=BD=E5=BE=88=E4=BD=8E=EF=BC=8C=E5=85=B6=
+=E7=AE=97=E6=B3=95=E5=A4=8D=E6=9D=82=E5=BA=A6=E4=B8=BAn*n=EF=BC=8C=
+=E4=BD=86=E7=9B=AE=E5=89=8D=E5=A4=A7=E9=83=A8=E5=88=86=E7=9A=84ST=
+L=E7=89=88=E6=9C=AC=E9=83=BD=E5=B7=B2=E7=BB=8F=E5=9C=A8=E8=BF=99=E6=
+=96=B9=E9=9D=A2=E5=81=9A=E4=BA=86=E4=BC=98=E5=8C=96=EF=BC=8C=E5=9B=
+=A0=E6=AD=A4=E4=BD=A0=E5=8F=AF=E4=BB=A5=E6=94=BE=E5=BF=83=E4=BD=BF=
+=E7=94=A8=E3=80=82stable_sort=E9=87=87=E7=94=A8=E7=9A=84=E6=98=AF=
+"=E5=BD=92=E5=B9=B6=E6=8E=92=E5=BA=8F"=EF=BC=8C=E5=88=86=E6=B4=BE=
+=E8=B6=B3=E5=A4=9F=E5=86=85=E5=AD=98=E6=98=AF=EF=BC=8C=E5=85=B6=E7=
+=AE=97=E6=B3=95=E5=A4=8D=E6=9D=82=E5=BA=A6=E4=B8=BAn*log(n), =E5=90=
+=A6=E5=88=99=E5=85=B6=E5=A4=8D=E6=9D=82=E5=BA=A6=E4=B8=BAn*log(n)=
+*log(n)=EF=BC=8C=E5=85=B6=E4=BC=98=E7=82=B9=E6=98=AF=E4=BC=9A=E4=BF=
+=9D=E6=8C=81=E7=9B=B8=E7=AD=89=E5=85=83=E7=B4=A0=E4=B9=8B=E9=97=B4=
+=E7=9A=84=E7=9B=B8=E5=AF=B9=E4=BD=8D=E7=BD=AE=E5=9C=A8=E6=8E=92=E5=
+=BA=8F=E5=89=8D=E5=90=8E=E4=BF=9D=E6=8C=81=E4=B8=80=E8=87=B4=E3=80=
+=82 =0A<h4><a name=3D"1_5"></a><a name=3D"1_5_"></a>1.5 =E5=B1=80=
+=E9=83=A8=E6=8E=92=E5=BA=8F </h4>=E5=B1=80=E9=83=A8=E6=8E=92=E5=BA=
+=8F=E5=85=B6=E5=AE=9E=E6=98=AF=E4=B8=BA=E4=BA=86=E5=87=8F=E5=B0=91=
+=E4=B8=8D=E5=BF=85=E8=A6=81=E7=9A=84=E6=93=8D=E4=BD=9C=E8=80=8C=E6=
+=8F=90=E4=BE=9B=E7=9A=84=E6=8E=92=E5=BA=8F=E6=96=B9=E5=BC=8F=E3=80=
+=82=E5=85=B6=E5=87=BD=E6=95=B0=E5=8E=9F=E5=9E=8B=E4=B8=BA=EF=BC=9A=
+ =0A<div class=3D"fragment"><pre><font color=3D"brown">template</=
+font> &lt;<font color=3D"brown">class</font> RandomAccessIterator=
+&gt;=0A<font color=3D"brown">void</font> partial_sort(RandomAcces=
+sIterator first, =0ARandomAccessIterator middle,=0ARandomAccessIt=
+erator last);=0A=0A<font color=3D"brown">template</font> &lt;<fon=
+t color=3D"brown">class</font> RandomAccessIterator, <font color=3D=
+"brown">class</font> StrictWeakOrdering&gt;=0A<font color=3D"brow=
+n">void</font> partial_sort(RandomAccessIterator first,=0ARandomA=
+ccessIterator middle,=0ARandomAccessIterator last, =0AStrictWeakO=
+rdering comp);=0A=0A<font color=3D"brown">template</font> &lt;<fo=
+nt color=3D"brown">class</font> InputIterator, <font color=3D"bro=
+wn">class</font> RandomAccessIterator&gt;=0ARandomAccessIterator=20=
+partial_sort_copy(InputIterator first, InputIterator last,=0ARand=
+omAccessIterator result_first,=0ARandomAccessIterator result_last=
+);=0A=0A<font color=3D"brown">template</font> &lt;<font color=3D"=
+brown">class</font> InputIterator, <font color=3D"brown">class</f=
+ont> RandomAccessIterator, =0A<font color=3D"brown">class</font>=20=
+StrictWeakOrdering&gt;=0ARandomAccessIterator partial_sort_copy(I=
+nputIterator first, InputIterator last,=0ARandomAccessIterator re=
+sult_first,=0ARandomAccessIterator result_last, Compare comp);</p=
+re><pre></pre></div>=E7=90=86=E8=A7=A3=E4=BA=86sort =E5=92=8Cstab=
+le_sort=E5=90=8E=EF=BC=8C=E5=86=8D=E6=9D=A5=E7=90=86=E8=A7=A3part=
+ial_sort =E5=B0=B1=E6=AF=94=E8=BE=83=E5=AE=B9=E6=98=93=E4=BA=86=E3=
+=80=82=E5=85=88=E7=9C=8B=E7=9C=8B=E5=85=B6=E7=94=A8=E9=80=94: =E7=
+=8F=AD=E4=B8=8A=E6=9C=8910=E4=B8=AA=E5=AD=A6=E7=94=9F=EF=BC=8C=E6=
+=88=91=E6=83=B3=E7=9F=A5=E9=81=93=E5=88=86=E6=95=B0=E6=9C=80=E4=BD=
+=8E=E7=9A=845=E5=90=8D=E6=98=AF=E5=93=AA=E4=BA=9B=E4=BA=BA=E3=80=82=
+=E5=A6=82=E6=9E=9C=E6=B2=A1=E6=9C=89partial_sort=EF=BC=8C=E4=BD=A0=
+=E5=B0=B1=E9=9C=80=E8=A6=81=E7=94=A8sort=E6=8A=8A=E6=89=80=E6=9C=89=
+=E4=BA=BA=E6=8E=92=E5=A5=BD=E5=BA=8F=EF=BC=8C=E7=84=B6=E5=90=8E=E5=
+=86=8D=E5=8F=96=E5=89=8D5=E4=B8=AA=E3=80=82=E7=8E=B0=E5=9C=A8=E4=BD=
+=A0=E5=8F=AA=E9=9C=80=E8=A6=81=E5=AF=B9=E5=88=86=E6=95=B0=E6=9C=80=
+=E4=BD=8E5=E5=90=8D=E6=8E=92=E5=BA=8F=EF=BC=8C=E6=8A=8A=E4=B8=8A=E9=
+=9D=A2=E7=9A=84=E7=A8=8B=E5=BA=8F=E5=81=9A=E5=A6=82=E4=B8=8B=E4=BF=
+=AE=E6=94=B9=EF=BC=9A =0A<div class=3D"fragment"><pre>stable_sort=
+(vect.begin(), vect.end(),less&lt;student&gt;());=0A=E6=9B=BF=E6=8D=
+=A2=E4=B8=BA=EF=BC=9A=0Apartial_sort(vect.begin(), vect.begin()+5=
+, vect.end(),less&lt;student&gt;());</pre><pre></pre></div>=E8=BE=
+=93=E5=87=BA=E7=BB=93=E6=9E=9C=E4=B8=BA=EF=BC=9A <pre>------befor=
+e sort...=0ATom:    74=0AJimy:   56=0AMary:   92=0AJessy:  85=0AJ=
+one:   56=0ABush:   52=0AWinter: 77=0AAndyer: 63=0ALily:   76=0AM=
+aryia: 89=0A-----after sort ....=0ABush:   52=0AJimy:   56=0AJone=
+:   56=0AAndyer: 63=0ATom:    74=0AMary:   92=0AJessy:  85=0AWint=
+er: 77=0ALily:   76=0AMaryia: 89=0A</pre>=E8=BF=99=E6=A0=B7=E7=9A=
+=84=E5=A5=BD=E5=A4=84=E7=9F=A5=E9=81=93=E4=BA=86=E5=90=97=EF=BC=9F=
+=E5=BD=93=E6=95=B0=E6=8D=AE=E9=87=8F=E5=B0=8F=E7=9A=84=E6=97=B6=E5=
+=80=99=E5=8F=AF=E8=83=BD=E7=9C=8B=E4=B8=8D=E5=87=BA=E4=BC=98=E5=8A=
+=BF=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=98=AF100=E4=B8=87=E5=AD=A6=E7=94=
+=9F=EF=BC=8C=E6=88=91=E6=83=B3=E6=89=BE=E5=88=86=E6=95=B0=E6=9C=80=
+=E5=B0=91=E7=9A=845=E4=B8=AA=E4=BA=BA...... =0A<p>partial_sort=E9=
+=87=87=E7=94=A8=E7=9A=84=E5=A0=86=E6=8E=92=E5=BA=8F=EF=BC=88heaps=
+ort=EF=BC=89=EF=BC=8C=E5=AE=83=E5=9C=A8=E4=BB=BB=E4=BD=95=E6=83=85=
+=E5=86=B5=E4=B8=8B=E7=9A=84=E5=A4=8D=E6=9D=82=E5=BA=A6=E9=83=BD=E6=
+=98=AFn*log(n). =E5=A6=82=E6=9E=9C=E4=BD=A0=E5=B8=8C=E6=9C=9B=E7=94=
+=A8partial_sort=E6=9D=A5=E5=AE=9E=E7=8E=B0=E5=85=A8=E6=8E=92=E5=BA=
+=8F=EF=BC=8C=E4=BD=A0=E5=8F=AA=E8=A6=81=E8=AE=A9middle=3Dlast=E5=B0=
+=B1=E5=8F=AF=E4=BB=A5=E4=BA=86=E3=80=82 =0A</p><p>partial_sort_co=
+py=E5=85=B6=E5=AE=9E=E6=98=AFcopy=E5=92=8Cpartial_sort=E7=9A=84=E7=
+=BB=84=E5=90=88=E3=80=82=E8=A2=AB=E6=8E=92=E5=BA=8F(=E8=A2=AB=E5=A4=
+=8D=E5=88=B6)=E7=9A=84=E6=95=B0=E9=87=8F=E6=98=AF[first, last)=E5=
+=92=8C[result_first, result_last)=E4=B8=AD=E5=8C=BA=E9=97=B4=E8=BE=
+=83=E5=B0=8F=E7=9A=84=E9=82=A3=E4=B8=AA=E3=80=82=E5=A6=82=E6=9E=9C=
+[result_first, result_last)=E5=8C=BA=E9=97=B4=E5=A4=A7=E4=BA=8E[f=
+irst, last)=E5=8C=BA=E9=97=B4=EF=BC=8C=E9=82=A3=E4=B9=88partial_s=
+ort=E7=9B=B8=E5=BD=93=E4=BA=8Ecopy=E5=92=8Csort=E7=9A=84=E7=BB=84=
+=E5=90=88=E3=80=82 =0A</p><h4><a name=3D"1_6_nth_element"></a><a=20=
+name=3D"1_6_nth_element_"></a>1.6 nth_element =E6=8C=87=E5=AE=9A=E5=
+=85=83=E7=B4=A0=E6=8E=92=E5=BA=8F </h4>nth_element=E4=B8=80=E4=B8=
+=AA=E5=AE=B9=E6=98=93=E7=9C=8B=E6=87=82=E4=BD=86=E8=A7=A3=E9=87=8A=
+=E6=AF=94=E8=BE=83=E9=BA=BB=E7=83=A6=E7=9A=84=E6=8E=92=E5=BA=8F=E3=
+=80=82=E7=94=A8=E4=BE=8B=E5=AD=90=E8=AF=B4=E4=BC=9A=E6=9B=B4=E6=96=
+=B9=E4=BE=BF=EF=BC=9A<br>=E7=8F=AD=E4=B8=8A=E6=9C=8910=E4=B8=AA=E5=
+=AD=A6=E7=94=9F=EF=BC=8C=E6=88=91=E6=83=B3=E7=9F=A5=E9=81=93=E5=88=
+=86=E6=95=B0=E6=8E=92=E5=9C=A8=E5=80=92=E6=95=B0=E7=AC=AC4=E5=90=8D=
+=E7=9A=84=E5=AD=A6=E7=94=9F=E3=80=82<br>=E5=A6=82=E6=9E=9C=E8=A6=81=
+=E6=BB=A1=E8=B6=B3=E4=B8=8A=E8=BF=B0=E9=9C=80=E6=B1=82=EF=BC=8C=E5=
+=8F=AF=E4=BB=A5=E7=94=A8sort=E6=8E=92=E5=A5=BD=E5=BA=8F=EF=BC=8C=E7=
+=84=B6=E5=90=8E=E5=8F=96=E7=AC=AC4=E4=BD=8D=EF=BC=88=E5=9B=A0=E4=B8=
+=BA=E6=98=AF=E7=94=B1=E5=B0=8F=E5=88=B0=E5=A4=A7=E6=8E=92), =E6=9B=
+=B4=E8=81=AA=E6=98=8E=E7=9A=84=E6=9C=8B=E5=8F=8B=E4=BC=9A=E7=94=A8=
+partial_sort, =E5=8F=AA=E6=8E=92=E5=89=8D4=E4=BD=8D=EF=BC=8C=E7=84=
+=B6=E5=90=8E=E5=BE=97=E5=88=B0=E7=AC=AC4=E4=BD=8D=E3=80=82=E5=85=B6=
+=E5=AE=9E=E8=BF=99=E6=98=AF=E4=BD=A0=E8=BF=98=E6=98=AF=E6=B5=AA=E8=
+=B4=B9=EF=BC=8C=E5=9B=A0=E4=B8=BA=E5=89=8D=E4=B8=A4=E4=BD=8D=E4=BD=
+=A0=E6=A0=B9=E6=9C=AC=E6=B2=A1=E6=9C=89=E5=BF=85=E8=A6=81=E6=8E=92=
+=E5=BA=8F=EF=BC=8C=E6=AD=A4=E6=97=B6=EF=BC=8C=E4=BD=A0=E5=B0=B1=E9=
+=9C=80=E8=A6=81nth_element: =0A<div class=3D"fragment"><pre><font=
+ color=3D"brown">template</font> &lt;<font color=3D"brown">class<=
+/font> RandomAccessIterator&gt;=0A<font color=3D"brown">void</fon=
+t> nth_element(RandomAccessIterator first, RandomAccessIterator n=
+th,=0ARandomAccessIterator last);=0A=0A<font color=3D"brown">temp=
+late</font> &lt;<font color=3D"brown">class</font> RandomAccessIt=
+erator, <font color=3D"brown">class</font> StrictWeakOrdering&gt;=
+=0A<font color=3D"brown">void</font> nth_element(RandomAccessIter=
+ator first, RandomAccessIterator nth,=0ARandomAccessIterator last=
+, StrictWeakOrdering comp);</pre><pre></pre></div>=E5=AF=B9=E4=BA=
+=8E=E4=B8=8A=E8=BF=B0=E5=AE=9E=E4=BE=8B=E9=9C=80=E6=B1=82=EF=BC=8C=
+=E4=BD=A0=E5=8F=AA=E9=9C=80=E8=A6=81=E6=8C=89=E4=B8=8B=E9=9D=A2=E8=
+=A6=81=E6=B1=82=E4=BF=AE=E6=94=B91.4=E4=B8=AD=E7=9A=84=E7=A8=8B=E5=
+=BA=8F=EF=BC=9A =0A<div class=3D"fragment"><pre>stable_sort(vect.=
+begin(), vect.end(),less&lt;student&gt;());=0A=E6=9B=BF=E6=8D=A2=E4=
+=B8=BA=EF=BC=9A=0Anth_element(vect.begin(), vect.begin()+3, vect.=
+end(),less&lt;student&gt;());</pre><pre></pre></div>=E8=BF=90=E8=A1=
+=8C=E7=BB=93=E6=9E=9C=E4=B8=BA=EF=BC=9A <pre>------before sort...=
+=0ATom:    74=0AJimy:   56=0AMary:   92=0AJessy:  85=0AJone:   56=
+=0ABush:   52=0AWinter: 77=0AAndyer: 63=0ALily:   76=0AMaryia: 89=
+=0A-----after sort ....=0AJone:   56=0ABush:   52=0AJimy:   56=0A=
+Andyer: 63=0AJessy:  85=0AMary:   92=0AWinter: 77=0ATom:    74=0A=
+Lily:   76=0AMaryia: 89=0A</pre>=E7=AC=AC=E5=9B=9B=E4=B8=AA=E6=98=
+=AF=E8=B0=81=EF=BC=9FAndyer=EF=BC=8C=E8=BF=99=E4=B8=AA=E5=80=92=E9=
+=9C=89=E7=9A=84=E5=AE=B6=E4=BC=99=E3=80=82=E4=B8=BA=E4=BB=80=E4=B9=
+=88=E6=98=AFbegin()+3=E8=80=8C=E4=B8=8D=E6=98=AF+4? =E6=88=91=E5=BC=
+=80=E5=A7=8B=E5=86=99=E8=BF=99=E7=AF=87=E6=96=87=E7=AB=A0=E7=9A=84=
+=E6=97=B6=E5=80=99=E4=B9=9F=E6=B2=A1=E6=9C=89=E5=9C=A8=E6=84=8F=EF=
+=BC=8C=E5=90=8E=E6=9D=A5=E5=9C=A8<a href=3D"http://www.stlchina.o=
+rg/bbs/viewpro.php?uid=3D350" target=3D"_top">ilovevc</a> =E7=9A=84=
+=E6=8F=90=E9=86=92=E4=B8=8B=EF=BC=8C=E5=8F=91=E7=8E=B0=E4=BA=86=E8=
+=BF=99=E4=B8=AA=E9=97=AE=E9=A2=98=E3=80=82begin()=E6=98=AF=E7=AC=AC=
+=E4=B8=80=E4=B8=AA=EF=BC=8Cbegin()+1=E6=98=AF=E7=AC=AC=E4=BA=8C=E4=
+=B8=AA=EF=BC=8C... begin()+3=E5=BD=93=E7=84=B6=E5=B0=B1=E6=98=AF=E7=
+=AC=AC=E5=9B=9B=E4=B8=AA=E4=BA=86=E3=80=82 =0A<h4><a name=3D"1_7_=
+partition_stable_partition"></a>1.7 partition =E5=92=8Cstable_par=
+tition </h4>=E5=A5=BD=E5=83=8F=E8=BF=99=E4=B8=A4=E4=B8=AA=E5=87=BD=
+=E6=95=B0=E5=B9=B6=E4=B8=8D=E6=98=AF=E7=94=A8=E6=9D=A5=E6=8E=92=E5=
+=BA=8F=E7=9A=84=EF=BC=8C'=E5=88=86=E7=B1=BB'=E7=AE=97=E6=B3=95=EF=
+=BC=8C=E4=BC=9A=E6=9B=B4=E5=8A=A0=E8=B4=B4=E5=88=87=E4=B8=80=E4=BA=
+=9B=E3=80=82partition=E5=B0=B1=E6=98=AF=E6=8A=8A=E4=B8=80=E4=B8=AA=
+=E5=8C=BA=E9=97=B4=E4=B8=AD=E7=9A=84=E5=85=83=E7=B4=A0=E6=8C=89=E7=
+=85=A7=E6=9F=90=E4=B8=AA=E6=9D=A1=E4=BB=B6=E5=88=86=E6=88=90=E4=B8=
+=A4=E7=B1=BB=E3=80=82=E5=85=B6=E5=87=BD=E6=95=B0=E5=8E=9F=E5=9E=8B=
+=E4=B8=BA=EF=BC=9A =0A<div class=3D"fragment"><pre><font color=3D=
+"brown">template</font> &lt;<font color=3D"brown">class</font> Fo=
+rwardIterator, <font color=3D"brown">class</font> Predicate&gt;=0A=
+ForwardIterator partition(ForwardIterator first,=0AForwardIterato=
+r last, Predicate pred)=0A<font color=3D"brown">template</font> &=
+lt;<font color=3D"brown">class</font> ForwardIterator, <font colo=
+r=3D"brown">class</font> Predicate&gt;=0AForwardIterator stable_p=
+artition(ForwardIterator first, ForwardIterator last, =0APredicat=
+e pred);</pre><pre></pre></div>=E7=9C=8B=E7=9C=8B=E5=BA=94=E7=94=A8=
+=E5=90=A7=EF=BC=9A=E7=8F=AD=E4=B8=8A10=E4=B8=AA=E5=AD=A6=E7=94=9F=
+=EF=BC=8C=E8=AE=A1=E7=AE=97=E6=89=80=E6=9C=89=E6=B2=A1=E6=9C=89=E5=
+=8F=8A=E6=A0=BC=EF=BC=88=E4=BD=8E=E4=BA=8E60=E5=88=86=EF=BC=89=E7=
+=9A=84=E5=AD=A6=E7=94=9F=E3=80=82=E4=BD=A0=E5=8F=AA=E9=9C=80=E8=A6=
+=81=E6=8C=89=E7=85=A7=E4=B8=8B=E9=9D=A2=E6=A0=BC=E5=BC=8F=E6=9B=BF=
+=E6=8D=A21.4=E4=B8=AD=E7=9A=84=E7=A8=8B=E5=BA=8F=EF=BC=9A =0A<div=
+ class=3D"fragment"><pre>stable_sort(vect.begin(), vect.end(),les=
+s&lt;student&gt;());=0A=E6=9B=BF=E6=8D=A2=E4=B8=BA=EF=BC=9A=0Astu=
+dent exam("<font color=3D"blue">pass</font>", 60);=0Astable_parti=
+tion(vect.begin(), vect.end(), bind2nd(less&lt;student&gt;(), exa=
+m));</pre><pre></pre></div>=E5=85=B6=E8=BE=93=E5=87=BA=E7=BB=93=E6=
+=9E=9C=E4=B8=BA=EF=BC=9A <pre>------before sort...=0ATom:    74=0A=
+Jimy:   56=0AMary:   92=0AJessy:  85=0AJone:   56=0ABush:   52=0A=
+Winter: 77=0AAndyer: 63=0ALily:   76=0AMaryia: 89=0A-----after so=
+rt ....=0AJimy:   56=0AJone:   56=0ABush:   52=0ATom:    74=0AMar=
+y:   92=0AJessy:  85=0AWinter: 77=0AAndyer: 63=0ALily:   76=0AMar=
+yia: 89=0A</pre>=E7=9C=8B=E8=A7=81=E4=BA=86=E5=90=97=EF=BC=8CJimy=
+=EF=BC=8CJone, Bush(=E9=9A=BE=E6=80=AA=E8=AF=B4=E7=BE=8E=E5=9B=BD=
+=E6=80=BB=E7=BB=9F=E6=AF=94=E8=BE=83=E7=AC=A8 <img title=3D"smile=
+" alt=3D"smile" src=3D"http://www.stlchina.org/twiki/pub/TWiki/Sm=
+iliesPlugin/smile.gif" border=3D"0"> )=E9=83=BD=E6=B2=A1=E6=9C=89=
+=E5=8F=8A=E6=A0=BC=E3=80=82=E8=80=8C=E4=B8=94=E4=BD=BF=E7=94=A8=E7=
+=9A=84=E6=98=AFstable_partition, =E5=85=83=E7=B4=A0=E4=B9=8B=E9=97=
+=B4=E7=9A=84=E7=9B=B8=E5=AF=B9=E6=AC=A1=E5=BA=8F=E6=98=AF=E6=B2=A1=
+=E6=9C=89=E5=8F=98. =0A<h3><a name=3D"2_Sort"></a><a name=3D"2_So=
+rt_"></a>2 Sort =E5=92=8C=E5=AE=B9=E5=99=A8 </h3>=0A<hr>=0ASTL=E4=
+=B8=AD=E6=A0=87=E5=87=86=E5=AE=B9=E5=99=A8=E4=B8=BB=E8=A6=81vecto=
+r, list, deque, string, set, multiset, map, multimay=EF=BC=8C =E5=
+=85=B6=E4=B8=ADset, multiset, map, multimap=E9=83=BD=E6=98=AF=E4=BB=
+=A5=E6=A0=91=E7=BB=93=E6=9E=84=E7=9A=84=E6=96=B9=E5=BC=8F=E5=AD=98=
+=E5=82=A8=E5=85=B6=E5=85=83=E7=B4=A0=E8=AF=A6=E7=BB=86=E5=86=85=E5=
+=AE=B9=E8=AF=B7=E5=8F=82=E7=9C=8B=EF=BC=9A<a href=3D"http://stl.w=
+interxy.com/html/000039.html" target=3D"_top">=E5=AD=A6=E4=B9=A0S=
+TL map, STL set=E4=B9=8B=E6=95=B0=E6=8D=AE=E7=BB=93=E6=9E=84=E5=9F=
+=BA=E7=A1=80</a>. =E5=9B=A0=E6=AD=A4=E5=9C=A8=E8=BF=99=E4=BA=9B=E5=
+=AE=B9=E5=99=A8=E4=B8=AD=EF=BC=8C=E5=85=83=E7=B4=A0=E4=B8=80=E7=9B=
+=B4=E6=98=AF=E6=9C=89=E5=BA=8F=E7=9A=84=E3=80=82 =0A<p>=E8=BF=99=E4=
+=BA=9B=E5=AE=B9=E5=99=A8=E7=9A=84=E8=BF=AD=E4=BB=A3=E5=99=A8=E7=B1=
+=BB=E5=9E=8B=E5=B9=B6=E4=B8=8D=E6=98=AF=E9=9A=8F=E6=9C=BA=E5=9E=8B=
+=E8=BF=AD=E4=BB=A3=E5=99=A8=EF=BC=8C=E5=9B=A0=E6=AD=A4=EF=BC=8C=E4=
+=B8=8A=E8=BF=B0=E7=9A=84=E9=82=A3=E4=BA=9B=E6=8E=92=E5=BA=8F=E5=87=
+=BD=E6=95=B0=EF=BC=8C=E5=AF=B9=E4=BA=8E=E8=BF=99=E4=BA=9B=E5=AE=B9=
+=E5=99=A8=E6=98=AF=E4=B8=8D=E5=8F=AF=E7=94=A8=E7=9A=84=E3=80=82=E4=
+=B8=8A=E8=BF=B0sort=E5=87=BD=E6=95=B0=E5=AF=B9=E4=BA=8E=E4=B8=8B=E5=
+=88=97=E5=AE=B9=E5=99=A8=E6=98=AF=E5=8F=AF=E7=94=A8=E7=9A=84=EF=BC=
+=9A =0A</p><ul>=0A<li>vector =0A</li><li>string =0A</li><li>deque=
+ </li></ul>=E5=A6=82=E6=9E=9C=E4=BD=A0=E8=87=AA=E5=B7=B1=E5=AE=9A=
+=E4=B9=89=E7=9A=84=E5=AE=B9=E5=99=A8=E4=B9=9F=E6=94=AF=E6=8C=81=E9=
+=9A=8F=E6=9C=BA=E5=9E=8B=E8=BF=AD=E4=BB=A3=E5=99=A8=EF=BC=8C=E9=82=
+=A3=E4=B9=88=E4=BD=BF=E7=94=A8=E6=8E=92=E5=BA=8F=E7=AE=97=E6=B3=95=
+=E6=98=AF=E6=B2=A1=E6=9C=89=E4=BB=BB=E4=BD=95=E9=97=AE=E9=A2=98=E7=
+=9A=84=E3=80=82 =0A<p>=E5=AF=B9=E4=BA=8Elist=E5=AE=B9=E5=99=A8=EF=
+=BC=8Clist=E8=87=AA=E5=B8=A6=E4=B8=80=E4=B8=AAsort=E6=88=90=E5=91=
+=98=E5=87=BD=E6=95=B0list::sort(). =E5=AE=83=E5=92=8C=E7=AE=97=E6=
+=B3=95=E5=87=BD=E6=95=B0=E4=B8=AD=E7=9A=84sort=E5=B7=AE=E4=B8=8D=E5=
+=A4=9A=EF=BC=8C=E4=BD=86=E6=98=AFlist::sort=E6=98=AF=E5=9F=BA=E4=BA=
+=8E=E6=8C=87=E9=92=88=E7=9A=84=E6=96=B9=E5=BC=8F=E6=8E=92=E5=BA=8F=
+=EF=BC=8C=E4=B9=9F=E5=B0=B1=E6=98=AF=E8=AF=B4=EF=BC=8C=E6=89=80=E6=
+=9C=89=E7=9A=84=E6=95=B0=E6=8D=AE=E7=A7=BB=E5=8A=A8=E5=92=8C=E6=AF=
+=94=E8=BE=83=E9=83=BD=E6=98=AF=E6=AD=A4=E7=94=A8=E6=8C=87=E9=92=88=
+=E7=9A=84=E6=96=B9=E5=BC=8F=E5=AE=9E=E7=8E=B0=EF=BC=8C=E5=9B=A0=E6=
+=AD=A4=E6=8E=92=E5=BA=8F=E5=90=8E=E7=9A=84=E8=BF=AD=E4=BB=A3=E5=99=
+=A8=E4=B8=80=E7=9B=B4=E4=BF=9D=E6=8C=81=E6=9C=89=E6=95=88=EF=BC=88=
+vector=E4=B8=ADsort=E5=90=8E=E7=9A=84=E8=BF=AD=E4=BB=A3=E5=99=A8=E4=
+=BC=9A=E5=A4=B1=E6=95=88). =0A</p><p>=0A</p><h3><a name=3D"3"></a=
+><a name=3D"3_"></a>3 =E9=80=89=E6=8B=A9=E5=90=88=E9=80=82=E7=9A=84=
+=E6=8E=92=E5=BA=8F=E5=87=BD=E6=95=B0 </h3>=0A<hr>=0A=E4=B8=BA=E4=BB=
+=80=E4=B9=88=E8=A6=81=E9=80=89=E6=8B=A9=E5=90=88=E9=80=82=E7=9A=84=
+=E6=8E=92=E5=BA=8F=E5=87=BD=E6=95=B0=EF=BC=9F=E5=8F=AF=E8=83=BD=E4=
+=BD=A0=E5=B9=B6=E4=B8=8D=E5=85=B3=E5=BF=83=E6=95=88=E7=8E=87(=E8=BF=
+=99=E9=87=8C=E7=9A=84=E6=95=88=E7=8E=87=E6=8C=87=E7=9A=84=E6=98=AF=
+=E7=A8=8B=E5=BA=8F=E8=BF=90=E8=A1=8C=E6=97=B6=E9=97=B4), =E6=88=96=
+=E8=80=85=E8=AF=B4=E4=BD=A0=E7=9A=84=E6=95=B0=E6=8D=AE=E9=87=8F=E5=
+=BE=88=E5=B0=8F=EF=BC=8C =E5=9B=A0=E6=AD=A4=E4=BD=A0=E8=A7=89=E5=BE=
+=97=E9=9A=8F=E4=BE=BF=E7=94=A8=E5=93=AA=E4=B8=AA=E5=87=BD=E6=95=B0=
+=E9=83=BD=E6=97=A0=E5=85=B3=E7=B4=A7=E8=A6=81=E3=80=82 =0A<p>=E5=85=
+=B6=E5=AE=9E=E4=B8=8D=E7=84=B6=EF=BC=8C=E5=8D=B3=E4=BD=BF=E4=BD=A0=
+=E4=B8=8D=E5=85=B3=E5=BF=83=E6=95=88=E7=8E=87=EF=BC=8C=E5=A6=82=E6=
+=9E=9C=E4=BD=A0=E9=80=89=E6=8B=A9=E5=90=88=E9=80=82=E7=9A=84=E6=8E=
+=92=E5=BA=8F=E5=87=BD=E6=95=B0=EF=BC=8C=E4=BD=A0=E4=BC=9A=E8=AE=A9=
+=E4=BD=A0=E7=9A=84=E4=BB=A3=E7=A0=81=E6=9B=B4=E5=AE=B9=E6=98=93=E8=
+=AE=A9=E4=BA=BA=E6=98=8E=E7=99=BD=EF=BC=8C=E4=BD=A0=E4=BC=9A=E8=AE=
+=A9=E4=BD=A0=E7=9A=84=E4=BB=A3=E7=A0=81=E6=9B=B4=E6=9C=89=E6=89=A9=
+=E5=85=85=E6=80=A7=EF=BC=8C=E9=80=90=E6=B8=90=E5=85=BB=E6=88=90=E4=
+=B8=80=E4=B8=AA=E8=89=AF=E5=A5=BD=E7=9A=84=E4=B9=A0=E6=83=AF=EF=BC=
+=8C=E5=BE=88=E9=87=8D=E8=A6=81=E5=90=A7 <img title=3D"smile" alt=3D=
+"smile" src=3D"http://www.stlchina.org/twiki/pub/TWiki/SmiliesPlu=
+gin/smile.gif" border=3D"0"> =E3=80=82 =0A</p><p>=E5=A6=82=E6=9E=9C=
+=E4=BD=A0=E4=BB=A5=E5=89=8D=E6=9C=89=E7=94=A8=E8=BF=87C=E8=AF=AD=E8=
+=A8=80=E4=B8=AD=E7=9A=84qsort, =E6=83=B3=E7=9F=A5=E9=81=93qsort=E5=
+=92=8C=E4=BB=96=E4=BB=AC=E7=9A=84=E6=AF=94=E8=BE=83=EF=BC=8C=E9=82=
+=A3=E6=88=91=E5=91=8A=E8=AF=89=E4=BD=A0=EF=BC=8Cqsort=E5=92=8Csor=
+t=E6=98=AF=E4=B8=80=E6=A0=B7=E7=9A=84=EF=BC=8C=E5=9B=A0=E4=B8=BA=E4=
+=BB=96=E4=BB=AC=E9=87=87=E7=94=A8=E7=9A=84=E9=83=BD=E6=98=AF=E5=BF=
+=AB=E9=80=9F=E6=8E=92=E5=BA=8F=E3=80=82=E4=BB=8E=E6=95=88=E7=8E=87=
+=E4=B8=8A=E7=9C=8B=EF=BC=8C=E4=BB=A5=E4=B8=8B=E5=87=A0=E7=A7=8Dso=
+rt=E7=AE=97=E6=B3=95=E7=9A=84=E6=98=AF=E4=B8=80=E4=B8=AA=E6=8E=92=
+=E5=BA=8F=EF=BC=8C=E6=95=88=E7=8E=87=E7=94=B1=E9=AB=98=E5=88=B0=E4=
+=BD=8E=EF=BC=88=E8=80=97=E6=97=B6=E7=94=B1=E5=B0=8F=E5=8F=98=E5=A4=
+=A7=EF=BC=89=EF=BC=9A =0A</p><ol>=0A<li>partion =0A</li><li>stabl=
+e_partition =0A</li><li>nth_element =0A</li><li>partial_sort =0A<=
+/li><li>sort =0A</li><li>stable_sort </li></ol>=E8=AE=B0=E5=BE=97=
+=EF=BC=8C=E4=BB=A5=E5=89=8D=E7=BF=BB=E8=AF=91=E8=BF=87Effective S=
+TL=E7=9A=84=E6=96=87=E7=AB=A0=EF=BC=8C=E5=85=B6=E4=B8=AD=E5=AF=B9=
+<a href=3D"http://stl.winterxy.com/html/000026.html" target=3D"_t=
+op">=E5=A6=82=E4=BD=95=E9=80=89=E6=8B=A9=E6=8E=92=E5=BA=8F=E5=87=BD=
+=E6=95=B0</a>=E6=80=BB=E7=BB=93=E7=9A=84=E5=BE=88=E5=A5=BD=EF=BC=9A=
+ =0A<ul>=0A<li>=E8=8B=A5=E9=9C=80=E5=AF=B9vector, string, deque,=20=
+=E6=88=96 array=E5=AE=B9=E5=99=A8=E8=BF=9B=E8=A1=8C=E5=85=A8=E6=8E=
+=92=E5=BA=8F=EF=BC=8C=E4=BD=A0=E5=8F=AF=E9=80=89=E6=8B=A9sort=E6=88=
+=96stable_sort=EF=BC=9B =0A</li><li>=E8=8B=A5=E5=8F=AA=E9=9C=80=E5=
+=AF=B9vector, string, deque, =E6=88=96 array=E5=AE=B9=E5=99=A8=E4=
+=B8=AD=E5=8F=96=E5=BE=97top n=E7=9A=84=E5=85=83=E7=B4=A0=EF=BC=8C=
+=E9=83=A8=E5=88=86=E6=8E=92=E5=BA=8Fpartial_sort=E6=98=AF=E9=A6=96=
+=E9=80=89. =0A</li><li>=E8=8B=A5=E5=AF=B9=E4=BA=8Evector, string,=
+ deque, =E6=88=96array=E5=AE=B9=E5=99=A8=EF=BC=8C=E4=BD=A0=E9=9C=80=
+=E8=A6=81=E6=89=BE=E5=88=B0=E7=AC=ACn=E4=B8=AA=E4=BD=8D=E7=BD=AE=E7=
+=9A=84=E5=85=83=E7=B4=A0=E6=88=96=E8=80=85=E4=BD=A0=E9=9C=80=E8=A6=
+=81=E5=BE=97=E5=88=B0top n=E4=B8=94=E4=B8=8D=E5=85=B3=E7=B3=BBtop=
+ n=E4=B8=AD=E7=9A=84=E5=86=85=E9=83=A8=E9=A1=BA=E5=BA=8F=EF=BC=8C=
+nth_element=E6=98=AF=E6=9C=80=E7=90=86=E6=83=B3=E7=9A=84=EF=BC=9B=
+ =0A</li><li>=E8=8B=A5=E4=BD=A0=E9=9C=80=E8=A6=81=E4=BB=8E=E6=A0=87=
+=E5=87=86=E5=BA=8F=E5=88=97=E5=AE=B9=E5=99=A8=E6=88=96=E8=80=85ar=
+ray=E4=B8=AD=E6=8A=8A=E6=BB=A1=E8=B6=B3=E6=9F=90=E4=B8=AA=E6=9D=A1=
+=E4=BB=B6=E6=88=96=E8=80=85=E4=B8=8D=E6=BB=A1=E8=B6=B3=E6=9F=90=E4=
+=B8=AA=E6=9D=A1=E4=BB=B6=E7=9A=84=E5=85=83=E7=B4=A0=E5=88=86=E5=BC=
+=80=EF=BC=8C=E4=BD=A0=E6=9C=80=E5=A5=BD=E4=BD=BF=E7=94=A8partitio=
+n=E6=88=96stable_partition=EF=BC=9B =0A</li><li>=E8=8B=A5=E4=BD=BF=
+=E7=94=A8=E7=9A=84list=E5=AE=B9=E5=99=A8=EF=BC=8C=E4=BD=A0=E5=8F=AF=
+=E4=BB=A5=E7=9B=B4=E6=8E=A5=E4=BD=BF=E7=94=A8partition=E5=92=8Cst=
+able_partition=E7=AE=97=E6=B3=95=EF=BC=8C=E4=BD=A0=E5=8F=AF=E4=BB=
+=A5=E4=BD=BF=E7=94=A8list::sort=E4=BB=A3=E6=9B=BFsort=E5=92=8Csta=
+ble_sort=E6=8E=92=E5=BA=8F=E3=80=82=E8=8B=A5=E4=BD=A0=E9=9C=80=E8=
+=A6=81=E5=BE=97=E5=88=B0partial_sort=E6=88=96nth_element=E7=9A=84=
+=E6=8E=92=E5=BA=8F=E6=95=88=E6=9E=9C=EF=BC=8C=E4=BD=A0=E5=BF=85=E9=
+=A1=BB=E9=97=B4=E6=8E=A5=E4=BD=BF=E7=94=A8=E3=80=82=E6=AD=A3=E5=A6=
+=82=E4=B8=8A=E9=9D=A2=E4=BB=8B=E7=BB=8D=E7=9A=84=E6=9C=89=E5=87=A0=
+=E7=A7=8D=E6=96=B9=E5=BC=8F=E5=8F=AF=E4=BB=A5=E9=80=89=E6=8B=A9=E3=
+=80=82 </li></ul>=E6=80=BB=E4=B9=8B=E8=AE=B0=E4=BD=8F=E4=B8=80=E5=
+=8F=A5=E8=AF=9D=EF=BC=9A <strong>=E5=A6=82=E6=9E=9C=E4=BD=A0=E6=83=
+=B3=E8=8A=82=E7=BA=A6=E6=97=B6=E9=97=B4=EF=BC=8C=E4=B8=8D=E8=A6=81=
+=E8=B5=B0=E5=BC=AF=E8=B7=AF, =E4=B9=9F=E4=B8=8D=E8=A6=81=E8=B5=B0=
+=E5=A4=9A=E4=BD=99=E7=9A=84=E8=B7=AF!</strong> =0A<h3><a name=3D"=
+4"></a><a name=3D"4_"></a>4 =E5=B0=8F=E7=BB=93 </h3>=0A<hr>=0A=E8=
+=AE=A8=E8=AE=BA=E6=8A=80=E6=9C=AF=E5=B0=B1=E5=83=8F=E4=B8=AA=E6=97=
+=A0=E5=BA=95=E6=B4=9E=EF=BC=8C=E7=BB=8F=E5=B8=B8=E5=AE=B9=E6=98=93=
+=E7=94=B1=E4=B8=80=E7=82=B9=E5=8F=AF=E4=BB=A5=E5=BC=95=E7=94=B3=E5=
+=8F=A6=E5=A4=96=E6=97=A0=E6=95=B0=E4=B8=AA=E6=8A=80=E6=9C=AF=E7=82=
+=B9=E3=80=82=E5=9B=A0=E6=AD=A4=E9=9C=80=E8=A6=81=E4=BB=8E=E5=85=A8=
+=E5=B1=80=E7=9A=84=E8=A7=92=E5=BA=A6=E6=9D=A5=E8=A7=82=E5=AF=9F=E9=
+=97=AE=E9=A2=98=EF=BC=8C=E5=B0=B1=E5=83=8F=E8=A7=82=E5=AF=9FSTL=E4=
+=B8=AD=E7=9A=84sort=E7=AE=97=E6=B3=95=E4=B8=80=E6=A0=B7=E3=80=82=E5=
+=85=B6=E5=AE=9E=E5=9C=A8STL=E8=BF=98=E6=9C=89make_heap, sort_heap=
+=E7=AD=89=E6=8E=92=E5=BA=8F=E7=AE=97=E6=B3=95=E3=80=82=E6=9C=AC=E6=
+=96=87=E7=AB=A0=E6=B2=A1=E6=9C=89=E6=8F=90=E5=88=B0=E3=80=82=E6=9C=
+=AC=E6=96=87=E4=BB=A5=E5=AE=9E=E4=BE=8B=E7=9A=84=E6=96=B9=E5=BC=8F=
+=EF=BC=8C=E8=A7=A3=E9=87=8A=E4=BA=86STL=E4=B8=AD=E6=8E=92=E5=BA=8F=
+=E7=AE=97=E6=B3=95=E7=9A=84=E7=89=B9=E6=80=A7=EF=BC=8C=E5=B9=B6=E6=
+=80=BB=E7=BB=93=E4=BA=86=E5=9C=A8=E5=AE=9E=E9=99=85=E6=83=85=E5=86=
+=B5=E4=B8=8B=E5=BA=94=E5=A6=82=E4=BD=95=E9=80=89=E6=8B=A9=E5=90=88=
+=E9=80=82=E7=9A=84=E7=AE=97=E6=B3=95=E3=80=82 =0A<p>=0A</p><h3><a=
+ name=3D"5"></a><a name=3D"5_"></a>5 =E5=8F=82=E8=80=83=E6=96=87=E6=
+=A1=A3 </h3><a href=3D"http://stl.winterxy.com/html/000026.html"=20=
+target=3D"_top">=E6=9D=A1=E6=AC=BE31=EF=BC=9A=E5=A6=82=E4=BD=95=E9=
+=80=89=E6=8B=A9=E6=8E=92=E5=BA=8F=E5=87=BD=E6=95=B0</a> <br><a hr=
+ef=3D"http://www.cuj.com/documents/s=3D7992/cujcexp1908austern/"=20=
+target=3D"_top">The Standard Librarian: Sorting in the Standard L=
+ibrary</a> <br><a href=3D"http://www.stlchina.org/documents/Effec=
+tiveSTL/index.html" target=3D"_top">Effective STL=E4=B8=AD=E6=96=87=
+=E7=89=88</a> <br><a href=3D"http://www.stlchina.org/stl_doc/" ta=
+rget=3D"_top">Standard Template Library Programmer's Guide</a> vv=
+vv</div>=0A		<p class=3D"postfoot">=0A			posted on 2005-12-15 10:=
+25 <a href=3D"http://www.cppblog.com/mzty/">=E6=A2=A6=E5=9C=A8=E5=
+=A4=A9=E6=B6=AF</a> =E9=98=85=E8=AF=BB(96844) <a href=3D"#Post">=E8=
+=AF=84=E8=AE=BA(12)</a> &nbsp;<a href=3D"http://www.cppblog.com/m=
+zty/admin/EditPosts.aspx?postid=3D1770">=E7=BC=96=E8=BE=91</a>&nb=
+sp;<a href=3D"http://www.cppblog.com/mzty/AddToFavorite.aspx?id=3D=
+1770">=E6=94=B6=E8=97=8F</a> <a href=3D"http://www.cppblog.com/mz=
+ty/services/trackbacks/1770.aspx">=E5=BC=95=E7=94=A8</a>  =E6=89=80=
+=E5=B1=9E=E5=88=86=E7=B1=BB: <a href=3D"http://www.cppblog.com/mz=
+ty/category/200.html">STL/Boost</a> =0A		</p>=0A	</div>=0A	<img s=
+rc=3D"1770.jpg" width=3D"1" height=3D"1">=0A	=0A<!--=0A<rdf:RDF x=
+mlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"=0Axmlns:=
+dc=3D"http://purl.org/dc/elements/1.1/"=0Axmlns:trackback=3D"http=
+://madskills.com/public/xml/rss/module/trackback/">=0A<rdf:Descri=
+ption=0Ardf:about=3D"http://www.cppblog.com/mzty/archive/2005/12/=
+15/1770.html"=0Adc:identifier=3D"http://www.cppblog.com/mzty/arch=
+ive/2005/12/15/1770.html"=0Adc:title=3D"=E8=AF=A6=E7=BB=86=E8=A7=A3=
+=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) "=0Atrackback:ping=3D"http=
+://www.cppblog.com/mzty/services/trackbacks/1770.aspx" />=0A</rdf=
+:RDF>=0A-->=0A=0A	=0A=0A<div id=3D"AjaxHolder_UpdatePanel1">=0A	=20=
+   =0A    <a name=3D"pagedcomment"></a>=0A<a name=3D"=E8=AF=84=E8=
+=AE=BA">=0A</a><div id=3D"comments"><a name=3D"=E8=AF=84=E8=AE=BA=
+">=0A<h3>=E8=AF=84=E8=AE=BA</h3>=0A	=0A	=0A			</a><h4><a name=3D"=
+=E8=AF=84=E8=AE=BA">=0A				</a><a title=3D"permalink: re: =E8=AF=A6=
+=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) " href=3D=
+"#50194">#</a>&nbsp;<a name=3D"50194"></a>re: =E8=AF=A6=E7=BB=86=E8=
+=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) =0A					<span>=0A		=09=
+			2008-05-17 21:49=0A					</span>=0A				<a id=3D"AjaxHolder_Comm=
+ents_CommentList_ctl00_NameLink" href=3D"http://hi.baidu.com/=EF=BF=
+=BD=EF=BF=BD=CA=B9=EF=BF=BD=EF=BF=BD=C4=A72006" target=3D"_blank"=
+>=E5=A4=A9=E4=BD=BF=E6=81=B6=E9=AD=94</a>=0A			</h4>=0A			<p>=0A=09=
+			=E5=8E=89=E5=AE=B3=0A<br>=E5=BE=88=E6=9C=89=E7=94=A8=0A<br>=E8=
+=B0=A2=E8=B0=A2&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D<=
+/a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=
+=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" hre=
+f=3D"http://www.cppblog.com/comment?author=3D=E5=A4=A9=E4=BD=BF=E6=
+=81=B6=E9=AD=94" target=3D"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=
+=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl00_D=
+eleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHolder_Comments=
+_CommentList_ctl00_EditLink"></a>=0A			</p>=0A		=0A			<h4>=0A			=09=
+<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 S=
+TL =E6=8E=92=E5=BA=8F(Sort) [=E6=9C=AA=E7=99=BB=E5=BD=95]" href=3D=
+"#101224">#</a>&nbsp;<a name=3D"101224"></a>re: =E8=AF=A6=E7=BB=86=
+=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) [=E6=9C=AA=E7=99=BB=
+=E5=BD=95]=0A					<span>=0A						2009-11-17 18:36=0A					</span>=0A=
+				<a id=3D"AjaxHolder_Comments_CommentList_ctl01_NameLink" targ=
+et=3D"_blank">frank</a>=0A			</h4>=0A			<p>=0A				Thanks=EF=BC=81=
+&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;=
+<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=
+=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www=
+.cppblog.com/comment?author=3Dfrank" target=3D"_blank">=E6=9B=B4=E5=
+=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comments_C=
+ommentList_ctl01_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"A=
+jaxHolder_Comments_CommentList_ctl01_EditLink"></a>=0A			</p>=0A=09=
+	=0A			<h4>=0A				<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=
+=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) " href=3D"#110126">#=
+</a>&nbsp;<a name=3D"110126"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=
+=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) =0A					<span>=0A						2010-0=
+3-19 20:07=0A					</span>=0A				<a id=3D"AjaxHolder_Comments_Comm=
+entList_ctl02_NameLink" target=3D"_blank">genius</a>=0A			</h4>=0A=
+			<p>=0A				=E8=BF=99=E4=B8=AA=E6=8E=92=E5=BA=8F=E5=BE=88IMBA&nb=
+sp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a=20=
+title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=
+=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www.cp=
+pblog.com/comment?author=3Dgenius" target=3D"_blank">=E6=9B=B4=E5=
+=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comments_C=
+ommentList_ctl02_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"A=
+jaxHolder_Comments_CommentList_ctl02_EditLink"></a>=0A			</p>=0A=09=
+	=0A			<h4>=0A				<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=
+=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) " href=3D"#141127">#=
+</a>&nbsp;<a name=3D"141127"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=
+=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) =0A					<span>=0A						2011-0=
+3-04 20:29=0A					</span>=0A				<a id=3D"AjaxHolder_Comments_Comm=
+entList_ctl03_NameLink" href=3D"http://www.coridc.com/" target=3D=
+"_blank">=E8=B4=9D=E5=A3=B3=E9=87=8C=E7=9A=84=E6=B5=B7</a>=0A			<=
+/h4>=0A			<p>=0A				=E5=BE=88=E8=AF=A6=E7=BB=86=EF=BC=8C=E7=89=9B=
+X&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp=
+;<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=
+=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www=
+.cppblog.com/comment?author=3D=E8=B4=9D=E5=A3=B3=E9=87=8C=E7=9A=84=
+=E6=B5=B7" target=3D"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=AE=BA=
+</a>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl03_DeleteL=
+ink" href=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHolder_Comments_Comme=
+ntList_ctl03_EditLink"></a>=0A			</p>=0A		=0A			<h4>=0A				<a tit=
+le=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=
+=8E=92=E5=BA=8F(Sort) " href=3D"#189264">#</a>&nbsp;<a name=3D"18=
+9264"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=
+=BA=8F(Sort) =0A					<span>=0A						2012-09-03 14:28=0A					</spa=
+n>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl04_NameLink"=
+ target=3D"_blank">magicyang87</a>=0A			</h4>=0A			<p>=0A				=E4=B8=
+=8D=E5=BE=97=E4=B8=8D=E9=A1=B6=EF=BC=81&nbsp;&nbsp;<a  href=3D"#p=
+ost">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=E7=9C=
+=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=9A=84=
+=E8=AF=84=E8=AE=BA" href=3D"http://www.cppblog.com/comment?author=
+=3Dmagicyang87" target=3D"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=AE=
+=BA</a>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl04_Dele=
+teLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHolder_Comments_Co=
+mmentList_ctl04_EditLink"></a>=0A			</p>=0A		=0A			<h4>=0A				<a=20=
+title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL=20=
+=E6=8E=92=E5=BA=8F(Sort) " href=3D"#198906">#</a>&nbsp;<a name=3D=
+"198906"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=
+=E5=BA=8F(Sort) =0A					<span>=0A						2013-03-29 02:36=0A					</=
+span>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl05_NameLi=
+nk" target=3D"_blank">AladdinWang</a>=0A			</h4>=0A			<p>=0A				s=
+ort=E4=BC=9A=E8=B0=83=E7=94=A8cmp(a1, a2)=EF=BC=8C=E8=80=8C=E8=B5=
+=B7=E6=A8=A1=E6=9D=BF=E5=8F=82=E6=95=B0cmp=E7=9A=84=E9=BB=98=E8=AE=
+=A4=E5=80=BC=E6=98=AFless&lt;T&gt;<br><br>=E5=85=B6=E5=BD=A2=E5=BC=
+=8F=E6=98=AF<br>template &lt;class T&gt;<br>struct less&lt;T&gt;<=
+br>{<br>bool operator(const T &amp; t1, const T &amp; t2) const<b=
+r>{<br>return t1 &lt; t2;<br>}<br>};<br>=E4=B8=8D=E6=98=8E=E7=99=BD=
+=E7=9B=B4=E6=8E=A5=E4=BC=A0=E4=B8=AA=E5=87=BD=E6=95=B0=E5=90=8D=E4=
+=BD=9C=E4=B8=BA=E5=8F=82=E6=95=B0=E6=9C=89=E4=BB=80=E4=B9=88=E4=BD=
+=9C=E7=94=A8<br><br>=E4=B8=8D=E8=BF=87=E5=88=B0=E8=B0=83=E7=94=A8=
+=E7=9A=84=E6=97=B6=E5=80=99<br>=E5=BD=A2=E5=BC=8F=E8=BF=98=E6=98=AF=
+=E6=A0=B9=E6=8D=AEcmp(t1, t2)=E7=9A=84=E7=BB=93=E6=9E=9C=E5=86=B3=
+=E5=AE=9A=E6=8E=92=E5=BA=8F=E9=A1=BA=E5=BA=8F&nbsp;&nbsp;<a  href=
+=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=
+=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=
+=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www.cppblog.com/comment?=
+author=3DAladdinWang" target=3D"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=
+=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl0=
+5_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHolder_Comme=
+nts_CommentList_ctl05_EditLink"></a>=0A			</p>=0A		=0A			<h4>=0A=09=
+			<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4=
+ STL =E6=8E=92=E5=BA=8F(Sort) " href=3D"#201637">#</a>&nbsp;<a na=
+me=3D"201637"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=
+=8E=92=E5=BA=8F(Sort) =0A					<span>=0A						2013-07-09 12:47=0A=09=
+				</span>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl06_=
+NameLink" target=3D"_blank">zhuimengzh</a>=0A			</h4>=0A			<p>=0A=
+				=E6=96=87=E7=AB=A0=E5=86=99=E7=9A=84=E5=A4=AA=E6=A3=92=E4=BA=86=
+=EF=BC=81=E6=A5=BC=E4=B8=BB=E8=BE=9B=E4=BA=86=EF=BC=81&nbsp;&nbsp=
+;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D=
+"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=
+=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www.cppblog.com=
+/comment?author=3Dzhuimengzh" target=3D"_blank">=E6=9B=B4=E5=A4=9A=
+=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comments_Comment=
+List_ctl06_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHol=
+der_Comments_CommentList_ctl06_EditLink"></a>=0A			</p>=0A		=0A	=09=
+	<h4>=0A				<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=
+=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) " href=3D"#204471">#</a>&n=
+bsp;<a name=3D"204471"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4=
+ STL =E6=8E=92=E5=BA=8F(Sort) =0A					<span>=0A						2013-11-27 1=
+0:38=0A					</span>=0A				<a id=3D"AjaxHolder_Comments_CommentLis=
+t_ctl07_NameLink" href=3D"http://=E9=BB=84=E5=BE=B7=E5=86=9B135/"=
+ target=3D"_blank">=E9=BB=84=E5=BE=B7=E5=86=9B</a>=0A			</h4>=0A=09=
+		<p>=0A				=E5=86=99=E7=9A=84=E5=A4=AA=E5=A5=BD=E4=BA=86=EF=BC=81=
+=E5=8F=97=E7=9B=8A=E5=8C=AA=E6=B5=85=E5=95=8A!&nbsp;&nbsp;<a  hre=
+f=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=
+=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=
+=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www.cppblog.com/comment?=
+author=3D=E9=BB=84=E5=BE=B7=E5=86=9B" target=3D"_blank">=E6=9B=B4=
+=E5=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comment=
+s_CommentList_ctl07_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D=
+"AjaxHolder_Comments_CommentList_ctl07_EditLink"></a>=0A			</p>=0A=
+		=0A			<h4>=0A				<a title=3D"permalink: re: =E8=AF=A6=E7=BB=86=E8=
+=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) " href=3D"#205868">#=
+</a>&nbsp;<a name=3D"205868"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=
+=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) =0A					<span>=0A						2014-0=
+2-20 17:30=0A					</span>=0A				<a id=3D"AjaxHolder_Comments_Comm=
+entList_ctl08_NameLink" target=3D"_blank">ezhong</a>=0A			</h4>=0A=
+			<p>=0A				nth_element =E7=9A=84=E7=BB=93=E6=9E=9C=E4=B8=8EVS20=
+08=E7=9A=84=E8=BE=93=E5=87=BA=E4=B8=8D=E4=B8=80=E6=A0=B7..VS2008=E6=
+=98=AF=E5=85=A8=E6=8E=92=E5=BA=8F&nbsp;&nbsp;<a  href=3D"#post">=E5=
+=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=
+=A5=E4=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=
+=E8=AE=BA" href=3D"http://www.cppblog.com/comment?author=3Dezhong=
+" target=3D"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=AE=BA</a>=0A	=09=
+		<a id=3D"AjaxHolder_Comments_CommentList_ctl08_DeleteLink" href=
+=3D""></a>&nbsp;&nbsp;<a id=3D"AjaxHolder_Comments_CommentList_ct=
+l08_EditLink"></a>=0A			</p>=0A		=0A			<h4>=0A				<a title=3D"per=
+malink: re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=
+=BA=8F(Sort) " href=3D"#206632">#</a>&nbsp;<a name=3D"206632"></a=
+>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(=
+Sort) =0A					<span>=0A						2014-04-18 15:31=0A					</span>=0A	=09=
+		<a id=3D"AjaxHolder_Comments_CommentList_ctl09_NameLink" href=3D=
+"http://howieli.me/" target=3D"_blank">HL</a>=0A			</h4>=0A			<p>=
+=0A				=E5=A4=AA=E6=A3=92=E4=BA=86=EF=BC=8C=E9=9D=9E=E5=B8=B8=E6=84=
+=9F=E8=B0=A2=E3=80=82&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=
+=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=
+=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA"=20=
+href=3D"http://www.cppblog.com/comment?author=3DHL" target=3D"_bl=
+ank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"Ajax=
+Holder_Comments_CommentList_ctl09_DeleteLink" href=3D""></a>&nbsp=
+;&nbsp;<a id=3D"AjaxHolder_Comments_CommentList_ctl09_EditLink"><=
+/a>=0A			</p>=0A		=0A			<h4>=0A				<a title=3D"permalink: re: =E8=
+=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) [=E6=
+=9C=AA=E7=99=BB=E5=BD=95]" href=3D"#208254">#</a>&nbsp;<a name=3D=
+"208254"></a>re: =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=
+=E5=BA=8F(Sort) [=E6=9C=AA=E7=99=BB=E5=BD=95]=0A					<span>=0A		=09=
+			2014-09-09 16:38=0A					</span>=0A				<a id=3D"AjaxHolder_Comm=
+ents_CommentList_ctl10_NameLink" target=3D"_blank">liu</a>=0A			<=
+/h4>=0A			<p>=0A				=E4=B8=8D=E9=94=99=E5=95=8A=EF=BC=8C=E9=95=BF=
+=E8=A7=81=E8=AF=86=E5=95=A6&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=
+=E5=A4=8D</a>&nbsp;&nbsp;<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=
+=BD=9C=E8=80=85=E5=8F=91=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=
+=BA" href=3D"http://www.cppblog.com/comment?author=3Dliu" target=3D=
+"_blank">=E6=9B=B4=E5=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"=
+AjaxHolder_Comments_CommentList_ctl10_DeleteLink" href=3D""></a>&=
+nbsp;&nbsp;<a id=3D"AjaxHolder_Comments_CommentList_ctl10_EditLin=
+k"></a>=0A			</p>=0A		=0A			<h4>=0A				<a title=3D"permalink: re:=
+ =E8=AF=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort=
+) " href=3D"#211935">#</a>&nbsp;<a name=3D"211935"></a>re: =E8=AF=
+=A6=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) <a na=
+me=3D"Post"></a>=0A					<span>=0A						2015-10-01 10:50=0A					</=
+span>=0A				<a id=3D"AjaxHolder_Comments_CommentList_ctl11_NameLi=
+nk" href=3D"http://memeda@github.com/" target=3D"_blank">xu,wei</=
+a>=0A			</h4>=0A			<p>=0A				=E7=9C=8B=E5=AE=8C=E4=BA=86=EF=BC=8C=
+=E8=A7=89=E5=BE=97=E5=AF=B9STL sort=E7=9A=84=E7=94=A8=E6=B3=95=E8=
+=AF=B4=E5=BE=97=E6=AF=94=E8=BE=83=E6=B8=85=E6=A5=9A~<br>=E8=B5=9E=
+&nbsp;&nbsp;<a  href=3D"#post">=E5=9B=9E=E5=A4=8D</a>&nbsp;&nbsp;=
+<a title=3D"=E6=9F=A5=E7=9C=8B=E8=AF=A5=E4=BD=9C=E8=80=85=E5=8F=91=
+=E8=A1=A8=E8=BF=87=E7=9A=84=E8=AF=84=E8=AE=BA" href=3D"http://www=
+.cppblog.com/comment?author=3Dxu,wei" target=3D"_blank">=E6=9B=B4=
+=E5=A4=9A=E8=AF=84=E8=AE=BA</a>=0A				<a id=3D"AjaxHolder_Comment=
+s_CommentList_ctl11_DeleteLink" href=3D""></a>&nbsp;&nbsp;<a id=3D=
+"AjaxHolder_Comments_CommentList_ctl11_EditLink"></a>=0A			</p>=0A=
+		=0A</div><div id=3D"AjaxHolder_Comments_divRefreshComments" sty=
+le=3D"text-align:right;margin-right:10px;margin-bottom:5px;font-s=
+ize:12px;"><a id=3D"AjaxHolder_Comments_refreshList" href=3D"">=E5=
+=88=B7=E6=96=B0=E8=AF=84=E8=AE=BA=E5=88=97=E8=A1=A8</a></div>=0A<=
+style>=0Atd { font-size: 12px }=0A.commentTextBox =0A{ =0A    fon=
+t-family : Verdana; =0A    font-size: 13px;=0A }=0A</style>=0A<!-=
+-Beging Temp Save-->=0A<style>.userData { BEHAVIOR: url(#default#=
+userdata) }=0A	</style>=0A<div class=3D"userData" id=3D"CommentsP=
+ersistDiv"></div>=0A=0A<!--Ene TempSave-->=0A<div class=3D"commen=
+tform">=0A<span id=3D"AjaxHolder_PostComment_ltSubmitMsg" style=3D=
+"color:Red;"></span>=0A<br>=0A<a name=3D"Feedback"></a>=0A	<table=
+ cellspacing=3D"1" cellpadding=3D"1" border=3D"0">=0A		=0A		<tbod=
+y><tr><td colspan=3D"3">=E5=8F=AA=E6=9C=89=E6=B3=A8=E5=86=8C=E7=94=
+=A8=E6=88=B7<a href=3D"http://www.cppblog.com/login.aspx?ReturnUr=
+l=3D/mzty/archive/2005/12/15/1770.html">=E7=99=BB=E5=BD=95</a>=E5=
+=90=8E=E6=89=8D=E8=83=BD=E5=8F=91=E8=A1=A8=E8=AF=84=E8=AE=BA=E3=80=
+=82</td></tr>=0A		<tr>=0A		<td colspan=3D"3" style=3D"line-height=
+:2.5">=0A		<a href=3D"http://www.ucancode.com/index.htm" target=3D=
+"_blank">=E3=80=90=E6=8E=A8=E8=8D=90=E3=80=91=E8=B6=8550=E4=B8=87=
+=E8=A1=8CVC++=E6=BA=90=E7=A0=81: =E5=A4=A7=E5=9E=8B=E7=BB=84=E6=80=
+=81=E5=B7=A5=E6=8E=A7=E3=80=81=E7=94=B5=E5=8A=9B=E4=BB=BF=E7=9C=9F=
+CAD=E4=B8=8EGIS=E6=BA=90=E7=A0=81=E5=BA=93</a><br>=0A		=0A=0A		=0A=
+		=0A		<!-- cppblog_blogpost_bottom -->=0A		<div id=3D"div-gpt-ad=
+-1391948236744-0" style=3D"width:300px; height:250px;">=0A		=0A	=09=
+</div>=0A		</td>=0A		</tr>=0A		<tr>			=0A		<td colspan=3D"3">=0A=09=
+	=0A		</td>=0A		</tr>=0A		<tr>=0A			<td colspan=3D"3" height=3D"5=
+">=0A<div id=3D"divRelativePosts">=0A=E7=9B=B8=E5=85=B3=E6=96=87=E7=
+=AB=A0:=0A	=0A			<ul style=3D"margin-top:0px;line-height:1.8;">=0A=
+		=0A			<li style=3D"list-style:none;">=0A				<a id=3D"AjaxHolder=
+_PostComment_ctl07_RelativePostsList_ctl01_Hyperlink1" href=3D"ht=
+tp://www.cppblog.com/mzty/archive/2007/09/05/31622.html">=E5=BC=95=
+=E9=A2=86boost=EF=BC=88=E5=85=AD=EF=BC=89=EF=BC=88boost::bind=EF=BC=
+=89</a>=0A			</li>=0A		=0A			<li style=3D"list-style:none;">=0A	=09=
+		<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsList_ctl02_H=
+yperlink1" href=3D"http://www.cppblog.com/mzty/archive/2005/12/28=
+/2200.html">=E7=90=86=E8=A7=A3STL=EF=BC=8D=EF=BC=8D=EF=BC=8Dunder=
+standing stl</a>=0A			</li>=0A		=0A			<li style=3D"list-style:non=
+e;">=0A				<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsLis=
+t_ctl03_Hyperlink1" href=3D"http://www.cppblog.com/mzty/archive/2=
+005/12/16/1828.html">list=E6=9D=A5=E6=93=8D=E4=BD=9Cstl=E4=B8=AD=E7=
+=9A=84=E7=AE=97=E6=B3=95=EF=BC=8D=EF=BC=8D=EF=BC=8D=E5=85=B6=E4=BB=
+=96=E7=9A=84=E9=83=BD=E7=9B=B8=E4=BC=BC=EF=BC=81</a>=0A			</li>=0A=
+		=0A			<li style=3D"list-style:none;">=0A				<a id=3D"AjaxHolder=
+_PostComment_ctl07_RelativePostsList_ctl04_Hyperlink1" href=3D"ht=
+tp://www.cppblog.com/mzty/archive/2005/12/16/1827.html">stl=E4=B8=
+=AD=E7=9A=84algorithms=E7=9C=9F=E6=98=AF=E5=BC=BA=EF=BC=81=E6=88=91=
+=E8=83=BD=E6=83=B3=E5=88=B0=E7=9A=84=E7=AE=97=E6=B3=95=E9=83=BD=E6=
+=9C=89=E5=95=8A=EF=BC=81</a>=0A			</li>=0A		=0A			<li style=3D"li=
+st-style:none;">=0A				<a id=3D"AjaxHolder_PostComment_ctl07_Rela=
+tivePostsList_ctl05_Hyperlink1" href=3D"http://www.cppblog.com/mz=
+ty/archive/2005/12/16/1824.html">alloc=E5=92=8C=E4=B8=80=E4=BA=9B=
+=E6=95=B0=E8=AE=B8=E5=87=BD=E6=95=B0</a>=0A			</li>=0A		=0A			<li=
+ style=3D"list-style:none;display:none">=0A				<a id=3D"AjaxHolde=
+r_PostComment_ctl07_RelativePostsList_ctl06_Hyperlink1" href=3D"h=
+ttp://www.cppblog.com/mzty/archive/2005/12/15/1770.html">=E8=AF=A6=
+=E7=BB=86=E8=A7=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) </a>=0A=09=
+		</li>=0A		=0A			<li style=3D"list-style:none;">=0A				<a id=3D"=
+AjaxHolder_PostComment_ctl07_RelativePostsList_ctl07_Hyperlink1"=20=
+href=3D"http://www.cppblog.com/mzty/archive/2005/12/14/1746.html"=
+>=E5=87=BD=E6=95=B0=E5=AF=B9=E8=B1=A1</a>=0A			</li>=0A		=0A			<l=
+i style=3D"list-style:none;">=0A				<a id=3D"AjaxHolder_PostComme=
+nt_ctl07_RelativePostsList_ctl08_Hyperlink1" href=3D"http://www.c=
+ppblog.com/mzty/archive/2005/12/14/1743.html">stl----sort =E4=B8=8E=
+unique=E7=9A=84=E8=B0=83=E7=94=A8=E6=AC=A1=E5=BA=8F=E5=92=8Cuniqu=
+e=E7=9A=84=E7=94=A8=E6=B3=95</a>=0A			</li>=0A		=0A			<li style=3D=
+"list-style:none;">=0A				<a id=3D"AjaxHolder_PostComment_ctl07_R=
+elativePostsList_ctl09_Hyperlink1" href=3D"http://www.cppblog.com=
+/mzty/archive/2005/12/14/1728.html">stl=EF=BC=8D=EF=BC=8D=EF=BC=8D=
+Container Types and Members in Detail</a>=0A			</li>=0A		=0A			<l=
+i style=3D"list-style:none;">=0A				<a id=3D"AjaxHolder_PostComme=
+nt_ctl07_RelativePostsList_ctl10_Hyperlink1" href=3D"http://www.c=
+ppblog.com/mzty/archive/2005/12/14/1727.html"> stl=EF=BC=8D=E4=BB=
+=80=E4=B9=88=E6=97=B6=E5=80=99=E7=94=A8=E9=82=A3=E7=A7=8Dcontaine=
+r=EF=BC=9F</a>=0A			</li>=0A		=0A			</ul>=0A		=0A</div>=0A</td>=0A=
+		</tr>=0A		<tr>=0A			<td colspan=3D"3"></td>=0A		</tr>=0A		<tr>=0A=
+			<td colspan=3D"3" height=3D"1"><div id=3D"blogsite">=E7=BD=91=E7=
+=AB=99=E5=AF=BC=E8=88=AA:=0A			<a href=3D"http://www.cnblogs.com/=
+">=E5=8D=9A=E5=AE=A2=E5=9B=AD</a>&nbsp;&nbsp;=0A			<a href=3D"htt=
+ps://news.cnblogs.com/">IT=E6=96=B0=E9=97=BB</a>&nbsp;&nbsp;=0A	=09=
+	<a href=3D"http://www.blogjava.net/">BlogJava</a>&nbsp;&nbsp;=0A=
+			<a href=3D"http://kb.cnblogs.com/">=E7=9F=A5=E8=AF=86=E5=BA=93=
+</a>&nbsp;&nbsp;=0A			<a href=3D"https://q.cnblogs.com/">=E5=8D=9A=
+=E9=97=AE</a>&nbsp;&nbsp;=0A			<a href=3D"http://www.cppblog.com/=
+mzty/archive/2005/12/15/1770.html?opt=3Dadmin">=E7=AE=A1=E7=90=86=
+</a>=0A			</div></td>=0A		</tr>=0A		<tr>=0A			<td colspan=3D"3">=0A=
+				=0A<br>=0A=0A<br>=0A=0A</td>=0A		</tr>=0A	</tbody></table>	=0A=
+</div>=0A<div id=3D"AjaxHolder_PostComment_ValidationSummary1" st=
+yle=3D"color:Red;display:none;">=0A=0A	</div>=0A=0A</div>=0A=0A	=09=
+		=0A			</div>=0A			<div id=3D"rightmenu">=0A				=0A					=0A<h3>=E5=
+=85=AC=E5=91=8A</h3>=0A	EMail=EF=BC=9Aitech001#126.com<br>=0A=0A=0A=
+=0A=0A					=0A<h3>=E5=AF=BC=E8=88=AA</h3>=0A<ul>=0A			<li><a id=3D=
+"MyLinks1_HomeLink" href=3D"http://www.cppblog.com/">C++=E5=8D=9A=
+=E5=AE=A2</a></li>=0A			<li><a id=3D"MyLinks1_MyHomeLink" href=3D=
+"http://www.cppblog.com/mzty/">=E9=A6=96=E9=A1=B5</a></li>=0A			<=
+li><a id=3D"MyLinks1_NewPostLink" href=3D"http://www.cppblog.com/=
+mzty/admin/EditPosts.aspx?opt=3D1">=E6=96=B0=E9=9A=8F=E7=AC=94</a=
+></li>=0A			<li><a id=3D"MyLinks1_ContactLink" accesskey=3D"9" hr=
+ef=3D"http://www.cppblog.com/mzty/contact.aspx?id=3D1">=E8=81=94=E7=
+=B3=BB</a></li>=0A			<li><a id=3D"MyLinks1_Syndication" href=3D"h=
+ttp://www.cppblog.com/mzty/Rss.aspx">=E8=81=9A=E5=90=88</a><a id=3D=
+"MyLinks1_XMLLink" href=3D"http://www.cppblog.com/mzty/Rss.aspx">=
+<img src=3D"xml.gif" style=3D"border-width:0px;"></a>=0A			</li><=
+li><a id=3D"MyLinks1_Admin" href=3D"http://www.cppblog.com/mzty/a=
+dmin/EditPosts.aspx">=E7=AE=A1=E7=90=86</a></li>=0A</ul>=0A					=0A=
+					=0A<h3>=E7=BB=9F=E8=AE=A1</h3>=0A	<ul>=0A		<li>=E9=9A=8F=E7=AC=
+=94 - 461=0A		</li><li>=E6=96=87=E7=AB=A0 - 4=0A		</li><li>=E8=AF=
+=84=E8=AE=BA - 746=0A		</li><li>=E5=BC=95=E7=94=A8 - 0=0A	</li>=0A=
+</ul>=0A					=0A<h3>=E5=B8=B8=E7=94=A8=E9=93=BE=E6=8E=A5</h3>=0A<=
+ul>=0A		<li><a id=3D"SingleColumn1_ctl00_repeaterLinks_ctl01_lnkL=
+inkItem" href=3D"http://www.cppblog.com/mzty/MyPosts.html">=E6=88=
+=91=E7=9A=84=E9=9A=8F=E7=AC=94</a></li>=0A	=0A		<li><a id=3D"Sing=
+leColumn1_ctl00_repeaterLinks_ctl02_lnkLinkItem" href=3D"http://w=
+ww.cppblog.com/mzty/MyComments.html">=E6=88=91=E7=9A=84=E8=AF=84=E8=
+=AE=BA</a></li>=0A	=0A		<li><a id=3D"SingleColumn1_ctl00_repeater=
+Links_ctl03_lnkLinkItem" href=3D"http://www.cppblog.com/mzty/Othe=
+rPosts.html">=E6=88=91=E5=8F=82=E4=B8=8E=E7=9A=84=E9=9A=8F=E7=AC=94=
+</a></li>=0A	</ul>=0A		<h3>=E9=9A=8F=E7=AC=94=E5=88=86=E7=B1=BB</=
+h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D"SingleColumn1_Catego=
+ries_CatList_ctl00_LinkList_ctl01_Link" href=3D"http://www.cppblo=
+g.com/mzty/category/3174.html">64bit/FW3.5(8)</a> <a id=3D"Single=
+Column1_Categories_CatList_ctl00_LinkList_ctl01_RssLink" title=3D=
+"Subscribe to 64bit/FW3.5(8)" href=3D"http://www.cppblog.com/mzty=
+/category/3174.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"=
+SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_Link" href=3D=
+"http://www.cppblog.com/mzty/category/1624.html">ARX/DBX(18)</a>=20=
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_Rs=
+sLink" title=3D"Subscribe to ARX/DBX(18)" href=3D"http://www.cppb=
+log.com/mzty/category/1624.html/rss">(rss)</a></li>=0A			=0A				<=
+li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl03=
+_Link" href=3D"http://www.cppblog.com/mzty/category/1773.html">AS=
+P.NET(1)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_Link=
+List_ctl03_RssLink" title=3D"Subscribe to ASP.NET(1)" href=3D"htt=
+p://www.cppblog.com/mzty/category/1773.html/rss">(rss)</a></li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_Lin=
+kList_ctl04_Link" href=3D"http://www.cppblog.com/mzty/category/28=
+6.html">C#/.NET(116)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl04_RssLink" title=3D"Subscribe to C#/.NET(116=
+)" href=3D"http://www.cppblog.com/mzty/category/286.html/rss">(rs=
+s)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_Cat=
+List_ctl00_LinkList_ctl05_Link" href=3D"http://www.cppblog.com/mz=
+ty/category/638.html">COM/ATL(8)</a> <a id=3D"SingleColumn1_Categ=
+ories_CatList_ctl00_LinkList_ctl05_RssLink" title=3D"Subscribe to=
+ COM/ATL(8)" href=3D"http://www.cppblog.com/mzty/category/638.htm=
+l/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Cate=
+gories_CatList_ctl00_LinkList_ctl06_Link" href=3D"http://www.cppb=
+log.com/mzty/category/199.html">CPlusPlus(166)</a> <a id=3D"Singl=
+eColumn1_Categories_CatList_ctl00_LinkList_ctl06_RssLink" title=3D=
+"Subscribe to CPlusPlus(166)" href=3D"http://www.cppblog.com/mzty=
+/category/199.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"S=
+ingleColumn1_Categories_CatList_ctl00_LinkList_ctl07_Link" href=3D=
+"http://www.cppblog.com/mzty/category/654.html">Data Arithmetic(7=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ct=
+l07_RssLink" title=3D"Subscribe to Data Arithmetic(7)" href=3D"ht=
+tp://www.cppblog.com/mzty/category/654.html/rss">(rss)</a></li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_Lin=
+kList_ctl08_Link" href=3D"http://www.cppblog.com/mzty/category/65=
+3.html">Design pattern(32)</a> <a id=3D"SingleColumn1_Categories_=
+CatList_ctl00_LinkList_ctl08_RssLink" title=3D"Subscribe to Desig=
+n pattern(32)" href=3D"http://www.cppblog.com/mzty/category/653.h=
+tml/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Ca=
+tegories_CatList_ctl00_LinkList_ctl09_Link" href=3D"http://www.cp=
+pblog.com/mzty/category/1502.html">DirectX(18)</a> <a id=3D"Singl=
+eColumn1_Categories_CatList_ctl00_LinkList_ctl09_RssLink" title=3D=
+"Subscribe to DirectX(18)" href=3D"http://www.cppblog.com/mzty/ca=
+tegory/1502.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"Sin=
+gleColumn1_Categories_CatList_ctl00_LinkList_ctl10_Link" href=3D"=
+http://www.cppblog.com/mzty/category/2023.html">Enlish(9)</a> <a=20=
+id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl10_RssLi=
+nk" title=3D"Subscribe to Enlish(9)" href=3D"http://www.cppblog.c=
+om/mzty/category/2023.html/rss">(rss)</a></li>=0A			=0A				<li><a=
+ id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl11_Link=
+" href=3D"http://www.cppblog.com/mzty/category/5694.html">Game/Op=
+enGL(10)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_Link=
+List_ctl11_RssLink" title=3D"Subscribe to Game/OpenGL(10)" href=3D=
+"http://www.cppblog.com/mzty/category/5694.html/rss">(rss)</a></l=
+i>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl0=
+0_LinkList_ctl12_Link" href=3D"http://www.cppblog.com/mzty/catego=
+ry/588.html">interview(9)</a> <a id=3D"SingleColumn1_Categories_C=
+atList_ctl00_LinkList_ctl12_RssLink" title=3D"Subscribe to interv=
+iew(9)" href=3D"http://www.cppblog.com/mzty/category/588.html/rss=
+">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categorie=
+s_CatList_ctl00_LinkList_ctl13_Link" href=3D"http://www.cppblog.c=
+om/mzty/category/695.html">Manage c++ /CLI(23)</a> <a id=3D"Singl=
+eColumn1_Categories_CatList_ctl00_LinkList_ctl13_RssLink" title=3D=
+"Subscribe to Manage c++ /CLI(23)" href=3D"http://www.cppblog.com=
+/mzty/category/695.html/rss">(rss)</a></li>=0A			=0A				<li><a id=
+=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl14_Link" h=
+ref=3D"http://www.cppblog.com/mzty/category/201.html">MFC/QT(24)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl1=
+4_RssLink" title=3D"Subscribe to MFC/QT(24)" href=3D"http://www.c=
+ppblog.com/mzty/category/201.html/rss">(rss)</a></li>=0A			=0A		=09=
+	<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl=
+15_Link" href=3D"http://www.cppblog.com/mzty/category/5778.html">=
+My Project(7)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00=
+_LinkList_ctl15_RssLink" title=3D"Subscribe to My Project(7)" hre=
+f=3D"http://www.cppblog.com/mzty/category/5778.html/rss">(rss)</a=
+></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_=
+ctl00_LinkList_ctl16_Link" href=3D"http://www.cppblog.com/mzty/ca=
+tegory/696.html">Open source(2)</a> <a id=3D"SingleColumn1_Catego=
+ries_CatList_ctl00_LinkList_ctl16_RssLink" title=3D"Subscribe to=20=
+Open source(2)" href=3D"http://www.cppblog.com/mzty/category/696.=
+html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_C=
+ategories_CatList_ctl00_LinkList_ctl17_Link" href=3D"http://www.c=
+ppblog.com/mzty/category/1814.html">soft test(2)</a> <a id=3D"Sin=
+gleColumn1_Categories_CatList_ctl00_LinkList_ctl17_RssLink" title=
+=3D"Subscribe to soft test(2)" href=3D"http://www.cppblog.com/mzt=
+y/category/1814.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl18_Link" href=
+=3D"http://www.cppblog.com/mzty/category/1665.html">software engi=
+ne(6)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkLis=
+t_ctl18_RssLink" title=3D"Subscribe to software engine(6)" href=3D=
+"http://www.cppblog.com/mzty/category/1665.html/rss">(rss)</a></l=
+i>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl0=
+0_LinkList_ctl19_Link" href=3D"http://www.cppblog.com/mzty/catego=
+ry/200.html">STL/Boost(11)</a> <a id=3D"SingleColumn1_Categories_=
+CatList_ctl00_LinkList_ctl19_RssLink" title=3D"Subscribe to STL/B=
+oost(11)" href=3D"http://www.cppblog.com/mzty/category/200.html/r=
+ss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categor=
+ies_CatList_ctl00_LinkList_ctl20_Link" href=3D"http://www.cppblog=
+.com/mzty/category/249.html">UML/XML(6)</a> <a id=3D"SingleColumn=
+1_Categories_CatList_ctl00_LinkList_ctl20_RssLink" title=3D"Subsc=
+ribe to UML/XML(6)" href=3D"http://www.cppblog.com/mzty/category/=
+249.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColum=
+n1_Categories_CatList_ctl00_LinkList_ctl21_Link" href=3D"http://w=
+ww.cppblog.com/mzty/category/7609.html">VC Team</a> <a id=3D"Sing=
+leColumn1_Categories_CatList_ctl00_LinkList_ctl21_RssLink" title=3D=
+"Subscribe to VC Team" href=3D"http://www.cppblog.com/mzty/catego=
+ry/7609.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleC=
+olumn1_Categories_CatList_ctl00_LinkList_ctl22_Link" href=3D"http=
+://www.cppblog.com/mzty/category/1588.html">VS2005/2008(15)</a> <=
+a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl22_Rss=
+Link" title=3D"Subscribe to VS2005/2008(15)" href=3D"http://www.c=
+ppblog.com/mzty/category/1588.html/rss">(rss)</a></li>=0A			=0A	=09=
+		<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ct=
+l23_Link" href=3D"http://www.cppblog.com/mzty/category/298.html">=
+Windows API(27)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl=
+00_LinkList_ctl23_RssLink" title=3D"Subscribe to Windows API(27)"=
+ href=3D"http://www.cppblog.com/mzty/category/298.html/rss">(rss)=
+</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLi=
+st_ctl00_LinkList_ctl24_Link" href=3D"http://www.cppblog.com/mzty=
+/category/2694.html">Windows Script(11)</a> <a id=3D"SingleColumn=
+1_Categories_CatList_ctl00_LinkList_ctl24_RssLink" title=3D"Subsc=
+ribe to Windows Script(11)" href=3D"http://www.cppblog.com/mzty/c=
+ategory/2694.html/rss">(rss)</a></li>=0A			=0A				<li><a id=3D"Si=
+ngleColumn1_Categories_CatList_ctl00_LinkList_ctl25_Link" href=3D=
+"http://www.cppblog.com/mzty/category/2059.html">XP /AOP(1)</a> <=
+a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl25_Rss=
+Link" title=3D"Subscribe to XP /AOP(1)" href=3D"http://www.cppblo=
+g.com/mzty/category/2059.html/rss">(rss)</a></li>=0A			=0A				</u=
+l>=0A			=0A	=0A		<h3>=E9=9A=8F=E7=AC=94=E6=A1=A3=E6=A1=88</h3>=0A=
+		=0A				<ul>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_C=
+atList_ctl01_LinkList_ctl01_Link" href=3D"http://www.cppblog.com/=
+mzty/archive/2013/07.html">2013=E5=B9=B47=E6=9C=88 (1)</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_Lin=
+kList_ctl02_Link" href=3D"http://www.cppblog.com/mzty/archive/201=
+1/01.html">2011=E5=B9=B41=E6=9C=88 (1)</a> </li>=0A			=0A				<li>=
+<a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl03_Li=
+nk" href=3D"http://www.cppblog.com/mzty/archive/2010/12.html">201=
+0=E5=B9=B412=E6=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D"Sing=
+leColumn1_Categories_CatList_ctl01_LinkList_ctl04_Link" href=3D"h=
+ttp://www.cppblog.com/mzty/archive/2010/11.html">2010=E5=B9=B411=E6=
+=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categ=
+ories_CatList_ctl01_LinkList_ctl05_Link" href=3D"http://www.cppbl=
+og.com/mzty/archive/2010/09.html">2010=E5=B9=B49=E6=9C=88 (1)</a>=
+ </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_=
+ctl01_LinkList_ctl06_Link" href=3D"http://www.cppblog.com/mzty/ar=
+chive/2010/04.html">2010=E5=B9=B44=E6=9C=88 (1)</a> </li>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_=
+ctl07_Link" href=3D"http://www.cppblog.com/mzty/archive/2009/03.h=
+tml">2009=E5=B9=B43=E6=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl08_Link" href=
+=3D"http://www.cppblog.com/mzty/archive/2009/02.html">2009=E5=B9=B4=
+2=E6=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_C=
+ategories_CatList_ctl01_LinkList_ctl09_Link" href=3D"http://www.c=
+ppblog.com/mzty/archive/2009/01.html">2009=E5=B9=B41=E6=9C=88 (1)=
+</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatL=
+ist_ctl01_LinkList_ctl10_Link" href=3D"http://www.cppblog.com/mzt=
+y/archive/2008/09.html">2008=E5=B9=B49=E6=9C=88 (1)</a> </li>=0A=09=
+		=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_Link=
+List_ctl11_Link" href=3D"http://www.cppblog.com/mzty/archive/2008=
+/07.html">2008=E5=B9=B47=E6=9C=88 (5)</a> </li>=0A			=0A				<li><=
+a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl12_Lin=
+k" href=3D"http://www.cppblog.com/mzty/archive/2008/06.html">2008=
+=E5=B9=B46=E6=9C=88 (9)</a> </li>=0A			=0A				<li><a id=3D"Single=
+Column1_Categories_CatList_ctl01_LinkList_ctl13_Link" href=3D"htt=
+p://www.cppblog.com/mzty/archive/2008/04.html">2008=E5=B9=B44=E6=9C=
+=88 (2)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categori=
+es_CatList_ctl01_LinkList_ctl14_Link" href=3D"http://www.cppblog.=
+com/mzty/archive/2008/03.html">2008=E5=B9=B43=E6=9C=88 (1)</a> </=
+li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl=
+01_LinkList_ctl15_Link" href=3D"http://www.cppblog.com/mzty/archi=
+ve/2008/02.html">2008=E5=B9=B42=E6=9C=88 (6)</a> </li>=0A			=0A	=09=
+		<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ct=
+l16_Link" href=3D"http://www.cppblog.com/mzty/archive/2008/01.htm=
+l">2008=E5=B9=B41=E6=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl17_Link" href=
+=3D"http://www.cppblog.com/mzty/archive/2007/12.html">2007=E5=B9=B4=
+12=E6=9C=88 (17)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1=
+_Categories_CatList_ctl01_LinkList_ctl18_Link" href=3D"http://www=
+.cppblog.com/mzty/archive/2007/11.html">2007=E5=B9=B411=E6=9C=88=20=
+(3)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_C=
+atList_ctl01_LinkList_ctl19_Link" href=3D"http://www.cppblog.com/=
+mzty/archive/2007/10.html">2007=E5=B9=B410=E6=9C=88 (1)</a> </li>=
+=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_=
+LinkList_ctl20_Link" href=3D"http://www.cppblog.com/mzty/archive/=
+2007/09.html">2007=E5=B9=B49=E6=9C=88 (1)</a> </li>=0A			=0A				<=
+li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl21=
+_Link" href=3D"http://www.cppblog.com/mzty/archive/2007/08.html">=
+2007=E5=B9=B48=E6=9C=88 (13)</a> </li>=0A			=0A				<li><a id=3D"S=
+ingleColumn1_Categories_CatList_ctl01_LinkList_ctl22_Link" href=3D=
+"http://www.cppblog.com/mzty/archive/2007/07.html">2007=E5=B9=B47=
+=E6=9C=88 (15)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_C=
+ategories_CatList_ctl01_LinkList_ctl23_Link" href=3D"http://www.c=
+ppblog.com/mzty/archive/2007/06.html">2007=E5=B9=B46=E6=9C=88 (5)=
+</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatL=
+ist_ctl01_LinkList_ctl24_Link" href=3D"http://www.cppblog.com/mzt=
+y/archive/2007/05.html">2007=E5=B9=B45=E6=9C=88 (15)</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_Lin=
+kList_ctl25_Link" href=3D"http://www.cppblog.com/mzty/archive/200=
+7/04.html">2007=E5=B9=B44=E6=9C=88 (6)</a> </li>=0A			=0A				<li>=
+<a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl26_Li=
+nk" href=3D"http://www.cppblog.com/mzty/archive/2007/03.html">200=
+7=E5=B9=B43=E6=9C=88 (12)</a> </li>=0A			=0A				<li><a id=3D"Sing=
+leColumn1_Categories_CatList_ctl01_LinkList_ctl27_Link" href=3D"h=
+ttp://www.cppblog.com/mzty/archive/2007/02.html">2007=E5=B9=B42=E6=
+=9C=88 (1)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categ=
+ories_CatList_ctl01_LinkList_ctl28_Link" href=3D"http://www.cppbl=
+og.com/mzty/archive/2006/12.html">2006=E5=B9=B412=E6=9C=88 (4)</a=
+> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList=
+_ctl01_LinkList_ctl29_Link" href=3D"http://www.cppblog.com/mzty/a=
+rchive/2006/11.html">2006=E5=B9=B411=E6=9C=88 (13)</a> </li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkL=
+ist_ctl30_Link" href=3D"http://www.cppblog.com/mzty/archive/2006/=
+10.html">2006=E5=B9=B410=E6=9C=88 (2)</a> </li>=0A			=0A				<li><=
+a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl31_Lin=
+k" href=3D"http://www.cppblog.com/mzty/archive/2006/09.html">2006=
+=E5=B9=B49=E6=9C=88 (29)</a> </li>=0A			=0A				<li><a id=3D"Singl=
+eColumn1_Categories_CatList_ctl01_LinkList_ctl32_Link" href=3D"ht=
+tp://www.cppblog.com/mzty/archive/2006/08.html">2006=E5=B9=B48=E6=
+=9C=88 (18)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Cate=
+gories_CatList_ctl01_LinkList_ctl33_Link" href=3D"http://www.cppb=
+log.com/mzty/archive/2006/07.html">2006=E5=B9=B47=E6=9C=88 (19)</=
+a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl01_LinkList_ctl34_Link" href=3D"http://www.cppblog.com/mzty/=
+archive/2006/06.html">2006=E5=B9=B46=E6=9C=88 (26)</a> </li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkL=
+ist_ctl35_Link" href=3D"http://www.cppblog.com/mzty/archive/2006/=
+05.html">2006=E5=B9=B45=E6=9C=88 (15)</a> </li>=0A			=0A				<li><=
+a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl36_Lin=
+k" href=3D"http://www.cppblog.com/mzty/archive/2006/04.html">2006=
+=E5=B9=B44=E6=9C=88 (31)</a> </li>=0A			=0A				<li><a id=3D"Singl=
+eColumn1_Categories_CatList_ctl01_LinkList_ctl37_Link" href=3D"ht=
+tp://www.cppblog.com/mzty/archive/2006/03.html">2006=E5=B9=B43=E6=
+=9C=88 (13)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Cate=
+gories_CatList_ctl01_LinkList_ctl38_Link" href=3D"http://www.cppb=
+log.com/mzty/archive/2006/02.html">2006=E5=B9=B42=E6=9C=88 (12)</=
+a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl01_LinkList_ctl39_Link" href=3D"http://www.cppblog.com/mzty/=
+archive/2006/01.html">2006=E5=B9=B41=E6=9C=88 (45)</a> </li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkL=
+ist_ctl40_Link" href=3D"http://www.cppblog.com/mzty/archive/2005/=
+12.html">2005=E5=B9=B412=E6=9C=88 (57)</a> </li>=0A			=0A				<li>=
+<a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl41_Li=
+nk" href=3D"http://www.cppblog.com/mzty/archive/2005/11.html">200=
+5=E5=B9=B411=E6=9C=88 (51)</a> </li>=0A			=0A				<li><a id=3D"Sin=
+gleColumn1_Categories_CatList_ctl01_LinkList_ctl42_Link" href=3D"=
+http://www.cppblog.com/mzty/archive/2005/10.html">2005=E5=B9=B410=
+=E6=9C=88 (3)</a> </li>=0A			=0A				</ul>=0A			=0A	=0A		<h3>=E6=94=
+=B6=E8=97=8F=E5=A4=B9</h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_Link" href=
+=3D"http://www.cppblog.com/mzty/favorite/458.html">.NET(1)</a> <a=
+ id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_RssL=
+ink" title=3D"Subscribe to .NET(1)" href=3D"http://www.cppblog.co=
+m/mzty/favorite/458.html/rss">(rss)</a></li>=0A			=0A				<li><a i=
+d=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl02_Link"=20=
+href=3D"http://www.cppblog.com/mzty/favorite/299.html">CPlusPlus(=
+75)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_=
+ctl02_RssLink" title=3D"Subscribe to CPlusPlus(75)" href=3D"http:=
+//www.cppblog.com/mzty/favorite/299.html/rss">(rss)</a></li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkL=
+ist_ctl03_Link" href=3D"http://www.cppblog.com/mzty/favorite/1605=
+.html">interviews(2)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl02_LinkList_ctl03_RssLink" title=3D"Subscribe to interviews(=
+2)" href=3D"http://www.cppblog.com/mzty/favorite/1605.html/rss">(=
+rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_C=
+atList_ctl02_LinkList_ctl04_Link" href=3D"http://www.cppblog.com/=
+mzty/favorite/301.html">other(3)</a> <a id=3D"SingleColumn1_Categ=
+ories_CatList_ctl02_LinkList_ctl04_RssLink" title=3D"Subscribe to=
+ other(3)" href=3D"http://www.cppblog.com/mzty/favorite/301.html/=
+rss">(rss)</a></li>=0A			=0A				<li><a id=3D"SingleColumn1_Catego=
+ries_CatList_ctl02_LinkList_ctl05_Link" href=3D"http://www.cppblo=
+g.com/mzty/favorite/2693.html">Unix/Lunix</a> <a id=3D"SingleColu=
+mn1_Categories_CatList_ctl02_LinkList_ctl05_RssLink" title=3D"Sub=
+scribe to Unix/Lunix" href=3D"http://www.cppblog.com/mzty/favorit=
+e/2693.html/rss">(rss)</a></li>=0A			=0A				</ul>=0A			=0A	=0A		<=
+h3>Blogs</h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D"SingleColu=
+mn1_Categories_CatList_ctl03_LinkList_ctl01_Link" href=3D"http://=
+blog.csdn.net/alai04/">10C++ csdn</a> </li>=0A			=0A				<li><a id=
+=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl02_Link" h=
+ref=3D"http://www.azure.com.cn/default.asp">azure.com.cn</a> </li=
+>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03=
+_LinkList_ctl03_Link" href=3D"http://blog.csdn.net/byxdaz/">enjoy=
+s.csdn</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categorie=
+s_CatList_ctl03_LinkList_ctl04_Link" href=3D"http://jasonhaley.co=
+m/blog/default.aspx">jasonhaley</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl05_Link" href=
+=3D"http://blog.csdn.net/msdnportal/">msdn.csdn</a> </li>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_=
+ctl06_Link" href=3D"http://blogs.msdn.com/danielfe/">msdn.danielf=
+e</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_Cat=
+List_ctl03_LinkList_ctl07_Link" href=3D"http://mayingbao.cnblogs.=
+com/">test.cnblogs</a> </li>=0A			=0A				<li><a id=3D"SingleColum=
+n1_Categories_CatList_ctl03_LinkList_ctl08_Link" href=3D"http://j=
+ackei.cnblogs.com/">testing.cnblogs</a> </li>=0A			=0A				<li><a=20=
+id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl09_Link"=
+ href=3D"http://www.cnblogs.com/cy163/category/42026.html?Show=3D=
+All">VC.cnblogs</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_=
+Categories_CatList_ctl03_LinkList_ctl10_Link" href=3D"http://huqi=
+ngyu.cnblogs.com/">Vc2 cnblogs</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl11_Link" href=
+=3D"http://blog.voidnish.com/">voidnish</a> </li>=0A			=0A				<li=
+><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl12_L=
+ink" href=3D"http://zhaopin.cnblogs.com/">zhaopin.cnblogs</a> </l=
+i>=0A			=0A				</ul>=0A			=0A	=0A		<h3>c#(csharp)</h3>=0A		=0A		=09=
+	<ul>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_c=
+tl04_LinkList_ctl01_Link" href=3D"http://www.c-sharpcorner.com/">=
+c-sharpcorner</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Ca=
+tegories_CatList_ctl04_LinkList_ctl02_Link" href=3D"http://www.cs=
+harpfriends.com/">csharpfriends</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl04_LinkList_ctl03_Link" href=
+=3D"http://www.csharphelp.com/">csharphelp.com</a> </li>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl04_LinkList_=
+ctl04_Link" href=3D"http://www.csharp-home.com/">csharp-home</a>=20=
+</li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_c=
+tl04_LinkList_ctl05_Link" href=3D"http://csharp-source.net/">csha=
+rp-source.net</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Ca=
+tegories_CatList_ctl04_LinkList_ctl06_Link" href=3D"http://www.do=
+factory.com/Default.aspx">dofactory.com</a> </li>=0A			=0A				<li=
+><a id=3D"SingleColumn1_Categories_CatList_ctl04_LinkList_ctl07_L=
+ink" href=3D"http://www.dotnetcoders.com/web/default.aspx" target=
+=3D"_blank">dotnetcoders</a> </li>=0A			=0A				<li><a id=3D"Singl=
+eColumn1_Categories_CatList_ctl04_LinkList_ctl08_Link" href=3D"ht=
+tp://www.knowdotnet.com/index.html">knowdotnet.com</a> </li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl04_LinkL=
+ist_ctl09_Link" href=3D"http://www.windowsforms.net/Default.aspx?=
+tabindex=3D0&tabid=3D1">WindowsForm</a> </li>=0A			=0A				</ul>=0A=
+			=0A	=0A		<h3>C++(cpp)</h3>=0A		=0A				<ul>=0A			=0A				<li><a=20=
+id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl01_Link"=
+ href=3D"http://algorithm.diy.myrice.com/">algorithm</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05_Lin=
+kList_ctl02_Link" href=3D"http://www.boost.org/">boost.org</a> </=
+li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl=
+05_LinkList_ctl03_Link" href=3D"http://www.research.att.com/~bs/h=
+omepage.html">C++father</a> </li>=0A			=0A				<li><a id=3D"Single=
+Column1_Categories_CatList_ctl05_LinkList_ctl04_Link" href=3D"htt=
+p://www.cuj.com/" target=3D"_blank">c++usersjournal</a> </li>=0A=09=
+		=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05_Link=
+List_ctl05_Link" href=3D"http://www.czvc.com/">czvc.com</a> </li>=
+=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05_=
+LinkList_ctl06_Link" href=3D"http://www.wotsit.org/default.asp" t=
+arget=3D"_blank">file format</a> </li>=0A			=0A				<li><a id=3D"S=
+ingleColumn1_Categories_CatList_ctl05_LinkList_ctl07_Link" href=3D=
+"http://herbsutter.spaces.live.com/default.aspx">herbsutter.space=
+s</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_Cat=
+List_ctl05_LinkList_ctl08_Link" href=3D"http://jjhou.csdn.net/" t=
+arget=3D"_blank">jjhou.csdn</a> </li>=0A			=0A				<li><a id=3D"Si=
+ngleColumn1_Categories_CatList_ctl05_LinkList_ctl09_Link" href=3D=
+"http://www.mctainsh.com/">mctainsh</a> </li>=0A			=0A				<li><a=20=
+id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl10_Link"=
+ href=3D"http://www.relisoft.com/index.htm">relisoft.com</a> </li=
+>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05=
+_LinkList_ctl11_Link" href=3D"http://www.sgi.com/tech/stl">sgi.st=
+l</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_Cat=
+List_ctl05_LinkList_ctl12_Link" href=3D"http://stl.winterxy.com/"=
+>stl.winterxy</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Ca=
+tegories_CatList_ctl05_LinkList_ctl13_Link" href=3D"http://www.vc=
+kbase.com/" target=3D"_blank">vcbase.com</a> </li>=0A			=0A				<l=
+i><a id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl14_=
+Link" href=3D"http://www.voidnish.com/index.aspx">voidnish.com</a=
+> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList=
+_ctl05_LinkList_ctl15_Link" href=3D"http://www.vczx.com/tutorial/=
+win32-tutorial/index.html">win32-tutorial</a> </li>=0A			=0A				<=
+/ul>=0A			=0A	=0A		<h3>Enlish</h3>=0A		=0A				<ul>=0A			=0A				<l=
+i><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl01_=
+Link" href=3D"http://www.hao360.com/index.asp">hao360.com</a> </l=
+i>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl0=
+6_LinkList_ctl02_Link" href=3D"http://niniane2.googlepages.com/">=
+niniane2.googlepages</a> </li>=0A			=0A				<li><a id=3D"SingleCol=
+umn1_Categories_CatList_ctl06_LinkList_ctl03_Link" href=3D"http:/=
+/home.wangjianshuo.com/">wangjianshuo.com</a> </li>=0A			=0A				<=
+/ul>=0A			=0A	=0A		<h3>Forums(bbs)</h3>=0A		=0A				<ul>=0A			=0A=09=
+			<li><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkList_c=
+tl01_Link" href=3D"http://www.csdn.net/">csdn.net</a> </li>=0A		=09=
+=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkLi=
+st_ctl02_Link" href=3D"http://www.developerfusion.co.uk/">develop=
+erf</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_C=
+atList_ctl07_LinkList_ctl03_Link" href=3D"http://www.gamedev.net/=
+community/forums/">gamedev</a> </li>=0A			=0A				<li><a id=3D"Sin=
+gleColumn1_Categories_CatList_ctl07_LinkList_ctl04_Link" href=3D"=
+http://www.go4expert.com/">go4expert.com</a> </li>=0A			=0A				<l=
+i><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkList_ctl05_=
+Link" href=3D"http://forums.microsoft.com/MSDN/default.aspx?SiteI=
+D=3D1">MsdnForum</a> </li>=0A			=0A				</ul>=0A			=0A	=0A		<h3>My=
+ self</h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D"SingleColumn1=
+_Categories_CatList_ctl08_LinkList_ctl01_Link" href=3D"http://blo=
+gcup.com/blogger_1/21543/">blogcup blog</a> </li>=0A			=0A				<li=
+><a id=3D"SingleColumn1_Categories_CatList_ctl08_LinkList_ctl02_L=
+ink" href=3D"http://www.cppblog.com/mzty/">C++ blog</a> </li>=0A=09=
+		=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl08_Link=
+List_ctl03_Link" href=3D"http://spaces.msn.com/members/mzty999/"=20=
+target=3D"_blank">msn blog</a> </li>=0A			=0A				<li><a id=3D"Sin=
+gleColumn1_Categories_CatList_ctl08_LinkList_ctl04_Link" href=3D"=
+http://officeshow.uu1001.com/">OfficeShow forum</a> </li>=0A			=0A=
+				</ul>=0A			=0A	=0A		<h3>Often go</h3>=0A		=0A				<ul>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_=
+ctl01_Link" href=3D"http://www.codeguru.com/">.codeguru.com</a> <=
+/li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ct=
+l09_LinkList_ctl02_Link" href=3D"http://blog.joycode.com/">blog.j=
+oycode</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categorie=
+s_CatList_ctl09_LinkList_ctl03_Link" href=3D"http://codebetter.co=
+m/Default.aspx">codebetter.com</a> </li>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl09_LinkList_ctl04_Link" href=
+=3D"http://www.codeplex.com/">codeplex.com</a> </li>=0A			=0A			=09=
+<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_ctl0=
+5_Link" href=3D"http://www.codeproject.com/com/">codeproject.com<=
+/a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLi=
+st_ctl09_LinkList_ctl06_Link" href=3D"http://www.computerhope.com=
+/">computerhope</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_=
+Categories_CatList_ctl09_LinkList_ctl07_Link" href=3D"http://www.=
+computerperformance.co.uk/ezine/ezine1.htm">computerperformance</=
+a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl09_LinkList_ctl08_Link" href=3D"http://www.cs-open.com/">cs-=
+open.com</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categor=
+ies_CatList_ctl09_LinkList_ctl09_Link" href=3D"http://www.develop=
+er.com/">developer</a> </li>=0A			=0A				<li><a id=3D"SingleColum=
+n1_Categories_CatList_ctl09_LinkList_ctl10_Link" href=3D"http://w=
+ww.dotnet247.com/247reference/default.aspx">dotnet247.com</a> </l=
+i>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl0=
+9_LinkList_ctl11_Link" href=3D"http://www.dotnetjunkies.com/">dot=
+netjunkies.com</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_C=
+ategories_CatList_ctl09_LinkList_ctl12_Link" href=3D"http://www.d=
+otnetslackers.com/">dotnetslackers.com</a> </li>=0A			=0A				<li>=
+<a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_ctl13_Li=
+nk" href=3D"http://www.fawcette.com/">fawcette.com</a> </li>=0A	=09=
+	=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkL=
+ist_ctl14_Link" href=3D"http://www.gamedev.net/reference/default.=
+asp">gamedev.net</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1=
+_Categories_CatList_ctl09_LinkList_ctl15_Link" href=3D"http://www=
+.infoq.com/">infoq.com</a> </li>=0A			=0A				<li><a id=3D"SingleC=
+olumn1_Categories_CatList_ctl09_LinkList_ctl16_Link" href=3D"http=
+://www.microsoft.com/china/msdn/Community/">microsoft.Community</=
+a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl09_LinkList_ctl17_Link" href=3D"http://forums.microsoft.com/=
+china/default.aspx?siteid=3D15">Msdn.bbs.china</a> </li>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_=
+ctl18_Link" href=3D"http://msdn2.microsoft.com/zh-cn/library/defa=
+ult.aspx">msdn2.2005</a> </li>=0A			=0A				<li><a id=3D"SingleCol=
+umn1_Categories_CatList_ctl09_LinkList_ctl19_Link" href=3D"http:/=
+/msdn2.microsoft.com/zh-cn/default.aspx">msdn2.china</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_Lin=
+kList_ctl20_Link" href=3D"http://msdn2.microsoft.com/en-us/librar=
+y/default.aspx">msdn2.enlish</a> </li>=0A			=0A				<li><a id=3D"S=
+ingleColumn1_Categories_CatList_ctl09_LinkList_ctl21_Link" href=3D=
+"http://nehe.gamedev.net/">nehe.openGL</a> </li>=0A			=0A				<li>=
+<a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_ctl22_Li=
+nk" href=3D"http://www.netfx3.com/">netfx3.com</a> </li>=0A			=0A=
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_LinkList_=
+ctl23_Link" href=3D"http://www.ogre3d.org/">ogre3d.org</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl09_Lin=
+kList_ctl24_Link" href=3D"http://sourceforge.net/index.php">sourc=
+eforge.net</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categ=
+ories_CatList_ctl09_LinkList_ctl25_Link" href=3D"http://www.chmpd=
+f.com/">www.chmpdf.com</a> </li>=0A			=0A				<li><a id=3D"SingleC=
+olumn1_Categories_CatList_ctl09_LinkList_ctl26_Link" href=3D"http=
+://www.devx.com/">www.devx.com</a> </li>=0A			=0A				</ul>=0A			=0A=
+	=0A		<h3>Useful Webs</h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D=
+"SingleColumn1_Categories_CatList_ctl10_LinkList_ctl01_Link" href=
+=3D"http://www.connectionstrings.com/">Database connection </a> <=
+/li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ct=
+l10_LinkList_ctl02_Link" href=3D"http://www.functionx.com/">funct=
+ionx.com(good)</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_C=
+ategories_CatList_ctl10_LinkList_ctl03_Link" href=3D"http://www.1=
+23aspx.com/Rotor/Default.aspx">net.classes</a> </li>=0A			=0A			=09=
+<li><a id=3D"SingleColumn1_Categories_CatList_ctl10_LinkList_ctl0=
+4_Link" href=3D"http://www.pinvoke.net/">pinvoke.net</a> </li>=0A=
+			=0A				<li><a id=3D"SingleColumn1_Categories_CatList_ctl10_Lin=
+kList_ctl05_Link" href=3D"http://regexlib.com/default.aspx">regex=
+ express</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categor=
+ies_CatList_ctl10_LinkList_ctl06_Link" href=3D"http://www.gotapi.=
+com/">Web ApI</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Ca=
+tegories_CatList_ctl10_LinkList_ctl07_Link" href=3D"http://www.ko=
+ders.com/">www.koders.com</a> </li>=0A			=0A				</ul>=0A			=0A	=0A=
+		<h3>Xml/Uml/html</h3>=0A		=0A				<ul>=0A			=0A				<li><a id=3D"=
+SingleColumn1_Categories_CatList_ctl11_LinkList_ctl01_Link" href=3D=
+"http://www.uml.org.cn/sjms/sjms.asp">uml.org</a> </li>=0A			=0A=09=
+			<li><a id=3D"SingleColumn1_Categories_CatList_ctl11_LinkList_c=
+tl02_Link" href=3D"http://www.w3schools.com/default.asp">w3school=
+s.com</a> </li>=0A			=0A				<li><a id=3D"SingleColumn1_Categories=
+_CatList_ctl11_LinkList_ctl03_Link" href=3D"http://xml.silmaril.i=
+e/index.html">xml fqa</a> </li>=0A			=0A				<li><a id=3D"SingleCo=
+lumn1_Categories_CatList_ctl11_LinkList_ctl04_Link" href=3D"http:=
+//www.xml.com/">xml.com</a> </li>=0A			=0A				</ul>=0A			=0A	=0A=0A=
+=0A<h3>=E6=90=9C=E7=B4=A2</h3>=0A<ul>=0A	<li>=0A		</li><li><input=
+ style=3D"WIDTH: 130px" type=3D"text" name=3D"q" id=3D"q" >&nbsp;=
+<input  type=3D"button" value=3D"=E6=90=9C=E7=B4=A2" name=3D"sa">=
+=0A	</li>=0A</ul>=0A=0A<h3>=E7=A7=AF=E5=88=86=E4=B8=8E=E6=8E=92=E5=
+=90=8D</h3>=0A<ul>=0A	<li>=0A		=E7=A7=AF=E5=88=86 -=0A		1572781=0A=
+	</li><li>=0A		=E6=8E=92=E5=90=8D -=0A		5=0A	</li>=0A</ul>=0A=0A<=
+h3>=E6=9C=80=E6=96=B0=E8=AF=84=E8=AE=BA=0A	<a id=3D"SingleColumn1=
+__1bb9aea_RSSHyperlink1" href=3D"http://www.cppblog.com/mzty/Comm=
+entsRSS.aspx"><img src=3D"xml.gif" style=3D"border-width:0px;"></=
+a></h3>=0A<div class=3D"RecentComment">=0A	=0A			<ul>=0A		=0A			<=
+li style=3D"word-break:break-all">=0A				<a id=3D"SingleColumn1__=
+1bb9aea_CommentList_ctl01_Hyperlink1" href=3D"http://www.cppblog.=
+com/mzty/archive/2016/05/31/8792.html#213613">1.&nbsp;re: ObjectD=
+BX=E6=8A=80=E6=9C=AF: =E8=84=B1=E7=A6=BBAutoCAD=E5=A4=84=E7=90=86=
+dwg=E6=96=87=E4=BB=B6(NET =E5=AE=9E=E7=8E=B0)</a>=0A			</li>=0A	=09=
+	<li style=3D"word-break:break-all">=0A				C++=E7=89=88=E6=9C=AC=EF=
+=BC=8C=E9=9C=80=E8=A6=81=E5=BC=95=E7=94=A8=E5=93=AA=E4=BA=9Blib=E5=
+=BA=93=E6=96=87=E4=BB=B6=EF=BC=9F=0A			</li>=0A			<li style=3D"te=
+xt-align:right;margin-right:4px">=0A				--dsr</li>=0A		=0A			<li=20=
+style=3D"word-break:break-all">=0A				<a id=3D"SingleColumn1__1bb=
+9aea_CommentList_ctl02_Hyperlink1" href=3D"http://www.cppblog.com=
+/mzty/archive/2016/02/24/8792.html#212874">2.&nbsp;re: ObjectDBX=E6=
+=8A=80=E6=9C=AF: =E8=84=B1=E7=A6=BBAutoCAD=E5=A4=84=E7=90=86dwg=E6=
+=96=87=E4=BB=B6(NET =E5=AE=9E=E7=8E=B0)</a>=0A			</li>=0A			<li s=
+tyle=3D"word-break:break-all">=0A				=E8=AF=84=E8=AE=BA=E5=86=85=E5=
+=AE=B9=E8=BE=83=E9=95=BF,=E7=82=B9=E5=87=BB=E6=A0=87=E9=A2=98=E6=9F=
+=A5=E7=9C=8B=0A			</li>=0A			<li style=3D"text-align:right;margin=
+-right:4px">=0A				--C#=E5=AD=A6=E4=B9=A0</li>=0A		=0A			</ul>=0A=
+		=0A</div>=0A=0A<h3>=E9=98=85=E8=AF=BB=E6=8E=92=E8=A1=8C=E6=A6=9C=
+</h3>=0A<div class=3D"RecentComment">=0A	=0A			<ul style=3D"word-=
+break:break-all">=0A		=0A			<li>=0A				<a id=3D"SingleColumn1__24=
+72d8e_TopList_ctl01_Hyperlink1" href=3D"http://www.cppblog.com/mz=
+ty/archive/2005/12/15/1770.aspx">1.&nbsp;=E8=AF=A6=E7=BB=86=E8=A7=
+=A3=E8=AF=B4 STL =E6=8E=92=E5=BA=8F(Sort) (96843)</a>=0A			</li>=0A=
+		=0A			</ul>=0A		=0A</div>=0A=0A					=0A<div id=3D"footer">=0A	P=
+owered by: =0A	<br>=0A	=0A	<a id=3D"Footer1_Hyperlink3" name=3D"H=
+yperlink1" href=3D"http://www.cppblog.com/" style=3D"font-family:=
+Verdana;font-size:12px;">C++=E5=8D=9A=E5=AE=A2</a>=0A	<br>=0A	Cop=
+yright =C2=A9 =E6=A2=A6=E5=9C=A8=E5=A4=A9=E6=B6=AF=0A</div>=0A		=09=
+	=0A			</div>			=0A			=0A	=0A    =0A    =0A=0A=0A=0A=0A=0A=0A=0A=09=
+   =0A	=0A=0A=0A</font></font></font></font></font></font></form>=
+</body></html>
+
+------=_Next_Part_1176903062.724--
+
+------=_Next_Part_3530709186.169
+Content-Type: text/css;
+	name="common.css"
+Content-Transfer-Encoding: base64
+Content-ID: <common.css>
+Content-Location: common.css
+
+//5hAC4AcwBpAHQAZQBfAGgAbwB0ADoAdgBpAHMAaQB0AGUAZAAsAA0ACgBhAC4AcwBpAHQAZQBfAGgAbwB0ADoAYQBjAHQAaQB2AGUALAANAAoAYQAuAHMAaQB0AGUAXwBoAG8AdAA6AGwAaQBuAGsADQAKAHsADQAKAAkAYwBvAGwAbwByADoAcgBlAGQAOwANAAoACQB0AGUAeAB0AC0AZABlAGMAbwByAGEAdABpAG8AbgA6AG4AbwBuAGUAOwANAAoAfQANAAoADQAKAGEALgBzAGkAdABlAF8AaABvAHQAOgBoAG8AdgBlAHIAewBjAG8AbABvAHIAOgByAGUAZAA7AHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAdQBuAGQAZQByAGwAaQBuAGUAOwB9AA==
+
+------=_Next_Part_3530709186.169
+Content-Type: text/css;
+	name="style.css"
+Content-Transfer-Encoding: base64
+Content-ID: <style.css>
+Content-Location: style.css
+
+//5iAG8AZAB5ACAAewANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQAgADoAIAAwAC4AOQBlAG0AOwANAAoACQBmAG8AbgB0AC0AZgBhAG0AaQBsAHkAIAA6ACAAVgBlAHIAZABhAG4AYQAsACAARwBlAG4AZQB2AGEALAAgAEEAcgBpAGEAbAAsACAASABlAGwAdgBlAHQAaQBjAGEALAAgAHMAYQBuAHMALQBzAGUAcgBpAGYAOwANAAoACQBtAGEAcgBnAGkAbgAgADoAIAAwAHAAeAA7AA0ACgAJAHcAbwByAGQALQB3AHIAYQBwADoAIAAgAGIAcgBlAGEAawAtAHcAbwByAGQAOwANAAoAfQANAAoADQAKAGEAOgB2AGkAcwBpAHQAZQBkACwADQAKAGEAOgBhAGMAdABpAHYAZQAsAA0ACgBhADoAbABpAG4AawAgAHsADQAKAAkAYwBvAGwAbwByACAAOgAgACMAMAA2AEEAOwANAAoACQB0AGUAeAB0AC0AZABlAGMAbwByAGEAdABpAG8AbgAgADoAIABuAG8AbgBlADsADQAKAH0ADQAKAA0ACgBhADoAaABvAHYAZQByACAAewANAAoACQB0AGUAeAB0AC0AZABlAGMAbwByAGEAdABpAG8AbgAgADoAIAB1AG4AZABlAHIAbABpAG4AZQA7AA0ACgB9AA0ACgANAAoAdABhAGIAbABlAA0ACgB7AA0ACgAJAHcAaQBkAHQAaAA6ADgAMAAlADsADQAKAH0ADQAKAA0ACgBoADEAIAB7AA0ACgAJAG0AYQByAGcAaQBuACAAOgAgADAAcAB4ADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAIAA6ACAAMQAuADUAZQBtADsACQANAAoACQBiAGEAYwBrAGcAcgBvAHUAbgBkAC0AYwBvAGwAbwByACAAOgAgACMAQQBEAEYAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AdABvAHAAIAA6ACAAMQBlAG0AOwANAAoACQBwAGEAZABkAGkAbgBnAC0AbABlAGYAdAAgADoAIAA1AHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcALQBiAG8AdAB0AG8AbQAgADoAIAA1AHAAeAA7AA0ACgAJAGIAYQBjAGsAZwByAG8AdQBuAGQAOgAgACMARgA5AEYAOQBGADkAIAAgAG4AbwAtAHIAZQBwAGUAYQB0ACAAMQAwAHAAeAAgAC4ANQBlAG0AOwANAAoACQANAAoACQBjAG8AbABvAHIAOgAgACMAMAAwADAAMAAwADAAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AbABlAGYAdAA6ACAAMQAwADAAcAB4ADsADQAKAAkAaABlAGkAZwBoAHQAOgAgADIAMABwAHgAOwANAAoACQBiAG8AcgBkAGUAcgAtAGIAbwB0AHQAbwBtADoAIAAxAHAAeAAgAGQAbwB0AHQAZQBkACAAQgBsAGEAYwBrADsADQAKAAkAbQBhAHIAZwBpAG4AIAA6ACAAMABwAHgAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AYgBvAHQAdABvAG0AOgAgADMAMABwAHgAOwANAAoACQBmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAgACIAQwBvAHUAcgBpAGUAcgAgAE4AZQB3ACIALAAgAFYAZQByAGQAYQBuAGEALAAgAG0AbwBuAG8AcwBwAGEAYwBlADsADQAKAH0ADQAKAA0ACgBoADEAIABhADoAaABvAHYAZQByACAAewANAAoACQB0AGUAeAB0AC0AZABlAGMAbwByAGEAdABpAG8AbgAgADoAIABuAG8AbgBlADsADQAKAH0ADQAKAA0ACgBoADIAIAB7AA0ACgAJAG0AYQByAGcAaQBuAC0AdABvAHAAIAA6ACAAMQAwAHAAeAA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlACAAOgAgADEAZQBtADsADQAKAH0ADQAKAA0ACgBoADUAIAANAAoAewANAAoACQBtAGEAcgBnAGkAbgA6ACAAMABwAHgAOwANAAoACQBwAGEAZABkAGkAbgBnADoAIAAwAHAAeAA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlACAAOgAgADAALgA5AGUAbQA7AA0ACgB9AA0ACgANAAoAIwB0AGEAZwBsAGkAbgBlACAAewAJAA0ACgAJAHAAbwBzAGkAdABpAG8AbgAgADoAIABhAGIAcwBvAGwAdQB0AGUAOwANAAoACQB0AG8AcAAgADoAIAA1AHAAeAA7AA0ACgAJAHIAaQBnAGgAdAAgADoAIAA1AHAAeAA7AA0ACgAJAG0AYQByAGcAaQBuACAAOgAgADAAcAB4ADsADQAKAAkAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ACAAOgAgADUAcAB4ADsADQAKAAkAYwBvAGwAbwByACAAOgAgACMAMAA2AEEAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQAgADoAIAAwAC4AOQBlAG0AOwANAAoACQBjAG8AbABvAHIAOgAgAEcAcgBhAHkAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0ACgAJAHAAbwBzAGkAdABpAG8AbgAgADoAIABhAGIAcwBvAGwAdQB0AGUAOwANAAoACQB0AG8AcAAgADoAIAAyADUAcAB4ADsADQAKAAkAcgBpAGcAaAB0ACAAOgAgADMANQBwAHgAOwANAAoACQBtAGEAcgBnAGkAbgAgADoAIAAwAHAAeAA7AA0ACgAJAG0AYQByAGcAaQBuAC0AbABlAGYAdAAgADoAIAAwAHAAeAA7AA0ACgAJAGYAbwBuAHQALQBmAGEAbQBpAGwAeQA6ACAAIgBDAG8AdQByAGkAZQByACAATgBlAHcAIgAsACAAVgBlAHIAZABhAG4AYQAsACAAbQBvAG4AbwBzAHAAYQBjAGUAOwANAAoAfQANAAoADQAKAHAALgBkAGEAdABlACAAaQBtAGcAIAB7AA0ACgAJAHYAZQByAHQAaQBjAGEAbAAtAGEAbABpAGcAbgAgADoAIABtAGkAZABkAGwAZQA7AA0ACgB9AA0ACgANAAoAcAAuAGQAYQB0AGUADQAKAHsADQAKAAkAcABhAGQAZABpAG4AZwAtAHQAbwBwADoAIAAyAHAAeAA7AA0ACgAJAGIAbwByAGQAZQByAC0AYgBvAHQAdABvAG0AOgAgACMAYQBhAGEAIAAxAHAAeAAgAHMAbwBsAGkAZAA7AA0ACgAJAGIAbwByAGQAZQByAC0AYgBvAHQAdABvAG0AOgAgADEAcAB4ACAAZABvAHQAdABlAGQAIAAjAEQANgBEADYARAA2ADsADQAKAAkAYwBvAGwAbwByADoAIAAjADAAMAAwADAAMAAwADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAMABwAHQAOwANAAoACQBmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAGIAbwBsAGQAOwANAAoACQBwAGEAZABkAGkAbgBnADoAIAAwAHAAeAAgADAAcAB4ACAAMABwAHgAIAAwAHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcALQByAGkAZwBoAHQAOgAgADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwAtAGwAZQBmAHQAOgAgADAAcAB4ADsADQAKAAkAZgBvAG4AdAAtAHcAZQBpAGcAaAB0ADoAIABiAG8AbABkADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAZQBtADsADQAKAAkAcABhAGQAZABpAG4AZwAtAGIAbwB0AHQAbwBtADoAIAAyAHAAeAA7AA0ACgAJAG0AYQByAGcAaQBuADoAIAAxADAAcAB4ACAAMABwAHgAIAAwAHAAeAAgADUAMABwAHgAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AdABvAHAAOgAgADIAcAB4ADsADQAKAAkAYgBvAHIAZABlAHIALQBiAG8AdAB0AG8AbQA6ACAAIwBhAGEAYQAgADEAcAB4ACAAcwBvAGwAaQBkADsADQAKAH0ADQAKAA0ACgBiAGwAbwBjAGsAcQB1AG8AdABlACAAewANAAoACQBmAG8AbgB0AC0AcwB0AHkAbABlACAAOgAgAGkAdABhAGwAaQBjADsADQAKAH0ADQAKAA0ACgBwAC4AcABvAHMAdABmAG8AbwB0ACAAewANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQAgADoAIAAwAC4ANwA1AGUAbQA7AA0ACgB9AA0ACgANAAoAIwBtAGEAaQBuACAADQAKAHsADQAKAAkAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ACAAOgAgADEAMABwAHgAOwANAAoACQB3AGkAZAB0AGgAOgAgADcAMAAlADsADQAKAAkAcABvAHMAaQB0AGkAbwBuADoAIABhAGIAcwBvAGwAdQB0AGUAOwANAAoACQBtAGEAcgBnAGkAbgAtAHQAbwBwADoAIAAwAHAAeAA7AA0ACgAJAGIAYQBjAGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgACMARgBGAEYARgBGAEYAOwANAAoACQBiAG8AcgBkAGUAcgAtAHIAaQBnAGgAdAA6ACAAMQBwAHgAIABkAG8AdAB0AGUAZAAgACMAMAAwADAAMAAwADAAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AdABvAHAAOgAgADIAMABwAHgAOwANAAoACQBtAGEAcgBnAGkAbgAtAGIAbwB0AHQAbwBtADoAIAAxADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwAtAGIAbwB0AHQAbwBtADoAIAA0ADAAcAB4ADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAMABwAHQAOwANAAoACQANAAoAfQANAAoADQAKACMAcgBpAGcAaAB0AG0AZQBuAHUAIAB7AA0ACgAJAGYAbABvAGEAdAAgADoAIAByAGkAZwBoAHQAOwANAAoACQBiAGEAYwBrAGcAcgBvAHUAbgBkAC0AYwBvAGwAbwByACAAOgAgACMARgBGAEYAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AbABlAGYAdAAgADoAIAAwAHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcALQBiAG8AdAB0AG8AbQAgADoAIAAyADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwAtAHIAaQBnAGgAdAAgADoAIAAxADAAcAB4ADsADQAKAAkAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ADoAMABwAHgAOwANAAoACQB0AGUAeAB0AC0AYQBsAGkAZwBuADoAbABlAGYAdAA7AA0ACgAJAGYAbABvAGEAdAA6ACAAcgBpAGcAaAB0ADsADQAKAAkAdwBpAGQAdABoADoAIAAyADcAJQA7AA0ACgAJAG0AYQByAGcAaQBuAC0AbABlAGYAdAA6ACAANwAyACUAOwANAAoACQBtAGEAcgBnAGkAbgAtAHQAbwBwADoAIAAxADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwAtAGwAZQBmAHQAOgAgADUAcAB4ADsADQAKAAkAYgBhAGMAawBnAHIAbwB1AG4AZAAtAGMAbwBsAG8AcgA6ACAAdAByAGEAbgBzAHAAYQByAGUAbgB0ADsADQAKAAkAcABvAHMAaQB0AGkAbwBuADoAIABhAGIAcwBvAGwAdQB0AGUAOwANAAoACQB3AG8AcgBkAC0AdwByAGEAcAA6AGIAcgBlAGEAawAtAHcAbwByAGQAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAOQBwAHQAOwANAAoAfQANAAoADQAKACMAcgBpAGcAaAB0AG0AZQBuAHUAIABoADMAIAB7AA0ACgAJAA0ACgAJAGIAYQBjAGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgAHQAcgBhAG4AcwBwAGEAcgBlAG4AdAA7AA0ACgAJAGIAbwByAGQAZQByADoAIABuAG8AbgBlADsADQAKAAkAYgBvAHIAZABlAHIALQBiAG8AdAB0AG8AbQA6ACAAMQBwAHgAIABkAG8AdAB0AGUAZAAgACMARAA2AEQANgBEADYAOwANAAoACQBjAG8AbABvAHIAOgAgACMAMAAwADAAMAAwADAAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0ACgAJAG0AYQByAGcAaQBuADoAIAAxADAAcAB4ACAAMABwAHgAIAAwAHAAeAAgADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwA6ACAAMgBwAHgAIAA1AHAAeAA7AA0ACgB9AA0ACgANAAoAIwByAGkAZwBoAHQAbQBlAG4AdQAgAHUAbAAgAHsADQAKAAkAbABpAHMAdAAtAHMAdAB5AGwAZQAgADoAIABuAG8AbgBlADsADQAKAAkAbQBhAHIAZwBpAG4AIAA6ACAAMABwAHgAOwANAAoACQBwAGEAZABkAGkAbgBnACAAOgAgADUAcAB4ADsACQANAAoACQBiAG8AcgBkAGUAcgAgADoAIAAwAHAAeAAgAHMAbwBsAGkAZAAgACMANgA5AEEAOwANAAoAfQANAAoADQAKACMAcgBpAGcAaAB0AG0AZQBuAHUAIABsAGkAIAB7AA0ACgAJACAAcABhAGQAZABpAG4AZwAtAGIAbwB0AHQAbwBtADoAMwBwAHgAOwANAAoAfQANAAoADQAKACMAZgBvAG8AdABlAHIAIAB7AA0ACgAJAGIAbwByAGQAZQByAC0AdABvAHAAIAA6ACAAMABwAHgAIABzAG8AbABpAGQAIAAjADcAQQBDADsADQAKAAkAcABhAGQAZABpAG4AZwAtAHQAbwBwACAAOgAgADUAcAB4ADsADQAKAAkAdABlAHgAdAAtAGEAbABpAGcAbgAgADoAIABjAGUAbgB0AGUAcgA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlACAAOgAgADAALgA3AGUAbQA7AA0ACgB9AA0ACgBpAG4AcAB1AHQALgB0AGUAeAB0ACAAewANAAoACQB3AGkAZAB0AGgAIAA6ACAAMwAwADAAcAB4ADsACQANAAoAfQANAAoADQAKAHQAZQB4AHQAYQByAGUAYQAgAHsADQAKAAkAdwBpAGQAdABoACAAOgAgADMAMAAwAHAAeAA7AA0ACgAJAGgAZQBpAGcAaAB0ACAAOgAgADIAMAAwAHAAeAA7AAkADQAKAH0ADQAKAA0ACgAjAGMAbwBtAG0AZQBuAHQAcwAgAGgANAAgAHMAcABhAG4AIAB7AA0ACgAJAGMAbwBsAG8AcgAgADoAIAAjADkAOQA5ADsADQAKAH0ADQAKAA0ACgAjAGMAbwBtAG0AZQBuAHQAcwAgAGgANAAgAHsADQAKAAkAbQBhAHIAZwBpAG4AIAA6ACAAMABwAHgAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQAgADoAIAAwAC4AOQBlAG0AOwANAAoAfQANAAoADQAKAHAAIAB7AA0ACgAJAG0AYQByAGcAaQBuACAAOgAgADEAMABwAHgAIAAwAHAAeAA7AA0ACgB9AA0ACgANAAoAaAAzACAAewANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQAgADoAIAAxAC4AMgBlAG0AOwANAAoACQBiAG8AcgBkAGUAcgAtAGIAbwB0AHQAbwBtACAAOgAgADEAcAB4ACAAcwBvAGwAaQBkACAAIwBBAEEAQQA7AA0ACgB9AA0ACgANAAoAaAAzACAAewANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0ACgAJAGIAbwByAGQAZQByAC0AYgBvAHQAdABvAG0AOgAgADEAcAB4ACAAZABvAHQAdABlAGQAIAAjAEQANgBEADYARAA2ADsADQAKAAkAYwBvAGwAbwByADoAIAAjADAAMAAwADAAMAAwADsADQAKAAkAYgBhAGMAawBnAHIAbwB1AG4AZAAtAGMAbwBsAG8AcgA6ACAAdAByAGEAbgBzAHAAYQByAGUAbgB0ADsADQAKAH0ADQAKAA0ACgAjAHIAZQBsAGEAdABlAGQAbABpAG4AawBzACAAdQBsACAAewANAAoACQBsAGkAcwB0AC0AcwB0AHkAbABlACAAOgAgAG4AbwBuAGUAOwANAAoACQBtAGEAcgBnAGkAbgAtAGwAZQBmAHQAIAA6ACAAMQAwAHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcAIAA6ACAAMABwAHgAOwANAAoAfQANAAoADQAKAC4AQwBhAGwADQAKAHsADQAKAAkAYgBvAHIAZABlAHIAIAA6ACAAMQBwAHgAIABkAG8AdAB0AGUAZAAgACMARAA2AEQANgBEADYAOwANAAoACQB3AGkAZAB0AGgAOgA5ADAAJQA7AA0ACgAJAGYAbwBuAHQALQBmAGEAbQBpAGwAeQA6AEEAcgBpAGEAbAA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADIAcAB4ADsADQAKAAkAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ADEAMABwAHgAOwANAAoACQBoAGUAaQBnAGgAdAA6ADEANQAwAHAAeAA7AA0ACgAJACAACQANAAoAfQANAAoADQAKAC4AQwBhAGwAVABpAHQAbABlAA0ACgB7AA0ACgAJAGIAYQBjAGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAIAA6ACMARgBGAEYAOwANAAoACQBiAG8AcgBkAGUAcgAtAGMAbwBsAG8AcgA6ACMAQQBEAEYAOwANAAoACQBmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgBBAHIAaQBhAGwAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAzAHAAeAA7AA0ACgAJAGMAbwBsAG8AcgAgADoAIAAjADAANgBBADsACQANAAoACQBiAG8AcgBkAGUAcgAtAGIAbwB0AHQAbwBtADoAIAAxAHAAeAAgAGQAbwB0AHQAZQBkACAAIwBEADYARAA2AEQANgA7AA0ACgAJAG0AYQByAGcAaQBuAC0AbABlAGYAdAAgADoAIAAwAHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcAIAA6ACAAMABwAHgAOwANAAoACQBoAGUAaQBnAGgAdAA6ADEAMAAwACUAOwANAAoAfQANAAoADQAKAC4AQwBhAGwATwB0AGgAZQByAE0AbwBuAHQAaABEAGEAeQANAAoAewANAAoACQBjAG8AbABvAHIAOgAjADgAMAA4ADAAOAAwADsADQAKAAkADQAKAH0ADQAKAA0ACgAuAEMAYQBsAFMAZQBsAGUAYwB0AG8AcgANAAoAewANAAoACQANAAoAfQANAAoADQAKAC4AQwBhAGwATgBlAHgAdABQAHIAZQB2AA0ACgB7AA0ACgAJAA0ACgB9AA0ACgANAAoALgBDAGEAbABEAGEAeQBIAGUAYQBkAGUAcgANAAoAewANAAoACQANAAoAfQANAAoADQAKAC4AQwBhAGwAUwBlAGwAZQBjAHQAZQBkAEQAYQB5AA0ACgB7AA0ACgAJAA0ACgB9AA0ACgANAAoALgBDAGEAbABXAGUAZQBrAGUAbgBkAEQAYQB5AA0ACgB7AA0ACgAJAA0ACgB9AA0ACgAuAEMAYQBsAFQAbwBkAGEAeQBEAGEAeQANAAoAewANAAoACQBjAG8AbABvAHIAIAA6ACAAcgBlAGQAOwANAAoAfQANAAoADQAKACMAaABlAGEAZAByAA0ACgB7AA0ACgAgACAAIAAgACAAaABlAGkAZwBoAHQAOgAgADUAMABwAHgAOwANAAoAfQANAAoADQAKAC4AcABvAHMAdAAgAHsADQAKAAkAcABhAGQAZABpAG4AZwAtAGwAZQBmAHQAOgAgADcAMABwAHgAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AcgBpAGcAaAB0ADoAIAA0ADAAcAB4ADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAMABwAHQAOwANAAoACQBsAGkAbgBlAC0AaABlAGkAZwBoAHQAOgAxADUAMAAlADsADQAKAH0ADQAKAA0ACgAuAHAAbwBzAHQAVABpAHQAbABlACAAewANAAoACQBiAG8AcgBkAGUAcgAtAGIAbwB0AHQAbwBtADoAIAAxAHAAeAAgAGQAbwB0AHQAZQBkACAAIwBEADYARAA2AEQANgA7AA0ACgAJAGMAbwBsAG8AcgA6ACAAIwAwADAAMAAwADAAMAA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADAAcAB0ADsADQAKAAkAZgBvAG4AdAAtAHcAZQBpAGcAaAB0ADoAIABiAG8AbABkADsADQAKAAkAbQBhAHIAZwBpAG4AIAA6ACAAMQAwAHAAeAAgADAAcAB4ADsADQAKAAkAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ACAAMQAwAHAAeAA7AA0ACgAJAGYAbwBuAHQALQB3AGUAaQBnAGgAdAA6ACAAYgBvAGwAZAA7AA0ACgB9AA0ACgANAAoALgBwAG8AcwB0AFQAZQB4AHQAIAB7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADAAcAB0ADsADQAKAAkAbABpAG4AZQAtAGgAZQBpAGcAaAB0ADoAMQA1ADAAJQA7AA0ACgB9AA0ACgANAAoALgBwAG8AcwB0AEYAbwBvAHQALABwAC4AcABvAHMAdABGAG8AbwB0AA0ACgB7AA0ACgAJAG0AYQByAGcAaQBuACAAOgAgADEAMABwAHgAIAAwAHAAeAA7AA0ACgAJAGIAbwByAGQAZQByAC0AYgBvAHQAdABvAG0AOgAgADEAcAB4ACAAZABvAHQAdABlAGQAIAAjAEQANgBEADYARAA2ADsADQAKAAkAYwBvAGwAbwByACAAOgAgACMAOQA5ADkAOwANAAoACQB0AGUAeAB0AC0AYQBsAGkAZwBuADoAIAByAGkAZwBoAHQAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAOQBwAHQAOwANAAoAfQANAAoADQAKACMAYwBvAG0AbQBlAG4AdABzACAAewANAAoACQBjAG8AbABvAHIAOgAgACMAOAA4ADgAOwANAAoACQBwAGEAZABkAGkAbgBnAC0AbABlAGYAdAA6ACAANwAwAHAAeAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcALQByAGkAZwBoAHQAOgAgADQAMABwAHgAOwANAAoACQBmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0ACgB9AA0ACgANAAoAZABpAHYALgBjAG8AbQBtAGUAbgB0AGYAbwByAG0AIAB7AA0ACgAJAGMAbwBsAG8AcgA6ACAAIwA4ADgAOAA7AA0ACgAJAHAAYQBkAGQAaQBuAGcALQBsAGUAZgB0ADoAIAA3ADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwAtAHIAaQBnAGgAdAA6ACAANAAwAHAAeAA7AA0ACgAJAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADAAcAB0ADsADQAKAH0ADQAKAA0ACgAjAHIAZQBsAGEAdABlAGQAbABpAG4AawBzACAAdQBsACAAewANAAoACQBsAGkAcwB0AC0AcwB0AHkAbABlADoAIABuAG8AbgBlADsADQAKAAkAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ADoAIAAxADAAcAB4ADsADQAKAAkAcABhAGQAZABpAG4AZwA6ACAAMABwAHgAOwANAAoAfQANAAoADQAKAGgAMQAgAGEAOgB2AGkAcwBpAHQAZQBkACwADQAKAGgAMQAgAGEAOgBhAGMAdABpAHYAZQAsAA0ACgBoADEAIABhADoAbABpAG4AawAgAHsADQAKAAkAYwBvAGwAbwByADoAIAAjADAAMAAwADAAMAAwADsADQAKAAkAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAMwBwAHQAOwANAAoACQB0AGUAeAB0AC0AZABlAGMAbwByAGEAdABpAG8AbgA6ACAAbgBvAG4AZQA7AA0ACgB9AA0ACgANAAoAaAAxACAAYQA6AGgAbwB2AGUAcgAgAHsADQAKAAkAYwBvAGwAbwByADoAIABTAGkAbAB2AGUAcgA7AA0ACgAJAHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAIABuAG8AbgBlADsADQAKAH0ADQAKAA0ACgAjAGIAbABvAGcAdABvAHAAYQBkAA0ACgB7AA0ACgAgACAAIAAgAHAAbwBzAGkAdABpAG8AbgA6AGEAYgBzAG8AbAB1AHQAZQA7AA0ACgAgACAAIAAgAHQAbwBwADoANQBwAHgAOwANAAoAIAAgACAAIABsAGUAZgB0ADoAMgA0ADAAcAB4ADsAIAANAAoAIAAgACAAIABmAGwAbwBhAHQAOgBsAGUAZgB0ADsADQAKAH0A
+
+------=_Next_Part_3530709186.169
+Content-Type: image/jpeg;
+	name="1770.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <1770.jpg>
+Content-Location: 1770.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAABAAEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooA//2Q==
+
+------=_Next_Part_3530709186.169
+Content-Type: image/gif;
+	name="xml.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <xml.gif>
+Content-Location: xml.gif
+
+R0lGODlhGgAKANUAAP+CLtyHTs9SBf9bAPjx6vns5LNWGPGugpQ7AMlhG/9tAPzCm+JhC/yzg+l1J/2rduGxkO3Tw/+aV/RcAP9tCd+QXPrp3fPVwfn///ySS/NkBP7hzeJdBf++kv/l0/ZUAP97Jf/Iov/9+e9jCvBpDuq4lviANN+ec+x/NONkD+/Zy//Xu/9wAv317vv5+PzMrOWnf/DBodusjf/Gn1wlAeG0lv13H/9fAP9pAP9gAP+FNKNHC/9iAP+xfv////9mACH5BAAAAAAALAAAAAAaAAoAAAaxwFlvSCwaj8NGADDI3QaDZxTapEpz2Bxvp+PxQJvFQOIxPTyZsedh22RuvziOy/vlGphGoSZY+C4jKz4QDj4VE3E/c12JL38CEzMFBTEbgw4ih4mLdT83HT4qHDwhESU+JwSEIgEfnZyeEi4lLgc3ISoOBwktNYUwJgAUinRfFnwLBCgdEQwfEy0yDi0FFhcOOYs4CiwUowokDBQjGgoK3jgUKevlLDsGCPHy8/T18jRBADs=
+
+------=_Next_Part_3530709186.169--
+
